@@ -5,6 +5,6 @@
 # nckh_project
 <br>
 anemia project for hcmut<br>
-contact me by [email](mailto:khang.phan2411@hcmut.edu.vn)
+contact me by <a herf='mailto:khang.phan2411@hcmut.edu.vn'>email</a>
 <br>
  <p align="right">Xin cảm ơn </p>
