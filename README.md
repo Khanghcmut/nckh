@@ -6,6 +6,6 @@
 <br>
 anemia project for hcmut<br>
 contact me by 
-<a herf='mailto:khang.phan2411@hcmut.edu.vn'>email</a>
+<p><a herf="mailto:khang.phan2411@hcmut.edu.vn">email</a></p>
 <br>
  <p align="right">Xin cảm ơn </p>
