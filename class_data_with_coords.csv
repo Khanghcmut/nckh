@@ -1,0 +1,190 @@
+,Unnamed: 0,location,periods,day_learn,time_learn,start_time,end_time,day_go_to_school,avg_learn_sub,visualize_time,latitude,longitude
+0,ANTH 012,silsby hall,"[{'day': 1, 'end': '12:20', 'start': '11:15'}, {'day': 3, 'end': '12:20', 'start': '11:15'}, {'day': 5, 'end': '12:20', 'start': '11:15'}, {'day': 2, 'end': '12:50', 'start': '12:00'}]","[1, 2, 3, 5]","[datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3900)
+ datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=40500) datetime.timedelta(seconds=40500)
+ datetime.timedelta(seconds=40500) datetime.timedelta(seconds=43200)]","[datetime.timedelta(seconds=44400) datetime.timedelta(seconds=44400)
+ datetime.timedelta(seconds=44400) datetime.timedelta(seconds=46200)]",4,3675.0,01:01:15,43.70559645,-72.29001688691153
+1,BIOL 004,silsby hall,"[{'day': 2, 'end': '11:50', 'start': '10:00'}, {'day': 4, 'end': '11:50', 'start': '10:00'}, {'day': 3, 'end': '15:50', 'start': '15:00'}]","[2, 3, 4]","[datetime.timedelta(seconds=6600) datetime.timedelta(seconds=6600)
+ datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=36000) datetime.timedelta(seconds=36000)
+ datetime.timedelta(seconds=54000)]","[datetime.timedelta(seconds=42600) datetime.timedelta(seconds=42600)
+ datetime.timedelta(seconds=57000)]",3,5400.0,01:30:00,43.70559645,-72.29001688691153
+2,BIOL 006,silsby hall,"[{'day': 2, 'end': '11:50', 'start': '10:00'}, {'day': 4, 'end': '11:50', 'start': '10:00'}, {'day': 3, 'end': '15:50', 'start': '15:00'}]","[2, 3, 4]","[datetime.timedelta(seconds=6600) datetime.timedelta(seconds=6600)
+ datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=36000) datetime.timedelta(seconds=36000)
+ datetime.timedelta(seconds=54000)]","[datetime.timedelta(seconds=42600) datetime.timedelta(seconds=42600)
+ datetime.timedelta(seconds=57000)]",3,5400.0,01:30:00,43.70559645,-72.29001688691153
+3,CHIN 033,"Reed Hall,NH","[{'day': 1, 'end': '09:50', 'start': '09:00'}, {'day': 2, 'end': '09:50', 'start': '09:00'}, {'day': 4, 'end': '09:50', 'start': '09:00'}, {'day': 5, 'end': '09:50', 'start': '09:00'}, {'day': 3, 'end': '09:50', 'start': '09:00'}]","[1, 2, 3, 4, 5]","[datetime.timedelta(seconds=3000) datetime.timedelta(seconds=3000)
+ datetime.timedelta(seconds=3000) datetime.timedelta(seconds=3000)
+ datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=32400) datetime.timedelta(seconds=32400)
+ datetime.timedelta(seconds=32400) datetime.timedelta(seconds=32400)
+ datetime.timedelta(seconds=32400)]","[datetime.timedelta(seconds=35400) datetime.timedelta(seconds=35400)
+ datetime.timedelta(seconds=35400) datetime.timedelta(seconds=35400)
+ datetime.timedelta(seconds=35400)]",5,3000.0,00:50:00,43.703140399999995,-72.28742019007194
+4,CHIN 062,"kemeny,NH","[{'day': 2, 'end': '17:50', 'start': '16:00'}, {'day': 4, 'end': '17:50', 'start': '16:00'}, {'day': 1, 'end': '17:50', 'start': '17:00'}]","[1, 2, 4]","[datetime.timedelta(seconds=6600) datetime.timedelta(seconds=6600)
+ datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=57600) datetime.timedelta(seconds=57600)
+ datetime.timedelta(seconds=61200)]","[datetime.timedelta(seconds=64200) datetime.timedelta(seconds=64200)
+ datetime.timedelta(seconds=64200)]",3,5400.0,01:30:00,43.7061441,-72.28853284489796
+5,COSC 007,"25 North Main Street, Hanover","[{'day': 1, 'end': '14:50', 'start': '13:45'}, {'day': 3, 'end': '14:50', 'start': '13:45'}, {'day': 5, 'end': '14:50', 'start': '13:45'}, {'day': 4, 'end': '13:50', 'start': '13:00'}]","[1, 3, 4, 5]","[datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3900)
+ datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=46800) datetime.timedelta(seconds=49500)
+ datetime.timedelta(seconds=49500) datetime.timedelta(seconds=49500)]","[datetime.timedelta(seconds=49800) datetime.timedelta(seconds=53400)
+ datetime.timedelta(seconds=53400) datetime.timedelta(seconds=53400)]",4,3675.0,01:01:15,43.7057229,-72.28862126359164
+6,COSC 020,"moore Psychology,NH","[{'day': 2, 'end': '15:50', 'start': '14:00'}, {'day': 4, 'end': '15:50', 'start': '14:00'}, {'day': 3, 'end': '17:05', 'start': '16:15'}]","[2, 3, 4]","[datetime.timedelta(seconds=6600) datetime.timedelta(seconds=6600)
+ datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=50400) datetime.timedelta(seconds=50400)
+ datetime.timedelta(seconds=58500)]","[datetime.timedelta(seconds=57000) datetime.timedelta(seconds=57000)
+ datetime.timedelta(seconds=61500)]",3,5400.0,01:30:00,43.70729995000001,-72.28787687583227
+7,COSC 027,sudikoff hall,"[{'day': 1, 'end': '16:50', 'start': '15:00'}, {'day': 1, 'end': '17:50', 'start': '17:00'}, {'day': 4, 'end': '17:50', 'start': '16:00'}]","[1, 1, 4]","[datetime.timedelta(seconds=6600) datetime.timedelta(seconds=3000)
+ datetime.timedelta(seconds=6600)]","[datetime.timedelta(seconds=54000) datetime.timedelta(seconds=57600)
+ datetime.timedelta(seconds=61200)]","[datetime.timedelta(seconds=60600) datetime.timedelta(seconds=64200)
+ datetime.timedelta(seconds=64200)]",3,5400.0,01:30:00,43.706687599999995,-72.28725802018641
+8,COSC 050,"kemeny,NH","[{'day': 1, 'end': '13:35', 'start': '12:30'}, {'day': 3, 'end': '13:35', 'start': '12:30'}, {'day': 5, 'end': '13:35', 'start': '12:30'}, {'day': 2, 'end': '13:50', 'start': '13:00'}]","[1, 2, 3, 5]","[datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3900)
+ datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=45000) datetime.timedelta(seconds=45000)
+ datetime.timedelta(seconds=45000) datetime.timedelta(seconds=46800)]","[datetime.timedelta(seconds=48900) datetime.timedelta(seconds=48900)
+ datetime.timedelta(seconds=48900) datetime.timedelta(seconds=49800)]",4,3675.0,01:01:15,43.7061441,-72.28853284489796
+9,COSC 057,sudikoff hall,"[{'day': 1, 'end': '14:50', 'start': '13:45'}, {'day': 3, 'end': '14:50', 'start': '13:45'}, {'day': 5, 'end': '14:50', 'start': '13:45'}, {'day': 4, 'end': '13:50', 'start': '13:00'}]","[1, 3, 4, 5]","[datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3900)
+ datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=46800) datetime.timedelta(seconds=49500)
+ datetime.timedelta(seconds=49500) datetime.timedelta(seconds=49500)]","[datetime.timedelta(seconds=49800) datetime.timedelta(seconds=53400)
+ datetime.timedelta(seconds=53400) datetime.timedelta(seconds=53400)]",4,3675.0,01:01:15,43.706687599999995,-72.28725802018641
+10,COSC 060,silsby hall,"[{'day': 1, 'end': '14:50', 'start': '13:45'}, {'day': 3, 'end': '14:50', 'start': '13:45'}, {'day': 5, 'end': '14:50', 'start': '13:45'}, {'day': 4, 'end': '13:50', 'start': '13:00'}]","[1, 3, 4, 5]","[datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3900)
+ datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=46800) datetime.timedelta(seconds=49500)
+ datetime.timedelta(seconds=49500) datetime.timedelta(seconds=49500)]","[datetime.timedelta(seconds=49800) datetime.timedelta(seconds=53400)
+ datetime.timedelta(seconds=53400) datetime.timedelta(seconds=53400)]",4,3675.0,01:01:15,43.70559645,-72.29001688691153
+11,COSC 065,silsby hall,"[{'day': 1, 'end': '11:05', 'start': '10:00'}, {'day': 3, 'end': '11:05', 'start': '10:00'}, {'day': 5, 'end': '11:05', 'start': '10:00'}, {'day': 4, 'end': '12:50', 'start': '12:00'}]","[1, 3, 4, 5]","[datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3900)
+ datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=36000) datetime.timedelta(seconds=36000)
+ datetime.timedelta(seconds=36000) datetime.timedelta(seconds=43200)]","[datetime.timedelta(seconds=39900) datetime.timedelta(seconds=39900)
+ datetime.timedelta(seconds=39900) datetime.timedelta(seconds=46200)]",4,3675.0,01:01:15,43.70559645,-72.29001688691153
+12,COSC 069,sudikoff hall,"[{'day': 2, 'end': '17:50', 'start': '16:00'}, {'day': 4, 'end': '17:50', 'start': '16:00'}, {'day': 1, 'end': '17:50', 'start': '17:00'}]","[1, 2, 4]","[datetime.timedelta(seconds=6600) datetime.timedelta(seconds=6600)
+ datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=57600) datetime.timedelta(seconds=57600)
+ datetime.timedelta(seconds=61200)]","[datetime.timedelta(seconds=64200) datetime.timedelta(seconds=64200)
+ datetime.timedelta(seconds=64200)]",3,5400.0,01:30:00,43.706687599999995,-72.28725802018641
+13,COSC 070,sudikoff hall,"[{'day': 2, 'end': '15:50', 'start': '14:00'}, {'day': 4, 'end': '15:50', 'start': '14:00'}, {'day': 3, 'end': '17:05', 'start': '16:15'}]","[2, 3, 4]","[datetime.timedelta(seconds=6600) datetime.timedelta(seconds=6600)
+ datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=50400) datetime.timedelta(seconds=50400)
+ datetime.timedelta(seconds=58500)]","[datetime.timedelta(seconds=57000) datetime.timedelta(seconds=57000)
+ datetime.timedelta(seconds=61500)]",3,5400.0,01:30:00,43.706687599999995,-72.28725802018641
+14,COSC 077,"steele hall,NH","[{'day': 2, 'end': '15:50', 'start': '14:00'}, {'day': 4, 'end': '15:50', 'start': '14:00'}, {'day': 3, 'end': '17:05', 'start': '16:15'}]","[2, 3, 4]","[datetime.timedelta(seconds=6600) datetime.timedelta(seconds=6600)
+ datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=50400) datetime.timedelta(seconds=50400)
+ datetime.timedelta(seconds=58500)]","[datetime.timedelta(seconds=57000) datetime.timedelta(seconds=57000)
+ datetime.timedelta(seconds=61500)]",3,5400.0,01:30:00,43.70569625,-72.28676493087504
+15,COSC 089 1,sudikoff hall,"[{'day': 1, 'end': '12:20', 'start': '11:15'}, {'day': 3, 'end': '12:20', 'start': '11:15'}, {'day': 5, 'end': '12:20', 'start': '11:15'}, {'day': 2, 'end': '12:50', 'start': '12:00'}]","[1, 2, 3, 5]","[datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3900)
+ datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=40500) datetime.timedelta(seconds=40500)
+ datetime.timedelta(seconds=40500) datetime.timedelta(seconds=43200)]","[datetime.timedelta(seconds=44400) datetime.timedelta(seconds=44400)
+ datetime.timedelta(seconds=44400) datetime.timedelta(seconds=46200)]",4,3675.0,01:01:15,43.706687599999995,-72.28725802018641
+16,COSC 089 2,sudikoff hall,"[{'day': 2, 'end': '15:50', 'start': '14:00'}, {'day': 4, 'end': '15:50', 'start': '14:00'}, {'day': 3, 'end': '17:05', 'start': '16:15'}]","[2, 3, 4]","[datetime.timedelta(seconds=6600) datetime.timedelta(seconds=6600)
+ datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=50400) datetime.timedelta(seconds=50400)
+ datetime.timedelta(seconds=58500)]","[datetime.timedelta(seconds=57000) datetime.timedelta(seconds=57000)
+ datetime.timedelta(seconds=61500)]",3,5400.0,01:30:00,43.706687599999995,-72.28725802018641
+17,COSC 089 3,sudikoff hall,"[{'day': 2, 'end': '11:50', 'start': '10:00'}, {'day': 4, 'end': '11:50', 'start': '10:00'}, {'day': 3, 'end': '15:50', 'start': '15:00'}]","[2, 3, 4]","[datetime.timedelta(seconds=6600) datetime.timedelta(seconds=6600)
+ datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=36000) datetime.timedelta(seconds=36000)
+ datetime.timedelta(seconds=54000)]","[datetime.timedelta(seconds=42600) datetime.timedelta(seconds=42600)
+ datetime.timedelta(seconds=57000)]",3,5400.0,01:30:00,43.706687599999995,-72.28725802018641
+18,EARS 003,silsby hall,"[{'day': 1, 'end': '12:20', 'start': '11:15'}, {'day': 3, 'end': '12:20', 'start': '11:15'}, {'day': 5, 'end': '12:20', 'start': '11:15'}, {'day': 2, 'end': '12:50', 'start': '12:00'}]","[1, 2, 3, 5]","[datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3900)
+ datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=40500) datetime.timedelta(seconds=40500)
+ datetime.timedelta(seconds=40500) datetime.timedelta(seconds=43200)]","[datetime.timedelta(seconds=44400) datetime.timedelta(seconds=44400)
+ datetime.timedelta(seconds=44400) datetime.timedelta(seconds=46200)]",4,3675.0,01:01:15,43.70559645,-72.29001688691153
+19,ECON 024,silsby hall,"[{'day': 1, 'end': '09:50', 'start': '08:45'}, {'day': 3, 'end': '09:50', 'start': '08:45'}, {'day': 5, 'end': '09:50', 'start': '08:45'}, {'day': 4, 'end': '09:50', 'start': '09:00'}]","[1, 3, 4, 5]","[datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3900)
+ datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=31500) datetime.timedelta(seconds=31500)
+ datetime.timedelta(seconds=31500) datetime.timedelta(seconds=32400)]","[datetime.timedelta(seconds=35400) datetime.timedelta(seconds=35400)
+ datetime.timedelta(seconds=35400) datetime.timedelta(seconds=35400)]",4,3675.0,01:01:15,43.70559645,-72.29001688691153
+20,ECON 036,"kemeny,NH","[{'day': 1, 'end': '09:50', 'start': '08:45'}, {'day': 3, 'end': '09:50', 'start': '08:45'}, {'day': 5, 'end': '09:50', 'start': '08:45'}, {'day': 4, 'end': '09:50', 'start': '09:00'}]","[1, 3, 4, 5]","[datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3900)
+ datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=31500) datetime.timedelta(seconds=31500)
+ datetime.timedelta(seconds=31500) datetime.timedelta(seconds=32400)]","[datetime.timedelta(seconds=35400) datetime.timedelta(seconds=35400)
+ datetime.timedelta(seconds=35400) datetime.timedelta(seconds=35400)]",4,3675.0,01:01:15,43.7061441,-72.28853284489796
+21,ENGL 028,silsby hall,"[{'day': 1, 'end': '09:50', 'start': '08:45'}, {'day': 3, 'end': '09:50', 'start': '08:45'}, {'day': 5, 'end': '09:50', 'start': '08:45'}, {'day': 4, 'end': '09:50', 'start': '09:00'}]","[1, 3, 4, 5]","[datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3900)
+ datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=31500) datetime.timedelta(seconds=31500)
+ datetime.timedelta(seconds=31500) datetime.timedelta(seconds=32400)]","[datetime.timedelta(seconds=35400) datetime.timedelta(seconds=35400)
+ datetime.timedelta(seconds=35400) datetime.timedelta(seconds=35400)]",4,3675.0,01:01:15,43.70559645,-72.29001688691153
+22,ENGL 047,,"[{'day': 1, 'end': '12:20', 'start': '11:15'}, {'day': 3, 'end': '12:20', 'start': '11:15'}, {'day': 5, 'end': '12:20', 'start': '11:15'}, {'day': 2, 'end': '12:50', 'start': '12:00'}]","[1, 2, 3, 5]","[datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3900)
+ datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=40500) datetime.timedelta(seconds=40500)
+ datetime.timedelta(seconds=40500) datetime.timedelta(seconds=43200)]","[datetime.timedelta(seconds=44400) datetime.timedelta(seconds=44400)
+ datetime.timedelta(seconds=44400) datetime.timedelta(seconds=46200)]",4,3675.0,01:01:15,44.933143,7.540121
+23,ENGL 067,,"[{'day': 2, 'end': '15:50', 'start': '14:00'}, {'day': 4, 'end': '15:50', 'start': '14:00'}, {'day': 3, 'end': '17:05', 'start': '16:15'}]","[2, 3, 4]","[datetime.timedelta(seconds=6600) datetime.timedelta(seconds=6600)
+ datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=50400) datetime.timedelta(seconds=50400)
+ datetime.timedelta(seconds=58500)]","[datetime.timedelta(seconds=57000) datetime.timedelta(seconds=57000)
+ datetime.timedelta(seconds=61500)]",3,5400.0,01:30:00,44.933143,7.540121
+24,ENGS 022,,"[{'day': 1, 'end': '09:50', 'start': '08:45'}, {'day': 3, 'end': '09:50', 'start': '08:45'}, {'day': 5, 'end': '09:50', 'start': '08:45'}, {'day': 4, 'end': '09:50', 'start': '09:00'}]","[1, 3, 4, 5]","[datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3900)
+ datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=31500) datetime.timedelta(seconds=31500)
+ datetime.timedelta(seconds=31500) datetime.timedelta(seconds=32400)]","[datetime.timedelta(seconds=35400) datetime.timedelta(seconds=35400)
+ datetime.timedelta(seconds=35400) datetime.timedelta(seconds=35400)]",4,3675.0,01:01:15,44.933143,7.540121
+25,ENGS 025,,"[{'day': 1, 'end': '14:50', 'start': '13:45'}, {'day': 3, 'end': '14:50', 'start': '13:45'}, {'day': 5, 'end': '14:50', 'start': '13:45'}, {'day': 4, 'end': '13:50', 'start': '13:00'}]","[1, 3, 4, 5]","[datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3900)
+ datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=46800) datetime.timedelta(seconds=49500)
+ datetime.timedelta(seconds=49500) datetime.timedelta(seconds=49500)]","[datetime.timedelta(seconds=49800) datetime.timedelta(seconds=53400)
+ datetime.timedelta(seconds=53400) datetime.timedelta(seconds=53400)]",4,3675.0,01:01:15,44.933143,7.540121
+26,ENGS 069,silsby hall,"[{'day': 1, 'end': '11:05', 'start': '10:00'}, {'day': 3, 'end': '11:05', 'start': '10:00'}, {'day': 5, 'end': '11:05', 'start': '10:00'}, {'day': 4, 'end': '12:50', 'start': '12:00'}]","[1, 3, 4, 5]","[datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3900)
+ datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=36000) datetime.timedelta(seconds=36000)
+ datetime.timedelta(seconds=36000) datetime.timedelta(seconds=43200)]","[datetime.timedelta(seconds=39900) datetime.timedelta(seconds=39900)
+ datetime.timedelta(seconds=39900) datetime.timedelta(seconds=46200)]",4,3675.0,01:01:15,43.70559645,-72.29001688691153
+27,ENGS 093,"maclean center,nh","[{'day': 1, 'end': '13:35', 'start': '12:30'}, {'day': 3, 'end': '13:35', 'start': '12:30'}, {'day': 5, 'end': '13:35', 'start': '12:30'}, {'day': 2, 'end': '13:50', 'start': '13:00'}]","[1, 2, 3, 5]","[datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3900)
+ datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=45000) datetime.timedelta(seconds=45000)
+ datetime.timedelta(seconds=45000) datetime.timedelta(seconds=46800)]","[datetime.timedelta(seconds=48900) datetime.timedelta(seconds=48900)
+ datetime.timedelta(seconds=48900) datetime.timedelta(seconds=49800)]",4,3675.0,01:01:15,43.7042595,-72.29486140748196
+28,FILM 051,Black Family Visual Arts Center,"[{'day': 2, 'end': '11:50', 'start': '10:00'}, {'day': 4, 'end': '11:50', 'start': '10:00'}, {'day': 3, 'end': '15:50', 'start': '15:00'}]","[2, 3, 4]","[datetime.timedelta(seconds=6600) datetime.timedelta(seconds=6600)
+ datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=36000) datetime.timedelta(seconds=36000)
+ datetime.timedelta(seconds=54000)]","[datetime.timedelta(seconds=42600) datetime.timedelta(seconds=42600)
+ datetime.timedelta(seconds=57000)]",3,5400.0,01:30:00,43.70138540000001,-72.28684265125855
+29,GERM 001,,"[{'day': 1, 'end': '09:50', 'start': '09:00'}, {'day': 2, 'end': '09:50', 'start': '09:00'}, {'day': 4, 'end': '09:50', 'start': '09:00'}, {'day': 5, 'end': '09:50', 'start': '09:00'}, {'day': 3, 'end': '09:50', 'start': '09:00'}]","[1, 2, 3, 4, 5]","[datetime.timedelta(seconds=3000) datetime.timedelta(seconds=3000)
+ datetime.timedelta(seconds=3000) datetime.timedelta(seconds=3000)
+ datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=32400) datetime.timedelta(seconds=32400)
+ datetime.timedelta(seconds=32400) datetime.timedelta(seconds=32400)
+ datetime.timedelta(seconds=32400)]","[datetime.timedelta(seconds=35400) datetime.timedelta(seconds=35400)
+ datetime.timedelta(seconds=35400) datetime.timedelta(seconds=35400)
+ datetime.timedelta(seconds=35400)]",5,3000.0,00:50:00,44.933143,7.540121
+30,HIST 051,,"[{'day': 1, 'end': '13:35', 'start': '12:30'}, {'day': 3, 'end': '13:35', 'start': '12:30'}, {'day': 5, 'end': '13:35', 'start': '12:30'}, {'day': 2, 'end': '13:50', 'start': '13:00'}]","[1, 2, 3, 5]","[datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3900)
+ datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=45000) datetime.timedelta(seconds=45000)
+ datetime.timedelta(seconds=45000) datetime.timedelta(seconds=46800)]","[datetime.timedelta(seconds=48900) datetime.timedelta(seconds=48900)
+ datetime.timedelta(seconds=48900) datetime.timedelta(seconds=49800)]",4,3675.0,01:01:15,44.933143,7.540121
+31,JAPN 033,"Dartmouth Park, Hanover, N.H","[{'day': 1, 'end': '12:20', 'start': '11:15'}, {'day': 3, 'end': '12:20', 'start': '11:15'}, {'day': 5, 'end': '12:20', 'start': '11:15'}, {'day': 2, 'end': '12:50', 'start': '12:00'}]","[1, 2, 3, 5]","[datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3900)
+ datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=40500) datetime.timedelta(seconds=40500)
+ datetime.timedelta(seconds=40500) datetime.timedelta(seconds=43200)]","[datetime.timedelta(seconds=44400) datetime.timedelta(seconds=44400)
+ datetime.timedelta(seconds=44400) datetime.timedelta(seconds=46200)]",4,3675.0,01:01:15,43.7033798,-72.28860224553567
+32,LAT 003,"Reed Hall,NH","[{'day': 1, 'end': '09:50', 'start': '08:45'}, {'day': 3, 'end': '09:50', 'start': '08:45'}, {'day': 5, 'end': '09:50', 'start': '08:45'}, {'day': 4, 'end': '09:50', 'start': '09:00'}]","[1, 3, 4, 5]","[datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3900)
+ datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=31500) datetime.timedelta(seconds=31500)
+ datetime.timedelta(seconds=31500) datetime.timedelta(seconds=32400)]","[datetime.timedelta(seconds=35400) datetime.timedelta(seconds=35400)
+ datetime.timedelta(seconds=35400) datetime.timedelta(seconds=35400)]",4,3675.0,01:01:15,43.703140399999995,-72.28742019007194
+33,M&SS 045,"kemeny,NH","[{'day': 1, 'end': '09:50', 'start': '08:45'}, {'day': 3, 'end': '09:50', 'start': '08:45'}, {'day': 5, 'end': '09:50', 'start': '08:45'}, {'day': 4, 'end': '09:50', 'start': '09:00'}]","[1, 3, 4, 5]","[datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3900)
+ datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=31500) datetime.timedelta(seconds=31500)
+ datetime.timedelta(seconds=31500) datetime.timedelta(seconds=32400)]","[datetime.timedelta(seconds=35400) datetime.timedelta(seconds=35400)
+ datetime.timedelta(seconds=35400) datetime.timedelta(seconds=35400)]",4,3675.0,01:01:15,43.7061441,-72.28853284489796
+34,MATH 013,"kemeny,NH","[{'day': 1, 'end': '13:35', 'start': '12:30'}, {'day': 3, 'end': '13:35', 'start': '12:30'}, {'day': 5, 'end': '13:35', 'start': '12:30'}, {'day': 2, 'end': '13:50', 'start': '13:00'}]","[1, 2, 3, 5]","[datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3900)
+ datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=45000) datetime.timedelta(seconds=45000)
+ datetime.timedelta(seconds=45000) datetime.timedelta(seconds=46800)]","[datetime.timedelta(seconds=48900) datetime.timedelta(seconds=48900)
+ datetime.timedelta(seconds=48900) datetime.timedelta(seconds=49800)]",4,3675.0,01:01:15,43.7061441,-72.28853284489796
+35,MATH 022,"kemeny,NH","[{'day': 1, 'end': '12:20', 'start': '11:15'}, {'day': 3, 'end': '12:20', 'start': '11:15'}, {'day': 5, 'end': '12:20', 'start': '11:15'}, {'day': 2, 'end': '12:50', 'start': '12:00'}]","[1, 2, 3, 5]","[datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3900)
+ datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=40500) datetime.timedelta(seconds=40500)
+ datetime.timedelta(seconds=40500) datetime.timedelta(seconds=43200)]","[datetime.timedelta(seconds=44400) datetime.timedelta(seconds=44400)
+ datetime.timedelta(seconds=44400) datetime.timedelta(seconds=46200)]",4,3675.0,01:01:15,43.7061441,-72.28853284489796
+36,MATH 023,"kemeny,NH","[{'day': 1, 'end': '12:20', 'start': '11:15'}, {'day': 3, 'end': '12:20', 'start': '11:15'}, {'day': 5, 'end': '12:20', 'start': '11:15'}, {'day': 2, 'end': '12:50', 'start': '12:00'}]","[1, 2, 3, 5]","[datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3900)
+ datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=40500) datetime.timedelta(seconds=40500)
+ datetime.timedelta(seconds=40500) datetime.timedelta(seconds=43200)]","[datetime.timedelta(seconds=44400) datetime.timedelta(seconds=44400)
+ datetime.timedelta(seconds=44400) datetime.timedelta(seconds=46200)]",4,3675.0,01:01:15,43.7061441,-72.28853284489796
+37,MUS 003,"hopkins center,nh","[{'day': 2, 'end': '15:50', 'start': '14:00'}, {'day': 4, 'end': '15:50', 'start': '14:00'}, {'day': 3, 'end': '17:05', 'start': '16:15'}]","[2, 3, 4]","[datetime.timedelta(seconds=6600) datetime.timedelta(seconds=6600)
+ datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=50400) datetime.timedelta(seconds=50400)
+ datetime.timedelta(seconds=58500)]","[datetime.timedelta(seconds=57000) datetime.timedelta(seconds=57000)
+ datetime.timedelta(seconds=61500)]",3,5400.0,01:30:00,43.70163225,-72.28821589800214
+38,MUS 016,"hopkins center,nh","[{'day': 2, 'end': '11:50', 'start': '10:00'}, {'day': 4, 'end': '11:50', 'start': '10:00'}, {'day': 3, 'end': '15:50', 'start': '15:00'}]","[2, 3, 4]","[datetime.timedelta(seconds=6600) datetime.timedelta(seconds=6600)
+ datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=36000) datetime.timedelta(seconds=36000)
+ datetime.timedelta(seconds=54000)]","[datetime.timedelta(seconds=42600) datetime.timedelta(seconds=42600)
+ datetime.timedelta(seconds=57000)]",3,5400.0,01:30:00,43.70163225,-72.28821589800214
+39,NAS 008,"moore Psychology,NH","[{'day': 1, 'end': '13:35', 'start': '12:30'}, {'day': 3, 'end': '13:35', 'start': '12:30'}, {'day': 5, 'end': '13:35', 'start': '12:30'}, {'day': 2, 'end': '13:50', 'start': '13:00'}]","[1, 2, 3, 5]","[datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3900)
+ datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=45000) datetime.timedelta(seconds=45000)
+ datetime.timedelta(seconds=45000) datetime.timedelta(seconds=46800)]","[datetime.timedelta(seconds=48900) datetime.timedelta(seconds=48900)
+ datetime.timedelta(seconds=48900) datetime.timedelta(seconds=49800)]",4,3675.0,01:01:15,43.70729995000001,-72.28787687583227
+40,NAS 035,carpenter hall,"[{'day': 1, 'end': '12:20', 'start': '11:15'}, {'day': 3, 'end': '12:20', 'start': '11:15'}, {'day': 5, 'end': '12:20', 'start': '11:15'}, {'day': 2, 'end': '12:50', 'start': '12:00'}]","[1, 2, 3, 5]","[datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3900)
+ datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=40500) datetime.timedelta(seconds=40500)
+ datetime.timedelta(seconds=40500) datetime.timedelta(seconds=43200)]","[datetime.timedelta(seconds=44400) datetime.timedelta(seconds=44400)
+ datetime.timedelta(seconds=44400) datetime.timedelta(seconds=46200)]",4,3675.0,01:01:15,39.16216845,-75.52833527246952
+41,PSYC 028,"moore Psychology,NH","[{'day': 1, 'end': '14:50', 'start': '13:45'}, {'day': 3, 'end': '14:50', 'start': '13:45'}, {'day': 5, 'end': '14:50', 'start': '13:45'}, {'day': 4, 'end': '13:50', 'start': '13:00'}]","[1, 3, 4, 5]","[datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3900)
+ datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=46800) datetime.timedelta(seconds=49500)
+ datetime.timedelta(seconds=49500) datetime.timedelta(seconds=49500)]","[datetime.timedelta(seconds=49800) datetime.timedelta(seconds=53400)
+ datetime.timedelta(seconds=53400) datetime.timedelta(seconds=53400)]",4,3675.0,01:01:15,43.70729995000001,-72.28787687583227
+42,REL 018,,"[{'day': 1, 'end': '14:50', 'start': '13:45'}, {'day': 3, 'end': '14:50', 'start': '13:45'}, {'day': 5, 'end': '14:50', 'start': '13:45'}, {'day': 4, 'end': '13:50', 'start': '13:00'}]","[1, 3, 4, 5]","[datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3900)
+ datetime.timedelta(seconds=3900) datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=46800) datetime.timedelta(seconds=49500)
+ datetime.timedelta(seconds=49500) datetime.timedelta(seconds=49500)]","[datetime.timedelta(seconds=49800) datetime.timedelta(seconds=53400)
+ datetime.timedelta(seconds=53400) datetime.timedelta(seconds=53400)]",4,3675.0,01:01:15,44.933143,7.540121
+43,SPAN 003,,"[{'day': 1, 'end': '09:50', 'start': '09:00'}, {'day': 2, 'end': '09:50', 'start': '09:00'}, {'day': 4, 'end': '09:50', 'start': '09:00'}, {'day': 5, 'end': '09:50', 'start': '09:00'}, {'day': 3, 'end': '09:50', 'start': '09:00'}]","[1, 2, 3, 4, 5]","[datetime.timedelta(seconds=3000) datetime.timedelta(seconds=3000)
+ datetime.timedelta(seconds=3000) datetime.timedelta(seconds=3000)
+ datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=32400) datetime.timedelta(seconds=32400)
+ datetime.timedelta(seconds=32400) datetime.timedelta(seconds=32400)
+ datetime.timedelta(seconds=32400)]","[datetime.timedelta(seconds=35400) datetime.timedelta(seconds=35400)
+ datetime.timedelta(seconds=35400) datetime.timedelta(seconds=35400)
+ datetime.timedelta(seconds=35400)]",5,3000.0,00:50:00,44.933143,7.540121
+44,TUCK 003,,"[{'day': 2, 'end': '15:50', 'start': '14:00'}, {'day': 4, 'end': '15:50', 'start': '14:00'}, {'day': 3, 'end': '17:05', 'start': '16:15'}]","[2, 3, 4]","[datetime.timedelta(seconds=6600) datetime.timedelta(seconds=6600)
+ datetime.timedelta(seconds=3000)]","[datetime.timedelta(seconds=50400) datetime.timedelta(seconds=50400)
+ datetime.timedelta(seconds=58500)]","[datetime.timedelta(seconds=57000) datetime.timedelta(seconds=57000)
+ datetime.timedelta(seconds=61500)]",3,5400.0,01:30:00,44.933143,7.540121
