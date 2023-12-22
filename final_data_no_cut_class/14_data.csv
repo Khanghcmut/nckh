@@ -1,49 +1,49 @@
-date,home_time,school_time,travel_time,orthers,recreational_activities,working,date_in_week,volunteer
-01:05:2013 ,600.0,8405.0,38997.0,0.0,0.0,0.0,2,14
-02:04:2013 ,237600.0,0.0,0.0,0.0,0.0,0.0,1,14
-02:05:2013 ,0.0,300370.0,0.0,0.0,0.0,0.0,3,14
-04:04:2013 ,0.0,6000.0,0.0,0.0,0.0,0.0,3,14
-05:04:2013 ,0.0,114000.0,0.0,0.0,0.0,0.0,4,14
-05:05:2013 ,80887.0,0.0,0.0,0.0,0.0,0.0,-1,14
-06:04:2013 ,0.0,0.0,318003.0,0.0,0.0,0.0,5,14
-06:05:2013 ,12600.0,0.0,41769.0,0.0,0.0,0.0,0,14
-07:05:2013 ,1800.0,326629.0,0.0,0.0,0.0,0.0,1,14
-10:04:2013 ,46797.0,54001.0,0.0,0.0,0.0,0.0,2,14
-10:05:2013 ,4803.0,26398.0,0.0,0.0,0.0,0.0,4,14
-11:04:2013 ,31199.0,14400.0,43200.0,0.0,0.0,0.0,3,14
-11:05:2013 ,43293.0,11699.0,18200.0,0.0,0.0,0.0,5,14
-12:04:2013 ,2400.0,183926.0,0.0,0.0,0.0,0.0,4,14
-12:05:2013 ,57585.0,43754.0,17987.0,0.0,0.0,0.0,-1,14
-13:05:2013 ,15600.0,0.0,32401.0,0.0,0.0,0.0,0,14
-14:04:2013 ,12000.0,54000.0,34800.0,0.0,0.0,0.0,-1,14
-14:05:2013 ,15600.0,10800.0,27000.0,34800.0,0.0,0.0,1,14
-15:04:2013 ,121200.0,0.0,0.0,0.0,0.0,0.0,0,14
-15:05:2013 ,7199.0,151128.0,0.0,3600.0,0.0,0.0,2,14
-16:04:2013 ,0.0,0.0,48003.0,0.0,0.0,0.0,1,14
-16:05:2013 ,0.0,14407.0,0.0,0.0,0.0,0.0,3,14
-17:04:2013 ,24342.0,28800.0,9600.0,0.0,0.0,0.0,2,14
-17:05:2013 ,24599.0,50401.0,3599.0,1801.0,0.0,0.0,4,14
-18:04:2013 ,1203.0,62929.0,3579.0,0.0,0.0,0.0,3,14
-18:05:2013 ,1200.0,22200.0,65400.0,0.0,0.0,0.0,5,14
-19:04:2013 ,58800.0,37200.0,23997.0,10800.0,0.0,0.0,4,14
-19:05:2013 ,0.0,119400.0,20399.0,57066.0,0.0,0.0,-1,14
-20:04:2013 ,72000.0,0.0,15600.0,0.0,0.0,0.0,5,14
-21:04:2013 ,38259.0,0.0,43200.0,0.0,0.0,0.0,-1,14
-21:05:2013 ,0.0,19525.0,43200.0,2400.0,0.0,0.0,1,14
-22:04:2013 ,9638.0,86419.0,33543.0,0.0,0.0,0.0,0,14
-22:05:2013 ,0.0,92970.0,0.0,0.0,0.0,0.0,2,14
-23:04:2013 ,0.0,18000.0,0.0,0.0,0.0,0.0,1,14
-23:05:2013 ,0.0,114005.0,46794.0,0.0,0.0,0.0,3,14
-24:04:2013 ,42816.0,43207.0,0.0,2400.0,0.0,0.0,2,14
-24:05:2013 ,0.0,0.0,2405.0,0.0,0.0,0.0,4,14
-25:04:2013 ,25200.0,3600.0,37579.0,3597.0,0.0,0.0,3,14
-25:05:2013 ,0.0,32893.0,7803.0,0.0,1195.0,42936.0,5,14
-26:04:2013 ,15599.0,52800.0,37201.0,0.0,0.0,0.0,4,14
-26:05:2013 ,0.0,0.0,85251.0,1797.0,0.0,0.0,-1,14
-27:04:2013 ,59144.0,25200.0,2399.0,0.0,0.0,0.0,5,14
-27:05:2013 ,0.0,102601.0,0.0,0.0,0.0,0.0,0,14
-28:04:2013 ,4640.0,23954.0,40963.0,0.0,0.0,0.0,-1,14
-28:05:2013 ,0.0,72960.0,0.0,0.0,0.0,0.0,1,14
-29:04:2013 ,4199.0,40198.0,164867.0,0.0,0.0,0.0,0,14
-29:05:2013 ,0.0,108469.0,0.0,0.0,0.0,0.0,2,14
-30:05:2013 ,10200.0,0.0,0.0,4799.0,0.0,0.0,3,14
+date,home_time,school_time,travel_time,orthers,recreational_activities,working,date_in_week,volunteer,location_names
+01:05:2013,600.0,8405.0,38997.0,0.0,0.0,0.0,2,14,"Anonymous Hall,Vail Dartmouth Medical School,North Main Street,North Main Street,Life Sciences Greenhouse,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall"
+02:04:2013,237600.0,0.0,0.0,0.0,0.0,0.0,1,14,Dartmouth College
+02:05:2013,0.0,300370.0,0.0,0.0,0.0,0.0,3,14,Sudikoff Hall
+04:04:2013,0.0,6000.0,0.0,0.0,0.0,0.0,3,14,"Sudikoff Hall,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center"
+05:04:2013,0.0,114000.0,0.0,0.0,0.0,0.0,4,14,"Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall"
+05:05:2013,80887.0,0.0,0.0,0.0,0.0,0.0,-1,14,0
+06:04:2013,0.0,0.0,318003.0,0.0,0.0,0.0,5,14,0
+06:05:2013,12600.0,0.0,41769.0,0.0,0.0,0.0,0,14,"North Main Street,North Main Street,Life Sciences Greenhouse,0"
+07:05:2013,1800.0,326629.0,0.0,0.0,0.0,0.0,1,14,"0,0,Sudikoff Hall,Sudikoff Hall"
+10:04:2013,46797.0,54001.0,0.0,0.0,0.0,0.0,2,14,"Dartmouth College,Sudikoff Hall,0,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall"
+10:05:2013,4803.0,26398.0,0.0,0.0,0.0,0.0,4,14,"0,Life Sciences Greenhouse,Life Sciences Greenhouse,Vail,Life Sciences Greenhouse,Life Sciences Greenhouse,Sudikoff Hall"
+11:04:2013,31199.0,14400.0,43200.0,0.0,0.0,0.0,3,14,"Dartmouth College,Dartmouth College,Sudikoff Hall,0,North Main Street"
+11:05:2013,43293.0,11699.0,18200.0,0.0,0.0,0.0,5,14,"Anonymous Hall,North Main Street,0,North Main Street,North Main Street,0,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,Sudikoff Hall,Sudikoff Hall,0,0"
+12:04:2013,2400.0,183926.0,0.0,0.0,0.0,0.0,4,14,"Sudikoff Hall,Sudikoff Hall,Life Sciences Greenhouse,Dartmouth College,Sudikoff Hall"
+12:05:2013,57585.0,43754.0,17987.0,0.0,0.0,0.0,-1,14,"Sudikoff Hall,Sudikoff Hall,Dartmouth College,Dartmouth College,Sudikoff Hall,North Main Street,North Main Street,0,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,0,North Main Street,0,0"
+13:05:2013,15600.0,0.0,32401.0,0.0,0.0,0.0,0,14,"0,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,Hayden Court Southbound,North Main Street,0,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,Dewey Parking Lot"
+14:04:2013,12000.0,54000.0,34800.0,0.0,0.0,0.0,-1,14,"0,North Main Street,North Main Street,0,0,North Main Street,Sudikoff Hall"
+14:05:2013,15600.0,10800.0,27000.0,34800.0,0.0,0.0,1,14,"Dartmouth-Hitchcock Women's Health Resource Center,0,North Main Street,North Main Street,0,0,North Main Street,North Main Street,0,0,North Main Street,0,North Main Street,North Main Street,North Main Street,0,North Main Street,North Main Street,0,0,North Main Street,North Main Street,0,North Main Street,Sudikoff Hall"
+15:04:2013,121200.0,0.0,0.0,0.0,0.0,0.0,0,14,0
+15:05:2013,7199.0,151128.0,0.0,3600.0,0.0,0.0,2,14,"Irving,0,Sudikoff Hall,Dartmouth College,Dartmouth College,Sudikoff Hall,Sudikoff Hall,Dartmouth College,Dartmouth College,Sudikoff Hall"
+16:04:2013,0.0,0.0,48003.0,0.0,0.0,0.0,1,14,"Dewey Parking Lot,North Main Street,North Main Street"
+16:05:2013,0.0,14407.0,0.0,0.0,0.0,0.0,3,14,Sudikoff Hall
+17:04:2013,24342.0,28800.0,9600.0,0.0,0.0,0.0,2,14,"0,North Main Street,0,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall"
+17:05:2013,24599.0,50401.0,3599.0,1801.0,0.0,0.0,4,14,"0,Hannaford,0,0,North Main Street,North Main Street,Sudikoff Hall,Dartmouth College,Dartmouth College,Dartmouth College,Sudikoff Hall,Dartmouth College,Dartmouth College"
+18:04:2013,1203.0,62929.0,3579.0,0.0,0.0,0.0,3,14,"Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,North Main Street,Life Sciences Greenhouse"
+18:05:2013,1200.0,22200.0,65400.0,0.0,0.0,0.0,5,14,"Dartmouth College,Sudikoff Hall,Dewey Parking Lot,Bridge Street,North Main Street"
+19:04:2013,58800.0,37200.0,23997.0,10800.0,0.0,0.0,4,14,"0,0,Steele Hall,Steele Hall,Sudikoff Hall,0,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,0,0,0"
+19:05:2013,0.0,119400.0,20399.0,57066.0,0.0,0.0,-1,14,"North Main Street,Pregnancy Center of the Upper Valley,North Main Street,G Lot Parking,Sudikoff Hall"
+20:04:2013,72000.0,0.0,15600.0,0.0,0.0,0.0,5,14,"0,North Main Street,0,North Main Street,North Main Street,0,0,North Main Street,North Main Street,North Main Street,North Main Street,0,0,North Main Street,0,North Main Street,North Main Street,North Main Street,0"
+21:04:2013,38259.0,0.0,43200.0,0.0,0.0,0.0,-1,14,"North Main Street,0,0,0,0,North Main Street"
+21:05:2013,0.0,19525.0,43200.0,2400.0,0.0,0.0,1,14,"Hannaford,Hannaford,0,0,Sudikoff Hall"
+22:04:2013,9638.0,86419.0,33543.0,0.0,0.0,0.0,0,14,"0,0,North Main Street,0,North Main Street,North Main Street,Dartmouth College,Sudikoff Hall"
+22:05:2013,0.0,92970.0,0.0,0.0,0.0,0.0,2,14,"Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall"
+23:04:2013,0.0,18000.0,0.0,0.0,0.0,0.0,1,14,"Sudikoff Hall,Sudikoff Hall"
+23:05:2013,0.0,114005.0,46794.0,0.0,0.0,0.0,3,14,"Steele Hall,Steele Hall,Sudikoff Hall,Dewey Parking Lot,Sudikoff Hall"
+24:04:2013,42816.0,43207.0,0.0,2400.0,0.0,0.0,2,14,"0,Sudikoff Hall,Hanover High School,0,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall"
+24:05:2013,0.0,0.0,2405.0,0.0,0.0,0.0,4,14,0
+25:04:2013,25200.0,3600.0,37579.0,3597.0,0.0,0.0,3,14,"0,0,Sudikoff Hall,Sudikoff Hall,0,North Main Street,0,0,0,North Main Street,0,North Main Street,North Main Street,0,North Main Street,Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse"
+25:05:2013,0.0,32893.0,7803.0,0.0,1195.0,42936.0,5,14,"Sandri,0,0,Sudikoff Hall,Hanover Veterinary Clinic,0,0"
+26:04:2013,15599.0,52800.0,37201.0,0.0,0.0,0.0,4,14,"Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,North Main Street,0,0,North Main Street,North Main Street,0,North Main Street,0,0,North Main Street,North Main Street,Dartmouth College,Sudikoff Hall"
+26:05:2013,0.0,0.0,85251.0,1797.0,0.0,0.0,-1,14,"0,North Main Street"
+27:04:2013,59144.0,25200.0,2399.0,0.0,0.0,0.0,5,14,"Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,0,North Main Street,0"
+27:05:2013,0.0,102601.0,0.0,0.0,0.0,0.0,0,14,Sudikoff Hall
+28:04:2013,4640.0,23954.0,40963.0,0.0,0.0,0.0,-1,14,"Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,0,North Main Street,0,North Main Street,0,North Main Street,North Main Street,North Main Street,0,North Main Street,North Main Street,North Main Street,0,North Main Street,North Main Street,0,North Main Street,North Main Street,0,North Main Street,0,0,North Main Street,North Main Street,North Main Street,0,North Main Street,0,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,0,North Main Street,North Main Street,North Main Street,North Main Street"
+28:05:2013,0.0,72960.0,0.0,0.0,0.0,0.0,1,14,"Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall"
+29:04:2013,4199.0,40198.0,164867.0,0.0,0.0,0.0,0,14,"0,0,Sudikoff Hall,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street"
+29:05:2013,0.0,108469.0,0.0,0.0,0.0,0.0,2,14,"Sudikoff Hall,Sudikoff Hall,Class of 1978 Life Sciences Center,Sudikoff Hall"
+30:05:2013,10200.0,0.0,0.0,4799.0,0.0,0.0,3,14,"Martha E. Diebold Real Estate,0,0"

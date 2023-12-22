@@ -1,62 +1,62 @@
-date,home_time,school_time,travel_time,recreational_activities,working,shopping,orthers,date_in_week,cut_class,class_schedule,volunteer
-01:04:2013 ,9599.0,7200.0,0.0,0.0,0.0,0.0,0.0,0,1.0,11700.0,6
-01:05:2013 ,67201.0,0.0,3599.0,0.0,0.0,0.0,0.0,2,1.0,11700.0,6
-02:04:2013 ,73199.0,4800.0,0.0,6001.0,0.0,0.0,0.0,1,0.0,3900.0,6
-02:05:2013 ,151200.0,7200.0,0.0,0.0,0.0,0.0,0.0,3,1.0,7800.0,6
-03:04:2013 ,79202.0,1200.0,7198.0,0.0,0.0,0.0,0.0,2,1.0,11700.0,6
-03:05:2013 ,13200.0,0.0,0.0,0.0,0.0,0.0,0.0,4,1.0,9000.0,6
-04:04:2013 ,32399.0,10801.0,33600.0,8400.0,0.0,0.0,0.0,3,0.0,7800.0,6
-04:05:2013 ,100800.0,6000.0,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,6
-05:04:2013 ,77997.0,4802.0,0.0,4801.0,0.0,0.0,0.0,4,1.0,9000.0,6
-05:05:2013 ,82202.0,0.0,0.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,6
-06:04:2013 ,60001.0,20400.0,0.0,15599.0,0.0,0.0,0.0,5,0.0,0.0,6
-06:05:2013 ,64798.0,601.0,0.0,4199.0,0.0,0.0,0.0,0,1.0,11700.0,6
-07:04:2013 ,73198.0,0.0,0.0,2402.0,0.0,0.0,0.0,-1,0.0,0.0,6
-07:05:2013 ,152292.0,3603.0,0.0,0.0,0.0,0.0,0.0,1,1.0,3900.0,6
-08:04:2013 ,82798.0,4802.0,1200.0,0.0,0.0,0.0,0.0,0,1.0,11700.0,6
-08:05:2013 ,13200.0,3600.0,0.0,0.0,0.0,0.0,0.0,2,1.0,11700.0,6
-09:04:2013 ,69603.0,4800.0,0.0,4800.0,4799.0,0.0,0.0,1,0.0,3900.0,6
-09:05:2013 ,112201.0,6602.0,600.0,599.0,0.0,598.0,0.0,3,1.0,7800.0,6
-10:04:2013 ,79198.0,3600.0,0.0,4800.0,0.0,0.0,0.0,2,1.0,11700.0,6
-10:05:2013 ,49207.0,2397.0,0.0,1796.0,0.0,0.0,0.0,4,1.0,9000.0,6
-11:04:2013 ,67202.0,8399.0,0.0,6000.0,3599.0,0.0,0.0,3,0.0,7800.0,6
-11:05:2013 ,80999.0,5401.0,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,6
-12:04:2013 ,84001.0,0.0,0.0,4799.0,0.0,0.0,0.0,4,1.0,9000.0,6
-12:05:2013 ,88800.0,0.0,0.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,6
-13:04:2013 ,111601.0,4801.0,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,6
-13:05:2013 ,64198.0,0.0,0.0,20402.0,0.0,0.0,0.0,0,1.0,11700.0,6
-14:04:2013 ,49204.0,0.0,1200.0,3597.0,0.0,0.0,0.0,-1,0.0,0.0,6
-14:05:2013 ,43200.0,40200.0,0.0,0.0,0.0,0.0,0.0,1,0.0,3900.0,6
-15:04:2013 ,86401.0,1200.0,1199.0,0.0,0.0,0.0,0.0,0,1.0,11700.0,6
-15:05:2013 ,87620.0,0.0,0.0,0.0,0.0,0.0,0.0,2,1.0,11700.0,6
-16:04:2013 ,153602.0,4800.0,0.0,0.0,0.0,0.0,0.0,1,0.0,3900.0,6
-16:05:2013 ,250380.0,2400.0,0.0,0.0,0.0,0.0,4800.0,3,1.0,7800.0,6
-17:04:2013 ,8400.0,4802.0,0.0,0.0,0.0,0.0,0.0,2,1.0,11700.0,6
-18:04:2013 ,76800.0,6000.0,2400.0,0.0,0.0,0.0,0.0,3,1.0,7800.0,6
-18:05:2013 ,1208.0,0.0,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,6
-19:04:2013 ,85200.0,0.0,0.0,6000.0,0.0,0.0,0.0,4,1.0,9000.0,6
-19:05:2013 ,84600.0,0.0,0.0,3000.0,0.0,0.0,0.0,-1,0.0,0.0,6
-20:04:2013 ,74942.0,0.0,2400.0,5999.0,0.0,0.0,0.0,5,0.0,0.0,6
-20:05:2013 ,77402.0,7799.0,0.0,600.0,0.0,0.0,0.0,0,1.0,11700.0,6
-21:04:2013 ,97199.0,0.0,0.0,2401.0,0.0,0.0,0.0,-1,0.0,0.0,6
-21:05:2013 ,72633.0,12601.0,0.0,599.0,0.0,0.0,0.0,1,0.0,3900.0,6
-22:04:2013 ,72000.0,1200.0,0.0,0.0,0.0,0.0,0.0,0,1.0,11700.0,6
-22:05:2013 ,67800.0,13202.0,2998.0,1800.0,0.0,0.0,0.0,2,0.0,11700.0,6
-23:04:2013 ,87600.0,1200.0,0.0,0.0,0.0,0.0,0.0,1,1.0,3900.0,6
-23:05:2013 ,76800.0,8399.0,0.0,3601.0,0.0,0.0,0.0,3,0.0,7800.0,6
-24:04:2013 ,69602.0,8400.0,4798.0,0.0,0.0,0.0,0.0,2,1.0,11700.0,6
-24:05:2013 ,94316.0,600.0,0.0,596.0,0.0,0.0,0.0,4,1.0,9000.0,6
-25:04:2013 ,82801.0,1200.0,0.0,2400.0,0.0,0.0,0.0,3,1.0,7800.0,6
-25:05:2013 ,178873.0,5999.0,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,6
-26:04:2013 ,77996.0,3602.0,7249.0,0.0,0.0,0.0,0.0,4,1.0,9000.0,6
-27:03:2013 ,9599.0,1201.0,0.0,0.0,0.0,0.0,0.0,2,1.0,11700.0,6
-27:04:2013 ,15598.0,4802.0,72002.0,0.0,0.0,0.0,0.0,5,0.0,0.0,6
-27:05:2013 ,58810.0,4200.0,0.0,0.0,0.0,0.0,0.0,0,1.0,11700.0,6
-28:03:2013 ,66000.0,7201.0,0.0,9599.0,0.0,0.0,0.0,3,1.0,7800.0,6
-28:04:2013 ,73200.0,7199.0,0.0,1199.0,0.0,0.0,0.0,-1,0.0,0.0,6
-28:05:2013 ,38399.0,50278.0,0.0,0.0,0.0,0.0,0.0,1,0.0,3900.0,6
-29:03:2013 ,85200.0,1200.0,0.0,0.0,0.0,0.0,0.0,4,1.0,9000.0,6
-29:04:2013 ,84000.0,0.0,0.0,0.0,0.0,0.0,0.0,0,1.0,11700.0,6
-29:05:2013 ,42003.0,18000.0,3599.0,1799.0,0.0,0.0,0.0,2,0.0,11700.0,6
-30:03:2013 ,232801.0,6000.0,0.0,6000.0,0.0,0.0,0.0,5,0.0,0.0,6
-30:04:2013 ,94801.0,8399.0,0.0,0.0,0.0,0.0,0.0,1,0.0,3900.0,6
+date,home_time,school_time,travel_time,recreational_activities,working,shopping,orthers,date_in_week,cut_class,class_schedule,volunteer,location_names
+01:04:2013,9599.0,7200.0,0.0,0.0,0.0,0.0,0.0,0,1.0,11700.0,6,"Dartmouth College,Dartmouth College,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,Dartmouth College"
+01:05:2013,67201.0,0.0,3599.0,0.0,0.0,0.0,0.0,2,1.0,11700.0,6,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Blunt Alumni Center Parking Lot,Blunt Alumni Center Parking Lot,Dartmouth College,Dartmouth College,Life Sciences Greenhouse,Dartmouth College,Dartmouth College"
+02:04:2013,73199.0,4800.0,0.0,6001.0,0.0,0.0,0.0,1,0.0,3900.0,6,"Winfred-Raven House,Winfred-Raven House,Dartmouth College,Dartmouth College,Dartmouth College,Alumni Gymnasium,Alumni Gymnasium,Dartmouth College,Dartmouth College,Dartmouth College,Andres Hall,Dartmouth College,Hopkins Center for the Arts,Dartmouth College,Dartmouth College"
+02:05:2013,151200.0,7200.0,0.0,0.0,0.0,0.0,0.0,3,1.0,7800.0,6,"Winfred-Raven House,Dartmouth College,Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College"
+03:04:2013,79202.0,1200.0,7198.0,0.0,0.0,0.0,0.0,2,1.0,11700.0,6,"Dartmouth College,Mass Parking Lot,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Blunt Alumni Center Parking Lot,Blunt Alumni Center Parking Lot,Dartmouth College,Dartmouth College,Dartmouth College,Life Sciences Greenhouse,Class of 1978 Life Sciences Center,Mass Parking Lot,Dartmouth College,Dartmouth College"
+03:05:2013,13200.0,0.0,0.0,0.0,0.0,0.0,0.0,4,1.0,9000.0,6,"Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College"
+04:04:2013,32399.0,10801.0,33600.0,8400.0,0.0,0.0,0.0,3,0.0,7800.0,6,"Dartmouth College,Winfred-Raven House,Winfred-Raven House,Dartmouth College,Berry Library,Dartmouth College,Dartmouth College,Sudikoff Hall,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Mass Parking Lot,Alumni Gymnasium,Dartmouth College,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center"
+04:05:2013,100800.0,6000.0,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,6,"Winfred-Raven House,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+05:04:2013,77997.0,4802.0,0.0,4801.0,0.0,0.0,0.0,4,1.0,9000.0,6,"Hopkins Center for the Arts,Dartmouth College,Andres Hall,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+05:05:2013,82202.0,0.0,0.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,6,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+06:04:2013,60001.0,20400.0,0.0,15599.0,0.0,0.0,0.0,5,0.0,0.0,6,"Dartmouth College,Winfred-Raven House,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Hopkins Center for the Arts"
+06:05:2013,64798.0,601.0,0.0,4199.0,0.0,0.0,0.0,0,1.0,11700.0,6,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Class of 1978 Life Sciences Center,Berry Library,Berry Library,Dartmouth College"
+07:04:2013,73198.0,0.0,0.0,2402.0,0.0,0.0,0.0,-1,0.0,0.0,6,"Dartmouth College,Hopkins Center for the Arts,Andres Hall,Hopkins Center for the Arts,Dartmouth College"
+07:05:2013,152292.0,3603.0,0.0,0.0,0.0,0.0,0.0,1,1.0,3900.0,6,"Dartmouth College,Winfred-Raven House,Winfred-Raven House,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+08:04:2013,82798.0,4802.0,1200.0,0.0,0.0,0.0,0.0,0,1.0,11700.0,6,"Dartmouth College,0,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Andres Hall,Dartmouth College,Dartmouth College,Dartmouth College,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,Dartmouth College,Dartmouth College,Dartmouth College"
+08:05:2013,13200.0,3600.0,0.0,0.0,0.0,0.0,0.0,2,1.0,11700.0,6,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Life Sciences Greenhouse,Sudikoff Hall,Dartmouth College,Dartmouth College"
+09:04:2013,69603.0,4800.0,0.0,4800.0,4799.0,0.0,0.0,1,0.0,3900.0,6,"Winfred-Raven House,Winfred-Raven House,Dartmouth College,Dartmouth College,Alumni Gymnasium,Alumni Gymnasium,Dartmouth College,Dartmouth College,0,0,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+09:05:2013,112201.0,6602.0,600.0,599.0,0.0,598.0,0.0,3,1.0,7800.0,6,"Dartmouth College,Winfred-Raven House,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Hanover Park,Dartmouth College,Dartmouth College,Middle Massachusetts Hall,Middle Massachusetts Hall,Hanover Inn Valet Lot,Hallgarten Hall,Dartmouth College,Hallgarten Hall,Dartmouth College,Hopkins Center for the Arts,Dartmouth College"
+10:04:2013,79198.0,3600.0,0.0,4800.0,0.0,0.0,0.0,2,1.0,11700.0,6,"Dartmouth College,Dartmouth College,Dartmouth College,Alumni Gymnasium,Alumni Gymnasium,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,Life Sciences Greenhouse,Class of 1978 Life Sciences Center,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+10:05:2013,49207.0,2397.0,0.0,1796.0,0.0,0.0,0.0,4,1.0,9000.0,6,"Dartmouth College,Dartmouth College,Dartmouth College,Hopkins Center for the Arts,Hopkins Center for the Arts,Dartmouth College,Dartmouth College,Dartmouth College,Anonymous Hall,Vail,Life Sciences Greenhouse,Life Sciences Greenhouse,Class of 1978 Life Sciences Center,Life Sciences Greenhouse,Life Sciences Greenhouse,Class of 1978 Life Sciences Center,Dartmouth College"
+11:04:2013,67202.0,8399.0,0.0,6000.0,3599.0,0.0,0.0,3,0.0,7800.0,6,"Dartmouth College,Winfred-Raven House,Winfred-Raven House,Dartmouth College,Dartmouth College,Alumni Gymnasium,Dartmouth College,Dartmouth College,Sudikoff Hall,Sudikoff Hall,Dartmouth College,Dartmouth College,Dartmouth College,Sigma Delta,Sigma Delta,Dartmouth College,Dartmouth College,Goldstein Hall,Life Sciences Greenhouse,Life Sciences Greenhouse"
+11:05:2013,80999.0,5401.0,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,6,"Winfred-Raven House,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+12:04:2013,84001.0,0.0,0.0,4799.0,0.0,0.0,0.0,4,1.0,9000.0,6,"Dartmouth College,Dartmouth College,Alumni Gymnasium,Alumni Gymnasium,Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Dartmouth College"
+12:05:2013,88800.0,0.0,0.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,6,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+13:04:2013,111601.0,4801.0,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,6,"Winfred-Raven House,Winfred-Raven House,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+13:05:2013,64198.0,0.0,0.0,20402.0,0.0,0.0,0.0,0,1.0,11700.0,6,"Hopkins Center for the Arts,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+14:04:2013,49204.0,0.0,1200.0,3597.0,0.0,0.0,0.0,-1,0.0,0.0,6,"Mass Parking Lot,Dartmouth College,Dartmouth College,West Stands"
+14:05:2013,43200.0,40200.0,0.0,0.0,0.0,0.0,0.0,1,0.0,3900.0,6,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Sudikoff Hall,Dartmouth College,Sudikoff Hall,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Sudikoff Hall,Dartmouth College,Dartmouth College,Sudikoff Hall,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+15:04:2013,86401.0,1200.0,1199.0,0.0,0.0,0.0,0.0,0,1.0,11700.0,6,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Life Sciences Greenhouse,Class of 1978 Life Sciences Center,Dartmouth College,Mass Parking Lot,Dartmouth College"
+15:05:2013,87620.0,0.0,0.0,0.0,0.0,0.0,0.0,2,1.0,11700.0,6,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+16:04:2013,153602.0,4800.0,0.0,0.0,0.0,0.0,0.0,1,0.0,3900.0,6,"Winfred-Raven House,Winfred-Raven House,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+16:05:2013,250380.0,2400.0,0.0,0.0,0.0,0.0,4800.0,3,1.0,7800.0,6,"Dartmouth College,Moore Psychology Building,Winfred-Raven House,Winfred-Raven House,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,Dartmouth College,Hanover Post Office,Dartmouth College,Dartmouth College,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Dartmouth College"
+17:04:2013,8400.0,4802.0,0.0,0.0,0.0,0.0,0.0,2,1.0,11700.0,6,"Dartmouth College,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+18:04:2013,76800.0,6000.0,2400.0,0.0,0.0,0.0,0.0,3,1.0,7800.0,6,"Dartmouth College,Winfred-Raven House,Winfred-Raven House,Andres Hall,Dartmouth College,Dartmouth College,Mass Parking Lot,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Zimmerman Hall,Dartmouth College,Dartmouth College,Class of 1978 Life Sciences Center,Life Sciences Greenhouse,Life Sciences Greenhouse"
+18:05:2013,1208.0,0.0,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,6,Dartmouth College
+19:04:2013,85200.0,0.0,0.0,6000.0,0.0,0.0,0.0,4,1.0,9000.0,6,"Dartmouth College,Dartmouth College,Berry Sports Center,Berry Sports Center,Berry Sports Center,Berry Sports Center,Dartmouth College"
+19:05:2013,84600.0,0.0,0.0,3000.0,0.0,0.0,0.0,-1,0.0,0.0,6,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Hopkins Center for the Arts,Hopkins Center for the Arts"
+20:04:2013,74942.0,0.0,2400.0,5999.0,0.0,0.0,0.0,5,0.0,0.0,6,"Morton Hall,Hanover Inn Valet Lot,Dartmouth College,Alumni Gymnasium,Alumni Gymnasium,Dartmouth College,Hopkins Center for the Arts,Hopkins Center for the Arts,Dartmouth College,Dartmouth College,Dartmouth College"
+20:05:2013,77402.0,7799.0,0.0,600.0,0.0,0.0,0.0,0,1.0,11700.0,6,"Hopkins Center for the Arts,Dartmouth College,Dartmouth College,Sudikoff Hall,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Middle Massachusetts Hall,Dartmouth College"
+21:04:2013,97199.0,0.0,0.0,2401.0,0.0,0.0,0.0,-1,0.0,0.0,6,"Dartmouth College,Dartmouth College,Dartmouth College,Hopkins Center for the Arts,Hopkins Center for the Arts,Dartmouth College,Dartmouth College,Dartmouth College,Middle Massachusetts Hall,Dartmouth College,Dartmouth College"
+21:05:2013,72633.0,12601.0,0.0,599.0,0.0,0.0,0.0,1,0.0,3900.0,6,"Dartmouth College,Dartmouth College,Winfred-Raven House,Hopkins Center for the Arts,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Andres Hall,Andres Hall,Dartmouth College,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Dartmouth College"
+22:04:2013,72000.0,1200.0,0.0,0.0,0.0,0.0,0.0,0,1.0,11700.0,6,"Dartmouth College,Andres Hall,Dartmouth College,Class of 1978 Life Sciences Center,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Dartmouth College"
+22:05:2013,67800.0,13202.0,2998.0,1800.0,0.0,0.0,0.0,2,0.0,11700.0,6,"Dartmouth College,Dartmouth College,Dartmouth College,Sudikoff Hall,Dartmouth College,Blunt Alumni Center Parking Lot,Blunt Alumni Center Parking Lot,Hopkins Center for the Arts,Hopkins Center for the Arts,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+23:04:2013,87600.0,1200.0,0.0,0.0,0.0,0.0,0.0,1,1.0,3900.0,6,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Sudikoff Hall,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+23:05:2013,76800.0,8399.0,0.0,3601.0,0.0,0.0,0.0,3,0.0,7800.0,6,"Dartmouth College,Dartmouth College,Dartmouth College,Winfred-Raven House,Winfred-Raven House,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Andres Hall,Dartmouth College,Dartmouth College,Alumni Gymnasium,Alumni Gymnasium,Morton Hall,Dartmouth College,Moore Psychology Building,Winfred-Raven House"
+24:04:2013,69602.0,8400.0,4798.0,0.0,0.0,0.0,0.0,2,1.0,11700.0,6,"Sudikoff Hall,Dartmouth College,Sudikoff Hall,Dartmouth College,Dartmouth College,Sudikoff Hall,Sudikoff Hall,Dartmouth College,Dartmouth College,Blunt Alumni Center Parking Lot,Blunt Alumni Center Parking Lot,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+24:05:2013,94316.0,600.0,0.0,596.0,0.0,0.0,0.0,4,1.0,9000.0,6,"Winfred-Raven House,Dartmouth College,Berry Library,Dartmouth College"
+25:04:2013,82801.0,1200.0,0.0,2400.0,0.0,0.0,0.0,3,1.0,7800.0,6,"Dartmouth College,Dartmouth College,Hopkins Center for the Arts,Hopkins Center for the Arts,Middle Massachusetts Hall,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Sudikoff Hall,Dartmouth College,Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse"
+25:05:2013,178873.0,5999.0,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,6,"Sudikoff Hall,Dartmouth College,Dartmouth College"
+26:04:2013,77996.0,3602.0,7249.0,0.0,0.0,0.0,0.0,4,1.0,9000.0,6,"Winfred-Raven House,Winfred-Raven House,Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Mass Parking Lot,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Berry Hall,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College"
+27:03:2013,9599.0,1201.0,0.0,0.0,0.0,0.0,0.0,2,1.0,11700.0,6,"Class of 1978 Life Sciences Center,Dartmouth College"
+27:04:2013,15598.0,4802.0,72002.0,0.0,0.0,0.0,0.0,5,0.0,0.0,6,"Winfred-Raven House,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Mass Parking Lot"
+27:05:2013,58810.0,4200.0,0.0,0.0,0.0,0.0,0.0,0,1.0,11700.0,6,"Dartmouth College,Andres Hall,Dartmouth College,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Dartmouth College"
+28:03:2013,66000.0,7201.0,0.0,9599.0,0.0,0.0,0.0,3,1.0,7800.0,6,"Winfred-Raven House,Winfred-Raven House,Dartmouth College,Dartmouth College,Alumni Gymnasium,Alumni Gymnasium,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Alumni Gymnasium,Dartmouth College,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center"
+28:04:2013,73200.0,7199.0,0.0,1199.0,0.0,0.0,0.0,-1,0.0,0.0,6,"Dartmouth College,Dartmouth College,Dartmouth College,Hopkins Center for the Arts,Sudikoff Hall,Dartmouth College,Sudikoff Hall,Dartmouth College,Sudikoff Hall,Dartmouth College,Sudikoff Hall,Dartmouth College,Dartmouth College,Dartmouth College"
+28:05:2013,38399.0,50278.0,0.0,0.0,0.0,0.0,0.0,1,0.0,3900.0,6,"Sudikoff Hall,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Sudikoff Hall,Sudikoff Hall,Dartmouth College,Dartmouth College,Sudikoff Hall,Dartmouth College,Dartmouth College,Sudikoff Hall,Dartmouth College"
+29:03:2013,85200.0,1200.0,0.0,0.0,0.0,0.0,0.0,4,1.0,9000.0,6,"Dartmouth College,Dartmouth College,Dartmouth College,Andres Hall,Dartmouth College,Dartmouth College,Life Sciences Greenhouse,Class of 1978 Life Sciences Center,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+29:04:2013,84000.0,0.0,0.0,0.0,0.0,0.0,0.0,0,1.0,11700.0,6,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+29:05:2013,42003.0,18000.0,3599.0,1799.0,0.0,0.0,0.0,2,0.0,11700.0,6,"Dartmouth College,Dartmouth College,Dartmouth College,Berry Library,Dartmouth College,Dartmouth College,Berry Library,Dartmouth College,Kemeny Hall,Dartmouth College,Blunt Alumni Center Parking Lot,Blunt Alumni Center Parking Lot,Berry Library,Sudikoff Hall,Dartmouth College,Dartmouth College,Life Sciences Greenhouse"
+30:03:2013,232801.0,6000.0,0.0,6000.0,0.0,0.0,0.0,5,0.0,0.0,6,"Dartmouth College,Winfred-Raven House,Winfred-Raven House,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Alumni Gymnasium,Alumni Gymnasium,Hopkins Center for the Arts,Dartmouth College"
+30:04:2013,94801.0,8399.0,0.0,0.0,0.0,0.0,0.0,1,0.0,3900.0,6,"Dartmouth College,Winfred-Raven House,Winfred-Raven House,Middle Massachusetts Hall,Middle Massachusetts Hall,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,McNutt Hall,Dartmouth College"

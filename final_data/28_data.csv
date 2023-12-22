@@ -1,65 +1,65 @@
-date,home_time,recreational_activities,school_time,travel_time,working,shopping,date_in_week,cut_class,class_schedule,volunteer
-01:04:2013 ,55201.0,2400.0,2400.0,2399.0,0.0,0.0,0,1.0,11700.0,28
-01:05:2013 ,74400.0,0.0,8400.0,0.0,0.0,0.0,2,1.0,11700.0,28
-01:06:2013 ,7197.0,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,28
-02:04:2013 ,90002.0,0.0,0.0,0.0,0.0,0.0,1,1.0,3900.0,28
-02:05:2013 ,57601.0,0.0,26400.0,0.0,1199.0,0.0,3,0.0,7800.0,28
-03:04:2013 ,78000.0,0.0,4798.0,0.0,0.0,0.0,2,1.0,11700.0,28
-03:05:2013 ,89528.0,0.0,0.0,0.0,0.0,0.0,4,1.0,9000.0,28
-04:04:2013 ,81600.0,1200.0,3600.0,0.0,0.0,0.0,3,1.0,7800.0,28
-04:05:2013 ,121249.0,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,28
-05:04:2013 ,82800.0,0.0,3600.0,0.0,0.0,0.0,4,1.0,9000.0,28
-05:05:2013 ,72000.0,0.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,28
-06:04:2013 ,133200.0,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,28
-06:05:2013 ,62400.0,0.0,0.0,0.0,0.0,0.0,0,1.0,11700.0,28
-07:04:2013 ,73200.0,0.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,28
-07:05:2013 ,93600.0,0.0,0.0,0.0,0.0,0.0,1,1.0,3900.0,28
-08:04:2013 ,153531.0,0.0,4800.0,0.0,0.0,0.0,0,1.0,11700.0,28
-08:05:2013 ,76803.0,0.0,2397.0,0.0,0.0,0.0,2,1.0,11700.0,28
-09:05:2013 ,100800.0,0.0,0.0,0.0,0.0,0.0,3,1.0,7800.0,28
-10:04:2013 ,59547.0,1696.0,7157.0,0.0,0.0,0.0,2,1.0,11700.0,28
-10:05:2013 ,85200.0,0.0,0.0,0.0,0.0,0.0,4,1.0,9000.0,28
-11:04:2013 ,85200.0,0.0,0.0,0.0,0.0,0.0,3,1.0,7800.0,28
-11:05:2013 ,78002.0,0.0,0.0,0.0,0.0,1198.0,5,0.0,0.0,28
-12:04:2013 ,94800.0,0.0,0.0,0.0,0.0,0.0,4,1.0,9000.0,28
-12:05:2013 ,91196.0,13204.0,0.0,1200.0,0.0,0.0,-1,0.0,0.0,28
-13:04:2013 ,21601.0,0.0,0.0,0.0,58732.0,0.0,5,0.0,0.0,28
-13:05:2013 ,68135.0,0.0,0.0,0.0,0.0,0.0,0,1.0,11700.0,28
-14:04:2013 ,98406.0,0.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,28
-14:05:2013 ,102001.0,0.0,0.0,0.0,0.0,0.0,1,1.0,3900.0,28
-15:04:2013 ,72000.0,0.0,0.0,0.0,0.0,0.0,0,1.0,11700.0,28
-15:05:2013 ,67193.0,2407.0,4800.0,0.0,0.0,0.0,2,1.0,11700.0,28
-16:04:2013 ,87600.0,0.0,0.0,0.0,0.0,0.0,1,1.0,3900.0,28
-16:05:2013 ,76800.0,0.0,0.0,0.0,0.0,0.0,3,1.0,7800.0,28
-17:04:2013 ,90000.0,0.0,0.0,0.0,0.0,0.0,2,1.0,11700.0,28
-17:05:2013 ,169201.0,0.0,0.0,0.0,0.0,0.0,4,1.0,9000.0,28
-18:04:2013 ,80400.0,0.0,1200.0,0.0,0.0,0.0,3,1.0,7800.0,28
-18:05:2013 ,19199.0,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,28
-19:04:2013 ,86401.0,0.0,0.0,0.0,0.0,0.0,4,1.0,9000.0,28
-19:05:2013 ,144510.0,1200.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,28
-20:04:2013 ,106803.0,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,28
-20:05:2013 ,10800.0,0.0,0.0,0.0,0.0,0.0,0,1.0,11700.0,28
-21:04:2013 ,76796.0,0.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,28
-21:05:2013 ,158400.0,0.0,0.0,0.0,0.0,0.0,1,1.0,3900.0,28
-22:04:2013 ,75600.0,0.0,0.0,0.0,0.0,0.0,0,1.0,11700.0,28
-22:05:2013 ,13200.0,0.0,1200.0,0.0,0.0,0.0,2,1.0,11700.0,28
-23:04:2013 ,102000.0,0.0,0.0,0.0,0.0,0.0,1,1.0,3900.0,28
-23:05:2013 ,129600.0,0.0,0.0,0.0,0.0,0.0,3,1.0,7800.0,28
-24:04:2013 ,79634.0,2400.0,0.0,1199.0,0.0,0.0,2,1.0,11700.0,28
-24:05:2013 ,154835.0,0.0,0.0,0.0,0.0,0.0,4,1.0,9000.0,28
-25:04:2013 ,73997.0,0.0,0.0,0.0,0.0,0.0,3,1.0,7800.0,28
-26:04:2013 ,86697.0,0.0,0.0,0.0,0.0,0.0,4,1.0,9000.0,28
-26:05:2013 ,80402.0,0.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,28
-27:04:2013 ,94800.0,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,28
-27:05:2013 ,64477.0,0.0,3600.0,0.0,0.0,0.0,0,1.0,11700.0,28
-28:03:2013 ,1202.0,0.0,0.0,0.0,0.0,0.0,3,1.0,7800.0,28
-28:04:2013 ,94800.0,0.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,28
-28:05:2013 ,55202.0,1197.0,33602.0,0.0,0.0,0.0,1,0.0,3900.0,28
-29:03:2013 ,82799.0,1199.0,2400.0,0.0,0.0,0.0,4,1.0,9000.0,28
-29:04:2013 ,67201.0,1200.0,1199.0,0.0,0.0,0.0,0,1.0,11700.0,28
-29:05:2013 ,17999.0,0.0,62402.0,2399.0,0.0,0.0,2,0.0,11700.0,28
-30:03:2013 ,4802.0,0.0,92398.0,0.0,0.0,0.0,5,0.0,0.0,28
-30:04:2013 ,91200.0,0.0,0.0,0.0,0.0,0.0,1,1.0,3900.0,28
-30:05:2013 ,85200.0,0.0,0.0,0.0,0.0,0.0,3,1.0,7800.0,28
-31:03:2013 ,95999.0,3600.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,28
-31:05:2013 ,97810.0,0.0,0.0,0.0,0.0,0.0,4,1.0,9000.0,28
+date,home_time,recreational_activities,school_time,travel_time,working,shopping,date_in_week,cut_class,class_schedule,volunteer,location_names
+01:04:2013,55201.0,2400.0,2400.0,2399.0,0.0,0.0,0,1.0,11700.0,28,"Ripley Hall,Hopkins Center for the Arts,Hopkins Center for the Arts,Ripley Hall,Ripley Hall,Class of 1978 Life Sciences Center,Life Sciences Greenhouse,Class of 1978 Life Sciences Center,Dana Circle Parking Lot,Dartmouth College,Dartmouth College,Dartmouth College"
+01:05:2013,74400.0,0.0,8400.0,0.0,0.0,0.0,2,1.0,11700.0,28,"Ripley Hall,Dartmouth College,Ripley Hall,Ripley Hall,Dartmouth College,Ripley Hall,Dartmouth College,Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Class of 1978 Life Sciences Center,Bartlett Hall"
+01:06:2013,7197.0,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,28,"Dartmouth College,Dartmouth College,Ripley Hall,Ripley Hall,Ripley Hall"
+02:04:2013,90002.0,0.0,0.0,0.0,0.0,0.0,1,1.0,3900.0,28,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Ripley Hall"
+02:05:2013,57601.0,0.0,26400.0,0.0,1199.0,0.0,3,0.0,7800.0,28,"Ripley Hall,Dartmouth College,Ripley Hall,Ripley Hall,Alpha Theta,Dartmouth Hall,Ripley Hall,Dartmouth College,Dartmouth College,Ripley Hall,Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse"
+03:04:2013,78000.0,0.0,4798.0,0.0,0.0,0.0,2,1.0,11700.0,28,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Ripley Hall,Dartmouth College,Dartmouth College,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+03:05:2013,89528.0,0.0,0.0,0.0,0.0,0.0,4,1.0,9000.0,28,"Ripley Hall,Dartmouth College,Dartmouth College,Ripley Hall,Ripley Hall,Ripley Hall,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+04:04:2013,81600.0,1200.0,3600.0,0.0,0.0,0.0,3,1.0,7800.0,28,"Ripley Hall,Dartmouth College,Dartmouth College,Hopkins Center for the Arts,Dartmouth College,Ripley Hall,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center"
+04:05:2013,121249.0,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,28,"Dartmouth College,Dartmouth College,Dartmouth College,Ripley Hall,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Ripley Hall,Ripley Hall"
+05:04:2013,82800.0,0.0,3600.0,0.0,0.0,0.0,4,1.0,9000.0,28,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Ripley Hall,Dartmouth College,Dartmouth College,Dartmouth College,Class of 1978 Life Sciences Center,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Dartmouth College"
+05:05:2013,72000.0,0.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,28,Ripley Hall
+06:04:2013,133200.0,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,28,"Dartmouth College,Dartmouth College,Dartmouth College,Ripley Hall,Dartmouth College,Ripley Hall"
+06:05:2013,62400.0,0.0,0.0,0.0,0.0,0.0,0,1.0,11700.0,28,"Dartmouth College,Ripley Hall,Ripley Hall,Dartmouth College,Ripley Hall,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+07:04:2013,73200.0,0.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,28,Ripley Hall
+07:05:2013,93600.0,0.0,0.0,0.0,0.0,0.0,1,1.0,3900.0,28,"Ripley Hall,Dartmouth College,Dartmouth College"
+08:04:2013,153531.0,0.0,4800.0,0.0,0.0,0.0,0,1.0,11700.0,28,"Ripley Hall,Dartmouth College,Dartmouth College,Dartmouth College,Class of 1978 Life Sciences Center,Life Sciences Greenhouse,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,Dartmouth College,Dartmouth College,Bartlett Hall,Ripley Hall"
+08:05:2013,76803.0,0.0,2397.0,0.0,0.0,0.0,2,1.0,11700.0,28,"Dartmouth College,Ripley Hall,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Ripley Hall,Dartmouth College,Dartmouth College,Dartmouth College,Anonymous Hall,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Bartlett Hall,Dartmouth College"
+09:05:2013,100800.0,0.0,0.0,0.0,0.0,0.0,3,1.0,7800.0,28,"Dartmouth College,Ripley Hall,Dartmouth College,Ripley Hall,Dartmouth College"
+10:04:2013,59547.0,1696.0,7157.0,0.0,0.0,0.0,2,1.0,11700.0,28,"Dartmouth College,Dartmouth College,Sudikoff Hall,Dartmouth College,Dartmouth College,Dartmouth Hall,Ripley Hall,Dartmouth College,Dartmouth College,Dartmouth College,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Berry Library"
+10:05:2013,85200.0,0.0,0.0,0.0,0.0,0.0,4,1.0,9000.0,28,"Dartmouth College,Ripley Hall,Ripley Hall,Dartmouth College"
+11:04:2013,85200.0,0.0,0.0,0.0,0.0,0.0,3,1.0,7800.0,28,"Ripley Hall,Dartmouth College,Ripley Hall,Ripley Hall,Ripley Hall,Dartmouth College,Dartmouth College,Dartmouth College,Ripley Hall,Dartmouth College,Ripley Hall,Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse"
+11:05:2013,78002.0,0.0,0.0,0.0,0.0,1198.0,5,0.0,0.0,28,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Chew & Co. Design,Ripley Hall,Dartmouth College"
+12:04:2013,94800.0,0.0,0.0,0.0,0.0,0.0,4,1.0,9000.0,28,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Ripley Hall,Ripley Hall,Ripley Hall,Ripley Hall,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Ripley Hall,Ripley Hall,Ripley Hall,Ripley Hall,Dartmouth College,Ripley Hall,Ripley Hall,Ripley Hall,Ripley Hall,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+12:05:2013,91196.0,13204.0,0.0,1200.0,0.0,0.0,-1,0.0,0.0,28,"Ripley Hall,Berry Library,Dartmouth College,Berry Library,Zahm Courtyard,Hopkins Center for the Arts,Dartmouth College,Berry Library,Ripley Hall,Ripley Hall,Ripley Hall,Dartmouth College,Ripley Hall"
+13:04:2013,21601.0,0.0,0.0,0.0,58732.0,0.0,5,0.0,0.0,28,"Dartmouth College,Dartmouth College,Ripley Hall,Dartmouth College,Dartmouth College,Alpha Theta,Alpha Theta"
+13:05:2013,68135.0,0.0,0.0,0.0,0.0,0.0,0,1.0,11700.0,28,"Ripley Hall,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+14:04:2013,98406.0,0.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,28,"Ripley Hall,Ripley Hall,Ripley Hall,Ripley Hall,Ripley Hall"
+14:05:2013,102001.0,0.0,0.0,0.0,0.0,0.0,1,1.0,3900.0,28,"Ripley Hall,Dartmouth College,Ripley Hall"
+15:04:2013,72000.0,0.0,0.0,0.0,0.0,0.0,0,1.0,11700.0,28,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Ripley Hall,Ripley Hall,Ripley Hall,Ripley Hall,Ripley Hall,Ripley Hall,Dartmouth College,Dartmouth College,Dartmouth College"
+15:05:2013,67193.0,2407.0,4800.0,0.0,0.0,0.0,2,1.0,11700.0,28,"Berry Library,Dartmouth College,Dartmouth College,Dartmouth College,Ripley Hall,Ripley Hall,Dartmouth College,Berry Library,Ripley Hall,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Bartlett Hall,Bartlett Hall,Dartmouth College"
+16:04:2013,87600.0,0.0,0.0,0.0,0.0,0.0,1,1.0,3900.0,28,"Ripley Hall,Dartmouth College,Dartmouth College,Ripley Hall,Ripley Hall,Dartmouth College,Dartmouth College,Ripley Hall"
+16:05:2013,76800.0,0.0,0.0,0.0,0.0,0.0,3,1.0,7800.0,28,"Dartmouth College,Dartmouth College,Dartmouth College,Ripley Hall,Dartmouth College,Dartmouth College"
+17:04:2013,90000.0,0.0,0.0,0.0,0.0,0.0,2,1.0,11700.0,28,"Ripley Hall,Dartmouth College,Ripley Hall,Dartmouth College,Ripley Hall,Dartmouth College,Ripley Hall,Ripley Hall,Ripley Hall,Ripley Hall,Ripley Hall,Dartmouth College,Ripley Hall,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Ripley Hall,Ripley Hall,Ripley Hall,Ripley Hall,Dartmouth College,Dartmouth College,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Dartmouth College"
+17:05:2013,169201.0,0.0,0.0,0.0,0.0,0.0,4,1.0,9000.0,28,"Dartmouth College,Ripley Hall"
+18:04:2013,80400.0,0.0,1200.0,0.0,0.0,0.0,3,1.0,7800.0,28,"Dartmouth College,Dartmouth College,Ripley Hall,Ripley Hall,Dartmouth College,Dartmouth College,Dartmouth College,Vail,Life Sciences Greenhouse,Life Sciences Greenhouse"
+18:05:2013,19199.0,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,28,Dartmouth College
+19:04:2013,86401.0,0.0,0.0,0.0,0.0,0.0,4,1.0,9000.0,28,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Ripley Hall,Ripley Hall,Dartmouth College,Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Dartmouth College"
+19:05:2013,144510.0,1200.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,28,"Hopkins Center for the Arts,Ripley Hall,Dartmouth College"
+20:04:2013,106803.0,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,28,"Dartmouth College,Ripley Hall,Dartmouth College,Ripley Hall,Ripley Hall,Ripley Hall,Dartmouth College,Dartmouth College,Ripley Hall,Ripley Hall,Ripley Hall,Ripley Hall,Ripley Hall"
+20:05:2013,10800.0,0.0,0.0,0.0,0.0,0.0,0,1.0,11700.0,28,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+21:04:2013,76796.0,0.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,28,"Dartmouth College,Ripley Hall"
+21:05:2013,158400.0,0.0,0.0,0.0,0.0,0.0,1,1.0,3900.0,28,"Dartmouth College,Dartmouth College,Ripley Hall,Dartmouth College,Dartmouth College,Ripley Hall"
+22:04:2013,75600.0,0.0,0.0,0.0,0.0,0.0,0,1.0,11700.0,28,"Dartmouth College,Ripley Hall,Dartmouth College,Dartmouth College,Ripley Hall,Dartmouth College,Dartmouth College,Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+22:05:2013,13200.0,0.0,1200.0,0.0,0.0,0.0,2,1.0,11700.0,28,"Dartmouth College,Dartmouth College,Dartmouth College,Sudikoff Hall,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+23:04:2013,102000.0,0.0,0.0,0.0,0.0,0.0,1,1.0,3900.0,28,"Ripley Hall,Ripley Hall,Dartmouth College,Ripley Hall,Dartmouth College,Ripley Hall,Dartmouth College"
+23:05:2013,129600.0,0.0,0.0,0.0,0.0,0.0,3,1.0,7800.0,28,"Dartmouth College,Dartmouth College,Ripley Hall"
+24:04:2013,79634.0,2400.0,0.0,1199.0,0.0,0.0,2,1.0,11700.0,28,"Dartmouth College,Ripley Hall,Dartmouth College,Hopkins Center for the Arts,Hopkins Center for the Arts,Zahm Courtyard,Ripley Hall,Ripley Hall,Ripley Hall"
+24:05:2013,154835.0,0.0,0.0,0.0,0.0,0.0,4,1.0,9000.0,28,Ripley Hall
+25:04:2013,73997.0,0.0,0.0,0.0,0.0,0.0,3,1.0,7800.0,28,"Dartmouth College,Ripley Hall,Ripley Hall,Ripley Hall,Ripley Hall,Dartmouth College,Ripley Hall,Dartmouth College,Ripley Hall,Ripley Hall,Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse"
+26:04:2013,86697.0,0.0,0.0,0.0,0.0,0.0,4,1.0,9000.0,28,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Ripley Hall,Dartmouth College,Ripley Hall,Ripley Hall,Ripley Hall,Ripley Hall,Ripley Hall,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+26:05:2013,80402.0,0.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,28,Ripley Hall
+27:04:2013,94800.0,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,28,"Ripley Hall,Ripley Hall,Ripley Hall,Ripley Hall,Dartmouth College"
+27:05:2013,64477.0,0.0,3600.0,0.0,0.0,0.0,0,1.0,11700.0,28,"Dartmouth College,Dartmouth College,Dartmouth College,Ripley Hall,Dartmouth College,Dartmouth College,Sudikoff Hall"
+28:03:2013,1202.0,0.0,0.0,0.0,0.0,0.0,3,1.0,7800.0,28,Life Sciences Greenhouse
+28:04:2013,94800.0,0.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,28,"Ripley Hall,Dartmouth College,Dartmouth College,Dartmouth College,Ripley Hall"
+28:05:2013,55202.0,1197.0,33602.0,0.0,0.0,0.0,1,0.0,3900.0,28,"Sudikoff Hall,Dartmouth College,Dartmouth College,Dartmouth College,Sudikoff Hall,Dartmouth College,Sudikoff Hall,Sudikoff Hall,Berry Library,Dartmouth College,Ripley Hall,Ripley Hall"
+29:03:2013,82799.0,1199.0,2400.0,0.0,0.0,0.0,4,1.0,9000.0,28,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Ripley Hall,Hopkins Center for the Arts,Ripley Hall,Dartmouth College,Dartmouth College,Life Sciences Greenhouse,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Dartmouth College"
+29:04:2013,67201.0,1200.0,1199.0,0.0,0.0,0.0,0,1.0,11700.0,28,"Hopkins Center for the Arts,Ripley Hall,Dartmouth College,Ripley Hall,Dartmouth College,Ripley Hall,Dartmouth College,Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Vail,Dartmouth College,Dartmouth College,Dartmouth College"
+29:05:2013,17999.0,0.0,62402.0,2399.0,0.0,0.0,2,0.0,11700.0,28,"Dartmouth College,Sudikoff Hall,0,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Ripley Hall"
+30:03:2013,4802.0,0.0,92398.0,0.0,0.0,0.0,5,0.0,0.0,28,"Dartmouth College,Dartmouth College,Wentworth Hall"
+30:04:2013,91200.0,0.0,0.0,0.0,0.0,0.0,1,1.0,3900.0,28,"Ripley Hall,Dartmouth College,Ripley Hall,Dartmouth College,Ripley Hall,Dartmouth College,Ripley Hall,Dartmouth College,Ripley Hall,Ripley Hall"
+30:05:2013,85200.0,0.0,0.0,0.0,0.0,0.0,3,1.0,7800.0,28,"Dartmouth College,Ripley Hall,Dartmouth College,Ripley Hall"
+31:03:2013,95999.0,3600.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,28,"Dartmouth College,Dartmouth College,Ripley Hall,Ripley Hall,Hopkins Center for the Arts,Hopkins Center for the Arts,Ripley Hall"
+31:05:2013,97810.0,0.0,0.0,0.0,0.0,0.0,4,1.0,9000.0,28,"Dartmouth College,Ripley Hall"

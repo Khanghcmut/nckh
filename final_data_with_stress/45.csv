@@ -1,59 +1,59 @@
-date,home_time,school_time,travel_time,orthers,date_in_week,cut_class,class_schedule,volunteer,level
-01:05:2013,4800.0,1200.0,0.0,0.0,2.0,1.0,11700.0,45.0,
-02:05:2013,84001.0,2399.0,0.0,0.0,3.0,1.0,7800.0,45.0,
-03:04:2013,45604.0,0.0,0.0,0.0,2.0,1.0,11700.0,45.0,4.5
-03:05:2013,86401.0,1200.0,0.0,0.0,4.0,1.0,9000.0,45.0,
-04:04:2013,85197.0,0.0,0.0,0.0,3.0,1.0,7800.0,45.0,4.0
-04:05:2013,89999.0,0.0,0.0,0.0,5.0,0.0,0.0,45.0,
-05:04:2013,85200.0,1199.0,0.0,0.0,4.0,1.0,9000.0,45.0,5.0
-05:05:2013,84000.0,0.0,0.0,0.0,-1.0,0.0,0.0,45.0,
-06:04:2013,105603.0,0.0,0.0,0.0,5.0,0.0,0.0,45.0,2.5
-06:05:2013,130608.0,7200.0,0.0,0.0,0.0,1.0,11700.0,45.0,1.0
-07:04:2013,100797.0,0.0,0.0,0.0,-1.0,0.0,0.0,45.0,
-07:05:2013,46800.0,0.0,0.0,0.0,1.0,1.0,3900.0,45.0,
-08:04:2013,44400.0,8400.0,0.0,0.0,0.0,1.0,11700.0,45.0,
-08:05:2013,42000.0,33600.0,0.0,0.0,2.0,0.0,11700.0,45.0,2.5
-09:04:2013,164400.0,0.0,0.0,0.0,1.0,1.0,3900.0,45.0,3.333333333333333
-09:05:2013,6000.0,80400.0,0.0,0.0,3.0,0.0,7800.0,45.0,1.0
-10:04:2013,10800.0,0.0,0.0,0.0,2.0,1.0,11700.0,45.0,
-10:05:2013,102001.0,0.0,0.0,0.0,4.0,1.0,9000.0,45.0,
-11:04:2013,13200.0,0.0,70800.0,0.0,3.0,1.0,7800.0,45.0,
-11:05:2013,52799.0,14400.0,0.0,0.0,5.0,0.0,0.0,45.0,
-12:04:2013,8400.0,79200.0,0.0,0.0,4.0,0.0,9000.0,45.0,
-12:05:2013,107811.0,0.0,0.0,0.0,-1.0,0.0,0.0,45.0,
-13:04:2013,110400.0,0.0,15600.0,0.0,5.0,0.0,0.0,45.0,5.0
-13:05:2013,84000.0,0.0,0.0,0.0,0.0,1.0,11700.0,45.0,
-14:04:2013,111811.0,0.0,0.0,0.0,-1.0,0.0,0.0,45.0,5.0
-14:05:2013,80400.0,0.0,0.0,0.0,1.0,1.0,3900.0,45.0,
-15:04:2013,24664.0,0.0,0.0,0.0,0.0,1.0,11700.0,45.0,5.0
-15:05:2013,71707.0,0.0,0.0,1493.0,2.0,1.0,11700.0,45.0,
-16:04:2013,99776.0,0.0,3600.0,0.0,1.0,1.0,3900.0,45.0,5.0
-16:05:2013,87600.0,0.0,0.0,0.0,3.0,1.0,7800.0,45.0,
-17:04:2013,52801.0,13199.0,0.0,0.0,2.0,0.0,11700.0,45.0,
-17:05:2013,85200.0,0.0,0.0,0.0,4.0,1.0,9000.0,45.0,
-18:04:2013,43200.0,0.0,40801.0,0.0,3.0,1.0,7800.0,45.0,5.0
-18:05:2013,103200.0,0.0,0.0,0.0,5.0,0.0,0.0,45.0,2.0
-19:04:2013,84001.0,4799.0,0.0,0.0,4.0,1.0,9000.0,45.0,
-19:05:2013,96000.0,0.0,0.0,0.0,-1.0,0.0,0.0,45.0,
-20:04:2013,84001.0,0.0,0.0,0.0,5.0,0.0,0.0,45.0,
-20:05:2013,62400.0,0.0,0.0,0.0,0.0,1.0,11700.0,45.0,1.0
-21:04:2013,50399.0,37203.0,0.0,0.0,-1.0,0.0,0.0,45.0,
-21:05:2013,84000.0,0.0,0.0,0.0,1.0,1.0,3900.0,45.0,3.0
-22:04:2013,75601.0,13201.0,0.0,0.0,0.0,0.0,11700.0,45.0,
-22:05:2013,90000.0,0.0,0.0,0.0,2.0,1.0,11700.0,45.0,
-23:04:2013,82804.0,0.0,0.0,0.0,1.0,1.0,3900.0,45.0,
-23:05:2013,82800.0,0.0,0.0,0.0,3.0,1.0,7800.0,45.0,
-24:04:2013,83501.0,3597.0,0.0,0.0,2.0,1.0,11700.0,45.0,
-24:05:2013,86400.0,0.0,0.0,0.0,4.0,1.0,9000.0,45.0,
-25:04:2013,78003.0,3599.0,2400.0,1700.0,3.0,1.0,7800.0,45.0,
-25:05:2013,111600.0,0.0,0.0,0.0,5.0,0.0,0.0,45.0,1.0
-26:04:2013,86401.0,1200.0,0.0,0.0,4.0,1.0,9000.0,45.0,
-26:05:2013,61200.0,0.0,0.0,0.0,-1.0,0.0,0.0,45.0,
-27:04:2013,97573.0,0.0,0.0,0.0,5.0,0.0,0.0,45.0,
-27:05:2013,96002.0,0.0,0.0,0.0,0.0,1.0,11700.0,45.0,
-28:04:2013,141599.0,1201.0,0.0,0.0,-1.0,0.0,0.0,45.0,
-28:05:2013,239286.0,0.0,0.0,0.0,1.0,1.0,3900.0,45.0,
-29:04:2013,19127.0,0.0,0.0,0.0,0.0,1.0,11700.0,45.0,
-30:04:2013,164473.0,1200.0,0.0,0.0,1.0,1.0,3900.0,45.0,4.0
-30:05:2013,67199.0,0.0,0.0,0.0,3.0,1.0,7800.0,45.0,
-31:05:2013,26400.0,0.0,0.0,0.0,4.0,1.0,9000.0,45.0,
+date,home_time,school_time,travel_time,orthers,date_in_week,cut_class,class_schedule,volunteer,location_names,level
+01:05:2013,4800.0,1200.0,0.0,0.0,2.0,1.0,11700.0,45.0,"Dartmouth College,Sudikoff Hall,Dartmouth College",
+02:05:2013,84001.0,2399.0,0.0,0.0,3.0,1.0,7800.0,45.0,"Dartmouth College,Sudikoff Hall,Life Sciences Greenhouse,Class of 1978 Life Sciences Center,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College",
+03:04:2013,45604.0,0.0,0.0,0.0,2.0,1.0,11700.0,45.0,"0,0,0,Dartmouth College,0",4.5
+03:05:2013,86401.0,1200.0,0.0,0.0,4.0,1.0,9000.0,45.0,"Sudikoff Hall,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,0,0,0,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College",
+04:04:2013,85197.0,0.0,0.0,0.0,3.0,1.0,7800.0,45.0,"Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,0,0,0,0",4.0
+04:05:2013,89999.0,0.0,0.0,0.0,5.0,0.0,0.0,45.0,"Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Dartmouth College",
+05:04:2013,85200.0,1199.0,0.0,0.0,4.0,1.0,9000.0,45.0,"Class of 1978 Life Sciences Center,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,0",5.0
+05:05:2013,84000.0,0.0,0.0,0.0,-1.0,0.0,0.0,45.0,"0,0,0,0",
+06:04:2013,105603.0,0.0,0.0,0.0,5.0,0.0,0.0,45.0,"Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,0,0",2.5
+06:05:2013,130608.0,7200.0,0.0,0.0,0.0,1.0,11700.0,45.0,"0,Dartmouth College,0,0,0,Dartmouth College,Sudikoff Hall,Dartmouth College",1.0
+07:04:2013,100797.0,0.0,0.0,0.0,-1.0,0.0,0.0,45.0,"Dartmouth College,0",
+07:05:2013,46800.0,0.0,0.0,0.0,1.0,1.0,3900.0,45.0,"0,0,0,0,0,0,0,0,0,0,0,0",
+08:04:2013,44400.0,8400.0,0.0,0.0,0.0,1.0,11700.0,45.0,"0,0,Dartmouth College,Life Sciences Greenhouse,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,0",
+08:05:2013,42000.0,33600.0,0.0,0.0,2.0,0.0,11700.0,45.0,"Sudikoff Hall,Dartmouth College,Dartmouth College,Sudikoff Hall,0,0,Class of 1978 Life Sciences Center,Dartmouth College",2.5
+09:04:2013,164400.0,0.0,0.0,0.0,1.0,1.0,3900.0,45.0,"Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College",3.3333333333333335
+09:05:2013,6000.0,80400.0,0.0,0.0,3.0,0.0,7800.0,45.0,"Sudikoff Hall,Dartmouth College,Dartmouth College,Sudikoff Hall,Dartmouth College,Sudikoff Hall,Sudikoff Hall,Dartmouth College,Dartmouth College,Sudikoff Hall,Sudikoff Hall",1.0
+10:04:2013,10800.0,0.0,0.0,0.0,2.0,1.0,11700.0,45.0,Life Sciences Greenhouse,
+10:05:2013,102001.0,0.0,0.0,0.0,4.0,1.0,9000.0,45.0,"Life Sciences Greenhouse,0,0,Dartmouth College,Dartmouth College,Dartmouth College",
+11:04:2013,13200.0,0.0,70800.0,0.0,3.0,1.0,7800.0,45.0,"Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dewey Parking Lot",
+11:05:2013,52799.0,14400.0,0.0,0.0,5.0,0.0,0.0,45.0,"0,Dartmouth College,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+12:04:2013,8400.0,79200.0,0.0,0.0,4.0,0.0,9000.0,45.0,"Sudikoff Hall,0,0,Life Sciences Greenhouse,Sudikoff Hall",
+12:05:2013,107811.0,0.0,0.0,0.0,-1.0,0.0,0.0,45.0,"0,0",
+13:04:2013,110400.0,0.0,15600.0,0.0,5.0,0.0,0.0,45.0,"Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Dartmouth College,G Lot Parking,0,0,0,0,Dartmouth College",5.0
+13:05:2013,84000.0,0.0,0.0,0.0,0.0,1.0,11700.0,45.0,"0,0,0",
+14:04:2013,111811.0,0.0,0.0,0.0,-1.0,0.0,0.0,45.0,0,5.0
+14:05:2013,80400.0,0.0,0.0,0.0,1.0,1.0,3900.0,45.0,"Dartmouth College,Dartmouth College,Dartmouth College",
+15:04:2013,24664.0,0.0,0.0,0.0,0.0,1.0,11700.0,45.0,"0,0,Dartmouth College",5.0
+15:05:2013,71707.0,0.0,0.0,1493.0,2.0,1.0,11700.0,45.0,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,0",
+16:04:2013,99776.0,0.0,3600.0,0.0,1.0,1.0,3900.0,45.0,"Life Sciences Greenhouse,Dartmouth College,G Lot Parking,0,0,0,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College",5.0
+16:05:2013,87600.0,0.0,0.0,0.0,3.0,1.0,7800.0,45.0,"Dartmouth College,0,0,0,0,0,0",
+17:04:2013,52801.0,13199.0,0.0,0.0,2.0,0.0,11700.0,45.0,"Dartmouth College,0,0,0,0,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center",
+17:05:2013,85200.0,0.0,0.0,0.0,4.0,1.0,9000.0,45.0,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,0",
+18:04:2013,43200.0,0.0,40801.0,0.0,3.0,1.0,7800.0,45.0,"Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,G Lot Parking,0,0,0,0,0,0,0,0,Dartmouth College,Dartmouth College,0,0",5.0
+18:05:2013,103200.0,0.0,0.0,0.0,5.0,0.0,0.0,45.0,"Dartmouth College,0",2.0
+19:04:2013,84001.0,4799.0,0.0,0.0,4.0,1.0,9000.0,45.0,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Sudikoff Hall,Dartmouth College,Dartmouth College,0,0,0,0,0,0,0,0,0,0,0,0,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,Life Sciences Greenhouse,0",
+19:05:2013,96000.0,0.0,0.0,0.0,-1.0,0.0,0.0,45.0,"Dartmouth College,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dartmouth College,Dartmouth College",
+20:04:2013,84001.0,0.0,0.0,0.0,5.0,0.0,0.0,45.0,"Life Sciences Greenhouse,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,0,0",
+20:05:2013,62400.0,0.0,0.0,0.0,0.0,1.0,11700.0,45.0,"0,0",1.0
+21:04:2013,50399.0,37203.0,0.0,0.0,-1.0,0.0,0.0,45.0,"Sudikoff Hall,Dartmouth College,Sudikoff Hall,0,0,Dartmouth College,Sudikoff Hall,0",
+21:05:2013,84000.0,0.0,0.0,0.0,1.0,1.0,3900.0,45.0,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College",3.0
+22:04:2013,75601.0,13201.0,0.0,0.0,0.0,0.0,11700.0,45.0,"Sudikoff Hall,Dartmouth College,Dartmouth College,Sudikoff Hall,Dartmouth College,0,0,0,0,0,Dartmouth College,Sudikoff Hall,Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Sudikoff Hall,Dartmouth College",
+22:05:2013,90000.0,0.0,0.0,0.0,2.0,1.0,11700.0,45.0,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College",
+23:04:2013,82804.0,0.0,0.0,0.0,1.0,1.0,3900.0,45.0,"Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Dartmouth College,0,0,0,0,0,0,Dartmouth College,Dartmouth College,Dartmouth College",
+23:05:2013,82800.0,0.0,0.0,0.0,3.0,1.0,7800.0,45.0,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,0,Dartmouth College,0,0",
+24:04:2013,83501.0,3597.0,0.0,0.0,2.0,1.0,11700.0,45.0,"Sudikoff Hall,Dartmouth College,Sudikoff Hall,Dartmouth College,Dartmouth College,Dartmouth College,0,0,Dartmouth College",
+24:05:2013,86400.0,0.0,0.0,0.0,4.0,1.0,9000.0,45.0,"0,Dartmouth College,Dartmouth College,Dartmouth College,0,0",
+25:04:2013,78003.0,3599.0,2400.0,1700.0,3.0,1.0,7800.0,45.0,"0,Sudikoff Hall,Dartmouth College,Dartmouth College,Dartmouth College,0,0,Dartmouth College,Sudikoff Hall,Dartmouth College,Dewey Parking Lot,0,Dartmouth College",
+25:05:2013,111600.0,0.0,0.0,0.0,5.0,0.0,0.0,45.0,Dartmouth College,1.0
+26:04:2013,86401.0,1200.0,0.0,0.0,4.0,1.0,9000.0,45.0,"Dartmouth College,Class of 1978 Life Sciences Center,Life Sciences Greenhouse,0,0,0,0,Life Sciences Greenhouse,Dartmouth College",
+26:05:2013,61200.0,0.0,0.0,0.0,-1.0,0.0,0.0,45.0,"0,0,Dartmouth College,0",
+27:04:2013,97573.0,0.0,0.0,0.0,5.0,0.0,0.0,45.0,"Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College",
+27:05:2013,96002.0,0.0,0.0,0.0,0.0,1.0,11700.0,45.0,0,
+28:04:2013,141599.0,1201.0,0.0,0.0,-1.0,0.0,0.0,45.0,"Dartmouth College,Sudikoff Hall,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College",
+28:05:2013,239286.0,0.0,0.0,0.0,1.0,1.0,3900.0,45.0,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,0,0,0,0,0,0,0,0,0,Dartmouth College",
+29:04:2013,19127.0,0.0,0.0,0.0,0.0,1.0,11700.0,45.0,"Dartmouth College,Dartmouth College",
+30:04:2013,164473.0,1200.0,0.0,0.0,1.0,1.0,3900.0,45.0,"Dartmouth College,Life Sciences Greenhouse,Class of 1978 Life Sciences Center,Dartmouth College,0,0",4.0
+30:05:2013,67199.0,0.0,0.0,0.0,3.0,1.0,7800.0,45.0,"0,Dartmouth College",
+31:05:2013,26400.0,0.0,0.0,0.0,4.0,1.0,9000.0,45.0,"0,0,0,0,0,0,Dartmouth College,Dartmouth College,Dartmouth College,0,0,0",
