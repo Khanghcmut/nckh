@@ -1,34 +1,34 @@
-date,home_time,school_time,travel_time,orthers,shopping,date_in_week,cut_class,class_schedule,volunteer,level
-01:04:2013,87603.0,4799.0,0.0,0.0,0.0,0.0,0.0,0.0,51.0,
-02:04:2013,105598.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,51.0,
-03:04:2013,44400.0,0.0,1200.0,0.0,0.0,2.0,0.0,0.0,51.0,2.0
-04:04:2013,81600.0,3600.0,0.0,0.0,0.0,3.0,0.0,0.0,51.0,1.0
-05:04:2013,82800.0,4800.0,0.0,0.0,0.0,4.0,0.0,0.0,51.0,1.0
-06:04:2013,99600.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,51.0,2.5
-07:04:2013,94800.0,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,51.0,
-08:04:2013,60000.0,4800.0,0.0,0.0,0.0,0.0,0.0,0.0,51.0,1.0
-09:04:2013,86401.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,51.0,1.0
-10:04:2013,86399.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,51.0,
-11:04:2013,85200.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,51.0,1.0
-11:05:2013,247473.0,5999.0,0.0,0.0,0.0,5.0,0.0,0.0,51.0,
-12:04:2013,87601.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,51.0,
-13:04:2013,94800.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,51.0,
-13:05:2013,6601.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,51.0,
-14:04:2013,124800.0,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,51.0,1.0
-14:05:2013,190008.0,0.0,0.0,1199.0,0.0,1.0,0.0,0.0,51.0,
-15:04:2013,38400.0,1200.0,0.0,0.0,0.0,0.0,0.0,0.0,51.0,1.0
-16:04:2013,105542.0,0.0,1199.0,0.0,0.0,1.0,0.0,0.0,51.0,1.6666666666666667
-16:05:2013,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,51.0,1.0
-17:04:2013,110459.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,51.0,1.5
-18:04:2013,39600.0,0.0,1200.0,0.0,0.0,3.0,0.0,0.0,51.0,1.5
-19:04:2013,126000.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,51.0,
-20:04:2013,48000.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,51.0,1.0
-21:04:2013,150000.0,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,51.0,
-22:04:2013,28178.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,51.0,
-23:04:2013,100801.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,51.0,1.0
-24:04:2013,66000.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,51.0,
-25:04:2013,261851.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,51.0,
-28:04:2013,1119834.0,0.0,1200.0,0.0,0.0,-1.0,0.0,0.0,51.0,
-29:03:2013,86401.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,51.0,
-30:03:2013,88423.0,0.0,3600.0,0.0,3598.0,5.0,0.0,0.0,51.0,
-31:03:2013,85202.0,2398.0,0.0,0.0,3600.0,-1.0,0.0,0.0,51.0,1.0
+date,home_time,school_time,travel_time,orthers,shopping,date_in_week,cut_class,class_schedule,volunteer,location_names,level
+01:04:2013,87603.0,4799.0,0.0,0.0,0.0,0.0,0.0,0.0,51.0,"Dartmouth College,0,0,Dartmouth College,Dartmouth College,0,0,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,Dartmouth College",
+02:04:2013,105598.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,51.0,"Dartmouth College,0,0,0,Dartmouth College",
+03:04:2013,44400.0,0.0,1200.0,0.0,0.0,2.0,0.0,0.0,51.0,"Dartmouth College,Vail Dartmouth Medical School,0",2.0
+04:04:2013,81600.0,3600.0,0.0,0.0,0.0,3.0,0.0,0.0,51.0,"0,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,0,0,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center",1.0
+05:04:2013,82800.0,4800.0,0.0,0.0,0.0,4.0,0.0,0.0,51.0,"Dartmouth College,Dartmouth College,0,0,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,0",1.0
+06:04:2013,99600.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,51.0,"0,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,0",2.5
+07:04:2013,94800.0,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,51.0,"0,Dartmouth College,Dartmouth College,0",
+08:04:2013,60000.0,4800.0,0.0,0.0,0.0,0.0,0.0,0.0,51.0,"0,Dartmouth College,Dartmouth College,0,0,0,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,0",1.0
+09:04:2013,86401.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,51.0,"0,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,0",1.0
+10:04:2013,86399.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,51.0,"0,Dartmouth College,Dartmouth College,0",
+11:04:2013,85200.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,51.0,"0,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse",1.0
+11:05:2013,247473.0,5999.0,0.0,0.0,0.0,5.0,0.0,0.0,51.0,"Dartmouth College,Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Life Sciences Greenhouse,Life Sciences Greenhouse,The Irving Institute for Energy & Society,The Irving Institute for Energy & Society,The Irving Institute for Energy & Society,The Irving Institute for Energy & Society,Dartmouth College",
+12:04:2013,87601.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,51.0,"Dartmouth College,Dartmouth College,0",
+13:04:2013,94800.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,51.0,"0,Life Sciences Greenhouse,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,0",
+13:05:2013,6601.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,51.0,Dartmouth College,
+14:04:2013,124800.0,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,51.0,"0,Dartmouth College",1.0
+14:05:2013,190008.0,0.0,0.0,1199.0,0.0,1.0,0.0,0.0,51.0,"Life Sciences Greenhouse,Life Sciences Greenhouse,Nugget Arcade,Dartmouth College",
+15:04:2013,38400.0,1200.0,0.0,0.0,0.0,0.0,0.0,0.0,51.0,"Dartmouth College,Anonymous Hall,0",1.0
+16:04:2013,105542.0,0.0,1199.0,0.0,0.0,1.0,0.0,0.0,51.0,"0,Life Sciences Greenhouse,Life Sciences Greenhouse,0,Dartmouth College",1.6666666666666667
+16:05:2013,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,51.0,Dartmouth College,1.0
+17:04:2013,110459.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,51.0,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,0,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College",1.5
+18:04:2013,39600.0,0.0,1200.0,0.0,0.0,3.0,0.0,0.0,51.0,"Dartmouth College,0,0,0,Life Sciences Greenhouse,Life Sciences Greenhouse",1.5
+19:04:2013,126000.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,51.0,"Dartmouth College,0,0,0,Life Sciences Greenhouse,Life Sciences Greenhouse,0,0,0,Dartmouth College",
+20:04:2013,48000.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,51.0,"Dartmouth College,0,0",1.0
+21:04:2013,150000.0,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,51.0,"0,Dartmouth College,Dartmouth College,Dartmouth College,0",
+22:04:2013,28178.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,51.0,0,
+23:04:2013,100801.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,51.0,"Dartmouth College,Dartmouth College,0,0,Dartmouth College",1.0
+24:04:2013,66000.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,51.0,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0",
+25:04:2013,261851.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,51.0,"0,Dartmouth College,Dartmouth College,0,0",
+28:04:2013,1119834.0,0.0,1200.0,0.0,0.0,-1.0,0.0,0.0,51.0,"Dartmouth College,Dartmouth College,0,0,0,0,0,Dartmouth College",
+29:03:2013,86401.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,51.0,Dartmouth College,
+30:03:2013,88423.0,0.0,3600.0,0.0,3598.0,5.0,0.0,0.0,51.0,"Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Roberts Flowers of Hanover,Hanover Park Northbound,Dartmouth College",
+31:03:2013,85202.0,2398.0,0.0,0.0,3600.0,-1.0,0.0,0.0,51.0,"Dartmouth College,0,0,Anonymous Hall,Hanover Park,Dartmouth College",1.0

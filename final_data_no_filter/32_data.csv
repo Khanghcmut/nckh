@@ -1,61 +1,61 @@
-date,home_time,orthers,school_time,travel_time,recreational_activities,shopping,date_in_week,cut_class,class_schedule,volunteer
-01:04:2013 ,19200.0,16796.0,1200.0,38400.0,0.0,0.0,0,0.0,0.0,32
-01:05:2013 ,85199.0,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0,32
-02:04:2013 ,82880.0,2343.0,0.0,9577.0,0.0,0.0,1,0.0,0.0,32
-02:05:2013 ,41896.0,40903.0,0.0,4801.0,0.0,0.0,3,0.0,0.0,32
-03:04:2013 ,39600.0,0.0,0.0,40800.0,0.0,0.0,2,0.0,0.0,32
-03:05:2013 ,77028.0,0.0,42082.0,0.0,0.0,0.0,4,0.0,0.0,32
-04:04:2013 ,42649.0,0.0,4160.0,37191.0,0.0,0.0,3,0.0,0.0,32
-04:05:2013 ,90000.0,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,32
-05:04:2013 ,55200.0,0.0,3600.0,27600.0,0.0,0.0,4,0.0,0.0,32
-05:05:2013 ,101981.0,0.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,32
-06:04:2013 ,61200.0,0.0,0.0,30328.0,0.0,0.0,5,0.0,0.0,32
-06:05:2013 ,32431.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,32
-07:04:2013 ,55201.0,2399.0,0.0,18000.0,2400.0,2400.0,-1,0.0,0.0,32
-07:05:2013 ,86400.0,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0,32
-08:04:2013 ,58879.0,0.0,1200.0,25121.0,0.0,1520.0,0,0.0,0.0,32
-08:05:2013 ,43200.0,0.0,0.0,43200.0,0.0,0.0,2,0.0,0.0,32
-09:04:2013 ,50703.0,0.0,0.0,34955.0,0.0,2052.0,1,0.0,0.0,32
-09:05:2013 ,93964.0,0.0,0.0,3181.0,0.0,0.0,3,0.0,0.0,32
-10:04:2013 ,46350.0,0.0,2400.0,36450.0,0.0,0.0,2,0.0,0.0,32
-10:05:2013 ,91240.0,0.0,0.0,1200.0,0.0,1201.0,4,0.0,0.0,32
-11:04:2013 ,85303.0,0.0,1097.0,0.0,0.0,0.0,3,0.0,0.0,32
-11:05:2013 ,143383.0,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,32
-12:04:2013 ,62377.0,0.0,0.0,24492.0,0.0,0.0,4,0.0,0.0,32
-12:05:2013 ,11417.0,0.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,32
-13:04:2013 ,85223.0,0.0,0.0,1200.0,0.0,0.0,5,0.0,0.0,32
-13:05:2013 ,80996.0,0.0,0.0,0.0,0.0,10800.0,0,0.0,0.0,32
-14:04:2013 ,51600.0,34800.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,32
-14:05:2013 ,64560.0,19259.0,0.0,0.0,0.0,0.0,1,0.0,0.0,32
-15:04:2013 ,64863.0,0.0,0.0,25137.0,0.0,0.0,0,0.0,0.0,32
-15:05:2013 ,75600.0,0.0,0.0,0.0,0.0,96000.0,2,0.0,0.0,32
-16:04:2013 ,69600.0,0.0,0.0,14400.0,0.0,0.0,1,0.0,0.0,32
-17:04:2013 ,54000.0,0.0,0.0,38400.0,0.0,0.0,2,0.0,0.0,32
-17:05:2013 ,9600.0,0.0,0.0,0.0,0.0,94941.0,4,0.0,0.0,32
-18:04:2013 ,48000.0,0.0,0.0,1200.0,0.0,30000.0,3,0.0,0.0,32
-18:05:2013 ,78000.0,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,32
-19:04:2013 ,84016.0,0.0,0.0,1200.0,0.0,1184.0,4,0.0,0.0,32
-19:05:2013 ,89859.0,0.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,32
-20:04:2013 ,57600.0,0.0,0.0,35768.0,0.0,0.0,5,0.0,0.0,32
-20:05:2013 ,0.0,75600.0,0.0,0.0,0.0,0.0,0,0.0,0.0,32
-21:04:2013 ,85432.0,0.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,32
-21:05:2013 ,58801.0,6321.0,0.0,14400.0,3599.0,0.0,1,0.0,0.0,32
-22:04:2013 ,79200.0,0.0,0.0,1200.0,0.0,0.0,0,0.0,0.0,32
-22:05:2013 ,61200.0,26509.0,0.0,0.0,0.0,1091.0,2,0.0,0.0,32
-23:04:2013 ,98467.0,0.0,1133.0,1200.0,0.0,1200.0,1,0.0,0.0,32
-23:05:2013 ,84640.0,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0,32
-24:04:2013 ,86400.0,0.0,0.0,0.0,0.0,8400.0,2,0.0,0.0,32
-24:05:2013 ,107223.0,0.0,0.0,0.0,0.0,0.0,4,0.0,0.0,32
-25:04:2013 ,63600.0,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0,32
-25:05:2013 ,137708.0,0.0,0.0,3000.0,0.0,0.0,5,0.0,0.0,32
-26:04:2013 ,102097.0,0.0,1198.0,3505.0,0.0,0.0,4,0.0,0.0,32
-26:05:2013 ,251455.0,0.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,32
-27:04:2013 ,0.0,0.0,0.0,4801.0,0.0,79199.0,5,0.0,0.0,32
-28:03:2013 ,49194.0,0.0,0.0,34800.0,0.0,0.0,3,0.0,0.0,32
-28:04:2013 ,43201.0,0.0,0.0,33600.0,0.0,0.0,-1,0.0,0.0,32
-29:03:2013 ,69600.0,2400.0,1200.0,13198.0,0.0,0.0,4,0.0,0.0,32
-29:04:2013 ,78001.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,32
-29:05:2013 ,0.0,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0,32
-30:03:2013 ,40807.0,0.0,0.0,50393.0,0.0,0.0,5,0.0,0.0,32
-30:04:2013 ,84007.0,0.0,1198.0,0.0,0.0,1196.0,1,0.0,0.0,32
-31:03:2013 ,28800.0,0.0,0.0,63604.0,0.0,0.0,-1,0.0,0.0,32
+date,home_time,orthers,school_time,travel_time,recreational_activities,shopping,date_in_week,cut_class,class_schedule,volunteer,location_names
+01:04:2013,19200.0,16796.0,1200.0,38400.0,0.0,0.0,0,0.0,0.0,32,"0,0,0,0,North Main Street,0,North Main Street,0,North Main Street,North Main Street,North Main Street,0,North Main Street,Class of 1978 Life Sciences Center,Dartmouth College,Dartmouth College"
+01:05:2013,85199.0,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0,32,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Byrne II Hall"
+02:04:2013,82880.0,2343.0,0.0,9577.0,0.0,0.0,1,0.0,0.0,32,"Dartmouth College,Dartmouth College,0,0,Dartmouth College,Dartmouth College,Dartmouth College,North Main Street,0,North Main Street,0,North Main Street,0,North Main Street,0,North Main Street,0,North Main Street,0,North Main Street,0,0,0,0"
+02:05:2013,41896.0,40903.0,0.0,4801.0,0.0,0.0,3,0.0,0.0,32,"0,Irving,0,Scott Avenue,0,0,North Main Street,Dartmouth College,0"
+03:04:2013,39600.0,0.0,0.0,40800.0,0.0,0.0,2,0.0,0.0,32,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,North Main Street,0,0,0,North Main Street,0,0,North Main Street,North Main Street,0,North Main Street,North Main Street,0,North Main Street,North Main Street,0,North Main Street,North Main Street,North Main Street,North Main Street,0,North Main Street,North Main Street"
+03:05:2013,77028.0,0.0,42082.0,0.0,0.0,0.0,4,0.0,0.0,32,"0,0,Dartmouth College,0,Dartmouth College,Dartmouth College,Dartmouth College,0,Class of 1978 Life Sciences Center"
+04:04:2013,42649.0,0.0,4160.0,37191.0,0.0,0.0,3,0.0,0.0,32,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Class of 1978 Life Sciences Center,0,Dartmouth College,Dartmouth College,Dartmouth College,North Main Street,0,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,North Main Street,0,North Main Street,North Main Street,North Main Street,0,0,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,Dewey Parking Lot"
+04:05:2013,90000.0,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,32,0
+05:04:2013,55200.0,0.0,3600.0,27600.0,0.0,0.0,4,0.0,0.0,32,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,North Main Street,0,North Main Street,Dartmouth College,Dartmouth College,North Main Street,0,North Main Street,North Main Street,0,0,North Main Street,North Main Street,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,Dartmouth College,Dartmouth College,Dartmouth College"
+05:05:2013,101981.0,0.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,32,"0,0"
+06:04:2013,61200.0,0.0,0.0,30328.0,0.0,0.0,5,0.0,0.0,32,"Byrne II Hall,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,North Main Street,0,North Main Street,0,0,North Main Street,North Main Street,North Main Street,0,0,0,North Main Street,North Main Street,0,North Main Street,0,North Main Street,0,North Main Street,North Main Street,0,0"
+06:05:2013,32431.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,32,"0,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+07:04:2013,55201.0,2399.0,0.0,18000.0,2400.0,2400.0,-1,0.0,0.0,32,"Dartmouth College,Hanover Park,Hanover Park,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,Berry Sports Center,0,North Main Street,0,North Main Street,North Main Street,0,0,North Main Street,0,North Main Street,North Main Street,0,North Main Street,0,North Main Street,North Main Street,0,North Main Street,North Main Street,0,0"
+07:05:2013,86400.0,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0,32,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0"
+08:04:2013,58879.0,0.0,1200.0,25121.0,0.0,1520.0,0,0.0,0.0,32,"0,North Main Street,0,0,North Main Street,Dartmouth College,Dartmouth College,Dartmouth College,Zahm Courtyard,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,0,North Main Street,North Main Street,North Main Street,0,North Main Street,North Main Street,0,North Main Street,North Main Street,0,North Main Street,0,0,Class of 1978 Life Sciences Center,Dartmouth College,Dartmouth College,Hanover Park"
+08:05:2013,43200.0,0.0,0.0,43200.0,0.0,0.0,2,0.0,0.0,32,"0,North Main Street,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dewey Parking Lot,0,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+09:04:2013,50703.0,0.0,0.0,34955.0,0.0,2052.0,1,0.0,0.0,32,"Hanover Park,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,North Main Street,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,North Main Street,North Main Street,North Main Street,0,North Main Street,0,0,North Main Street,0,0,North Main Street,North Main Street,0,North Main Street,North Main Street,0"
+09:05:2013,93964.0,0.0,0.0,3181.0,0.0,0.0,3,0.0,0.0,32,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,North Main Street,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+10:04:2013,46350.0,0.0,2400.0,36450.0,0.0,0.0,2,0.0,0.0,32,"North Main Street,Dartmouth College,Dartmouth College,Dartmouth College,0,0,North Main Street,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,North Main Street,0,North Main Street,0,North Main Street,North Main Street,0,Class of 1978 Life Sciences Center,Dartmouth College,Dartmouth College"
+10:05:2013,91240.0,0.0,0.0,1200.0,0.0,1201.0,4,0.0,0.0,32,"0,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Hanover Park,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+11:04:2013,85303.0,0.0,1097.0,0.0,0.0,0.0,3,0.0,0.0,32,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,Anonymous Hall,Dartmouth College,Dartmouth College,0,Life Sciences Greenhouse"
+11:05:2013,143383.0,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,32,"0,0"
+12:04:2013,62377.0,0.0,0.0,24492.0,0.0,0.0,4,0.0,0.0,32,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,North Main Street,0,Dartmouth College"
+12:05:2013,11417.0,0.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,32,"0,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+13:04:2013,85223.0,0.0,0.0,1200.0,0.0,0.0,5,0.0,0.0,32,"Dartmouth College,0,North Main Street,0,0"
+13:05:2013,80996.0,0.0,0.0,0.0,0.0,10800.0,0,0.0,0.0,32,"Dartmouth College,Dartmouth College,Dartmouth College,0,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Hanover Park,0"
+14:04:2013,51600.0,34800.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,32,"0,0,0,0,0,0,0,Dartmouth College,Dartmouth College"
+14:05:2013,64560.0,19259.0,0.0,0.0,0.0,0.0,1,0.0,0.0,32,"0,Dartmouth College,Dartmouth College,0,Dartmouth College,Dartmouth College,0,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,0"
+15:04:2013,64863.0,0.0,0.0,25137.0,0.0,0.0,0,0.0,0.0,32,"0,North Main Street,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,North Main Street,0,Dartmouth College,Dartmouth College"
+15:05:2013,75600.0,0.0,0.0,0.0,0.0,96000.0,2,0.0,0.0,32,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,Dartmouth College,Hanover Park"
+16:04:2013,69600.0,0.0,0.0,14400.0,0.0,0.0,1,0.0,0.0,32,"0,0,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,North Main Street,0,North Main Street,0,0"
+17:04:2013,54000.0,0.0,0.0,38400.0,0.0,0.0,2,0.0,0.0,32,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dewey Parking Lot,0,Dartmouth College,Dartmouth College,Dartmouth College"
+17:05:2013,9600.0,0.0,0.0,0.0,0.0,94941.0,4,0.0,0.0,32,"0,Dartmouth College,Hanover Park,Hanover Park"
+18:04:2013,48000.0,0.0,0.0,1200.0,0.0,30000.0,3,0.0,0.0,32,"North Main Street,0,0,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Hanover Park,0,Life Sciences Greenhouse,Dartmouth College"
+18:05:2013,78000.0,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,32,"0,0,0"
+19:04:2013,84016.0,0.0,0.0,1200.0,0.0,1184.0,4,0.0,0.0,32,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,Dartmouth College,Dartmouth College,0,Dartmouth College,Hanover Park,Dartmouth College"
+19:05:2013,89859.0,0.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,32,"0,0,Dartmouth College,Dartmouth College"
+20:04:2013,57600.0,0.0,0.0,35768.0,0.0,0.0,5,0.0,0.0,32,"Dartmouth College,0,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,North Main Street"
+20:05:2013,0.0,75600.0,0.0,0.0,0.0,0.0,0,0.0,0.0,32,"0,Stop & Shop,0"
+21:04:2013,85432.0,0.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,32,"0,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+21:05:2013,58801.0,6321.0,0.0,14400.0,3599.0,0.0,1,0.0,0.0,32,"0,0,The Cheesecake Factory,0,Dartmouth College,0,Dartmouth College,Nugget Arcade"
+22:04:2013,79200.0,0.0,0.0,1200.0,0.0,0.0,0,0.0,0.0,32,"0,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,F Lot Parking"
+22:05:2013,61200.0,26509.0,0.0,0.0,0.0,1091.0,2,0.0,0.0,32,"0,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Nugget Arcade,Hanover Park,0,0,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,Hanover Post Office,0,Dartmouth College"
+23:04:2013,98467.0,0.0,1133.0,1200.0,0.0,1200.0,1,0.0,0.0,32,"Dartmouth College,Webster Hall,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Hanover Park,Dartmouth College,Dartmouth College,Dartmouth College,0,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+23:05:2013,84640.0,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0,32,"0,Dartmouth College"
+24:04:2013,86400.0,0.0,0.0,0.0,0.0,8400.0,2,0.0,0.0,32,"0,Hanover Park,0,Dartmouth College,Dartmouth College,0"
+24:05:2013,107223.0,0.0,0.0,0.0,0.0,0.0,4,0.0,0.0,32,"0,Dartmouth College,Dartmouth College"
+25:04:2013,63600.0,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0,32,"0,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+25:05:2013,137708.0,0.0,0.0,3000.0,0.0,0.0,5,0.0,0.0,32,"Dartmouth College,0,North Main Street,0,0,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+26:04:2013,102097.0,0.0,1198.0,3505.0,0.0,0.0,4,0.0,0.0,32,"0,Dartmouth College,Dartmouth College,Dartmouth College,North Main Street,Dartmouth College,Vail,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Dartmouth College,0,0,0,Dartmouth College,North Main Street,0"
+26:05:2013,251455.0,0.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,32,0
+27:04:2013,0.0,0.0,0.0,4801.0,0.0,79199.0,5,0.0,0.0,32,"North Main Street,South Block Parking Garage,Hanover Park,Hanover Park"
+28:03:2013,49194.0,0.0,0.0,34800.0,0.0,0.0,3,0.0,0.0,32,"Dartmouth College,Dartmouth College,0,0,0,0,North Main Street,North Main Street,North Main Street,North Main Street,0,North Main Street,0,North Main Street,0,0,North Main Street,North Main Street,0,North Main Street,North Main Street,0,0,North Main Street,North Main Street,North Main Street,0,North Main Street,0,0,North Main Street,North Main Street,0,0,0,Dartmouth College"
+28:04:2013,43201.0,0.0,0.0,33600.0,0.0,0.0,-1,0.0,0.0,32,"North Main Street,0,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+29:03:2013,69600.0,2400.0,1200.0,13198.0,0.0,0.0,4,0.0,0.0,32,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,0,0,0,0,North Main Street,0,North Main Street,North Main Street,0,0,North Main Street,North Main Street,0,0,0,Class of 1978 Life Sciences Center,Dartmouth College,Byrne II Hall"
+29:04:2013,78001.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,32,"Dartmouth College,0,Dartmouth College,Dartmouth College,Dartmouth College,0,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+29:05:2013,0.0,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0,32,Life Sciences Greenhouse
+30:03:2013,40807.0,0.0,0.0,50393.0,0.0,0.0,5,0.0,0.0,32,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dewey Parking Lot,0,0,North Main Street,0,North Main Street,North Main Street,0,North Main Street,North Main Street,0,North Main Street,North Main Street,0,0,North Main Street,North Main Street,0,North Main Street,North Main Street,0,0,North Main Street,0,North Main Street,0,North Main Street,0"
+30:04:2013,84007.0,0.0,1198.0,0.0,0.0,1196.0,1,0.0,0.0,32,"Dartmouth College,Hanover Park,Dartmouth College,Dartmouth College,Webster Hall,Dartmouth College,Dartmouth College,0,0"
+31:03:2013,28800.0,0.0,0.0,63604.0,0.0,0.0,-1,0.0,0.0,32,"0,North Main Street,0,North Main Street,North Main Street,North Main Street,0,North Main Street,North Main Street,0,0,0,0,North Main Street,North Main Street,North Main Street,0,North Main Street,North Main Street,North Main Street,0,North Main Street,0,North Main Street,North Main Street,0,North Main Street"

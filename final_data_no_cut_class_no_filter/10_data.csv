@@ -1,62 +1,62 @@
-date,home_time,recreational_activities,school_time,working,travel_time,orthers,date_in_week,volunteer
-01:04:2013 ,3598.0,4798.0,4805.0,1200.0,0.0,0.0,0,10
-01:05:2013 ,23950.0,0.0,13227.0,44390.0,1200.0,0.0,2,10
-02:04:2013 ,11998.0,0.0,0.0,73892.0,0.0,0.0,1,10
-02:05:2013 ,28877.0,0.0,2361.0,53995.0,0.0,0.0,3,10
-03:04:2013 ,26397.0,1202.0,6000.0,54000.0,0.0,0.0,2,10
-03:05:2013 ,15599.0,3600.0,0.0,61213.0,3600.0,3588.0,4,10
-04:04:2013 ,20401.0,0.0,15599.0,49016.0,0.0,0.0,3,10
-04:05:2013 ,57600.0,0.0,2400.0,45600.0,0.0,1200.0,5,10
-05:04:2013 ,11999.0,0.0,14400.0,60707.0,0.0,0.0,4,10
-05:05:2013 ,24000.0,0.0,0.0,57600.0,1200.0,0.0,-1,10
-06:04:2013 ,79166.0,1200.0,6000.0,1200.0,0.0,0.0,5,10
-06:05:2013 ,15600.0,0.0,0.0,49200.0,4800.0,0.0,0,10
-07:04:2013 ,3598.0,4798.0,1201.0,88803.0,0.0,0.0,-1,10
-07:05:2013 ,12600.0,10200.0,0.0,63000.0,0.0,0.0,1,10
-08:04:2013 ,9600.0,0.0,4800.0,58800.0,0.0,0.0,0,10
-08:05:2013 ,30600.0,7800.0,0.0,48000.0,1200.0,0.0,2,10
-09:04:2013 ,25200.0,0.0,0.0,60000.0,0.0,0.0,1,10
-09:05:2013 ,18498.0,21585.0,2400.0,46203.0,6600.0,0.0,3,10
-10:04:2013 ,9598.0,0.0,9600.0,66002.0,1200.0,0.0,2,10
-10:05:2013 ,17098.0,4701.0,0.0,55715.0,0.0,0.0,4,10
-11:04:2013 ,26400.0,0.0,1200.0,55201.0,0.0,3599.0,3,10
-11:05:2013 ,22199.0,0.0,4199.0,63601.0,601.0,0.0,5,10
-12:04:2013 ,18001.0,7200.0,0.0,61200.0,1200.0,0.0,4,10
-12:05:2013 ,17399.0,3000.0,7799.0,51602.0,600.0,600.0,-1,10
-13:04:2013 ,11996.0,0.0,0.0,79206.0,0.0,0.0,5,10
-13:05:2013 ,14398.0,0.0,6000.0,67134.0,0.0,600.0,0,10
-14:04:2013 ,8379.0,0.0,0.0,79221.0,0.0,0.0,-1,10
-14:05:2013 ,12601.0,16800.0,0.0,52202.0,2997.0,0.0,1,10
-15:04:2013 ,12000.0,0.0,1196.0,68133.0,0.0,0.0,0,10
-15:05:2013 ,19803.0,8397.0,600.0,58800.0,0.0,0.0,2,10
-16:04:2013 ,28413.0,0.0,6000.0,55205.0,0.0,0.0,1,10
-16:05:2013 ,11401.0,10799.0,0.0,60001.0,3600.0,0.0,3,10
-17:04:2013 ,21600.0,0.0,1200.0,60000.0,0.0,0.0,2,10
-17:05:2013 ,7798.0,11400.0,0.0,67802.0,0.0,0.0,4,10
-18:04:2013 ,10798.0,2399.0,8400.0,63603.0,0.0,0.0,3,10
-18:05:2013 ,23402.0,598.0,0.0,58801.0,1200.0,4199.0,5,10
-19:04:2013 ,14400.0,1200.0,1200.0,70800.0,0.0,0.0,4,10
-19:05:2013 ,20999.0,4200.0,0.0,57657.0,1006.0,0.0,-1,10
-20:04:2013 ,75602.0,0.0,2398.0,15600.0,0.0,0.0,5,10
-20:05:2013 ,5999.0,13200.0,6600.0,66001.0,0.0,0.0,0,10
-21:04:2013 ,34800.0,0.0,57600.0,0.0,0.0,0.0,-1,10
-21:05:2013 ,67471.0,12599.0,1200.0,600.0,0.0,0.0,1,10
-22:04:2013 ,16445.0,8400.0,1203.0,50400.0,0.0,0.0,0,10
-22:05:2013 ,13200.0,1800.0,0.0,71400.0,0.0,0.0,2,10
-23:04:2013 ,22796.0,1200.0,0.0,67159.0,0.0,0.0,1,10
-23:05:2013 ,5398.0,9602.0,0.0,71400.0,0.0,0.0,3,10
-24:04:2013 ,7140.0,25378.0,0.0,46726.0,0.0,0.0,2,10
-24:05:2013 ,0.0,1800.0,0.0,4200.0,369876.0,0.0,4,10
-25:04:2013 ,8390.0,1200.0,7275.0,67102.0,1200.0,0.0,3,10
-26:04:2013 ,69485.0,3580.0,0.0,14360.0,0.0,0.0,4,10
-27:03:2013 ,7197.0,0.0,4776.0,36027.0,0.0,0.0,2,10
-27:04:2013 ,25147.0,1166.0,7156.0,56453.0,0.0,0.0,5,10
-28:03:2013 ,7200.0,4799.0,7200.0,66001.0,0.0,0.0,3,10
-28:04:2013 ,5929.0,0.0,21660.0,53340.0,1213.0,7935.0,-1,10
-28:05:2013 ,14896.0,3600.0,0.0,35400.0,600.0,0.0,1,10
-29:03:2013 ,10799.0,14399.0,0.0,62402.0,0.0,0.0,4,10
-29:04:2013 ,21708.0,2337.0,14417.0,38416.0,1122.0,0.0,0,10
-29:05:2013 ,64797.0,12000.0,0.0,18603.0,0.0,0.0,2,10
-30:03:2013 ,4797.0,0.0,4802.0,231191.0,0.0,3598.0,5,10
-30:04:2013 ,51396.0,5982.0,0.0,29002.0,3620.0,0.0,1,10
-30:05:2013 ,0.0,12600.0,0.0,0.0,0.0,0.0,3,10
+date,home_time,recreational_activities,school_time,working,travel_time,orthers,date_in_week,volunteer,location_names
+01:04:2013,3598.0,4798.0,4805.0,1200.0,0.0,0.0,0,10,"Alpha Theta,Dartmouth College,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,Hopkins Center for the Arts,Hopkins Center for the Arts,Dartmouth College"
+01:05:2013,23950.0,0.0,13227.0,44390.0,1200.0,0.0,2,10,"Dartmouth College,Dartmouth College,0,Kemeny Hall,Kemeny Hall,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Alpha Theta,Alpha Theta,0,0,Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College,Anonymous Hall,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+02:04:2013,11998.0,0.0,0.0,73892.0,0.0,0.0,1,10,"Dartmouth College,Dartmouth College,Dartmouth College,Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College,Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College,Alpha Theta"
+02:05:2013,28877.0,0.0,2361.0,53995.0,0.0,0.0,3,10,"Dartmouth College,Alpha Theta,Alpha Theta,Dartmouth College,Sigma Delta,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Alpha Theta,Alpha Theta,Collis Student Center,Alpha Theta,Dartmouth College,Dartmouth College,Dartmouth College,Life Sciences Greenhouse,Anonymous Hall"
+03:04:2013,26397.0,1202.0,6000.0,54000.0,0.0,0.0,2,10,"Dartmouth College,Baker Memorial Library,Dartmouth College,Dartmouth College,Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,Dartmouth College,Dartmouth College,Dartmouth College"
+03:05:2013,15599.0,3600.0,0.0,61213.0,3600.0,3588.0,4,10,"0,0,Dartmouth College,Dartmouth College,Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College,Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College,Berry Library,Berry Library,Berry Library,Dartmouth College,Alpha Theta,Alpha Theta,0,Alpha Theta,Alpha Theta,Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Alpha Theta,Alpha Theta,0,Alpha Theta,Dartmouth College"
+04:04:2013,20401.0,0.0,15599.0,49016.0,0.0,0.0,3,10,"Dartmouth College,Collis Student Center,Collis Student Center,Dartmouth College,Dartmouth College,Dartmouth College,Alpha Theta,Alpha Theta,Dartmouth College,Collis Student Center,Collis Student Center,Collis Student Center,Life Sciences Greenhouse,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center"
+04:05:2013,57600.0,0.0,2400.0,45600.0,0.0,1200.0,5,10,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Alpha Theta,Dartmouth College,Alpha Theta,Alpha Theta,0,0,0,Dartmouth College,Alpha Theta,Dartmouth College,Alpha Theta,Collis Student Center,Collis Student Center,Alpha Theta,Alpha Theta,Dartmouth College"
+05:04:2013,11999.0,0.0,14400.0,60707.0,0.0,0.0,4,10,"Alpha Theta,Alpha Theta,Dartmouth College,MacLean Engineering Sciences Center,MacLean Engineering Sciences Center,Dartmouth College,Class of 1953 Commons,Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College,Life Sciences Greenhouse,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College"
+05:05:2013,24000.0,0.0,0.0,57600.0,1200.0,0.0,-1,10,"63 South Main Street Parking Deck,Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College"
+06:04:2013,79166.0,1200.0,6000.0,1200.0,0.0,0.0,5,10,"Dartmouth College,Hopkins Center for the Arts,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Alpha Theta,MacLean Engineering Sciences Center"
+06:05:2013,15600.0,0.0,0.0,49200.0,4800.0,0.0,0,10,"Dartmouth College,Mass Parking Lot,Mass Parking Lot,Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College,Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,0,Alpha Theta,Dartmouth College"
+07:04:2013,3598.0,4798.0,1201.0,88803.0,0.0,0.0,-1,10,"MacLean Engineering Sciences Center,Alpha Theta,Alumni Gymnasium,Dartmouth College,Dartmouth College,Alpha Theta,Alpha Theta,Dartmouth College,Alpha Theta"
+07:05:2013,12600.0,10200.0,0.0,63000.0,0.0,0.0,1,10,"Dartmouth College,Dartmouth College,Dartmouth College,Hopkins Center for the Arts,Dartmouth College,Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Alpha Theta,Alpha Theta,Berry Library,Dartmouth College,Dartmouth College,Dartmouth College,Alpha Theta"
+08:04:2013,9600.0,0.0,4800.0,58800.0,0.0,0.0,0,10,"Alpha Theta,Dartmouth College,Dartmouth College,Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,Alpha Theta,Alpha Theta,Dartmouth College"
+08:05:2013,30600.0,7800.0,0.0,48000.0,1200.0,0.0,2,10,"Alpha Theta,Dartmouth College,Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Alpha Theta,Alpha Theta,0,Dartmouth College,Alpha Theta,Alpha Theta,Berry Library,Berry Library,Berry Library,Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Hopkins Center for the Arts,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+09:04:2013,25200.0,0.0,0.0,60000.0,0.0,0.0,1,10,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Alpha Theta,Alpha Theta,Dartmouth College,Alpha Theta,Alpha Theta,Dartmouth College"
+09:05:2013,18498.0,21585.0,2400.0,46203.0,6600.0,0.0,3,10,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,63 South Main Street Parking Deck,63 South Main Street Parking Deck,Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College,Class of 1953 Commons,Dartmouth College,Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College,Alpha Theta,Alpha Theta,Dartmouth College,Baker Memorial Library,Baker Memorial Library,Dartmouth College,Baker Memorial Library,Baker Memorial Library"
+10:04:2013,9598.0,0.0,9600.0,66002.0,1200.0,0.0,2,10,"Alpha Theta,Collis Student Center,Collis Student Center,Alpha Theta,Dartmouth College,Dartmouth College,Dartmouth College,Alpha Theta,Alpha Theta,0,Alpha Theta,Alpha Theta,Life Sciences Greenhouse,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,Life Sciences Greenhouse,Class of 1978 Life Sciences Center,Dartmouth College,Alpha Theta,Dartmouth College"
+10:05:2013,17098.0,4701.0,0.0,55715.0,0.0,0.0,4,10,"Dartmouth College,Berry Library,Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College,Dartmouth College,Alpha Theta,Alpha Theta,Dartmouth College,Kappa Kappa Kappa,Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College,Alpha Theta,Alpha Theta,Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Berry Library,Berry Library,Dartmouth College,Dartmouth College"
+11:04:2013,26400.0,0.0,1200.0,55201.0,0.0,3599.0,3,10,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Alpha Theta,Alpha Theta,Coldwell Banker,Coldwell Banker,Collis Student Center,Dartmouth College,Alpha Theta,Alpha Theta,Life Sciences Greenhouse,Life Sciences Greenhouse"
+11:05:2013,22199.0,0.0,4199.0,63601.0,601.0,0.0,5,10,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Alpha Theta,Mass Parking Lot,Collis Student Center,Collis Student Center,Collis Student Center,Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College"
+12:04:2013,18001.0,7200.0,0.0,61200.0,1200.0,0.0,4,10,"Dana Circle Parking Lot,Alpha Theta,Alpha Theta,Baker Memorial Library,Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College,Alpha Theta,Dartmouth College,Dartmouth College,Alpha Theta,Alpha Theta,Berry Sports Center,Berry Sports Center,Alpha Theta,Dartmouth College,Dartmouth College,Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Alpha Theta,Alpha Theta,Baker Memorial Library,Dartmouth College"
+12:05:2013,17399.0,3000.0,7799.0,51602.0,600.0,600.0,-1,10,"Dartmouth College,Baker Memorial Library,Dartmouth College,Baker Memorial Library,Dartmouth College,Baker Memorial Library,Dartmouth College,Dartmouth College,Dartmouth College,Kemeny Hall,Dartmouth College,Dartmouth College,Alpha Theta,Alpha Theta,Latin American, Latino/a, and Caribbean House,Latin American, Latino/a, and Caribbean House,Alpha Theta,Dartmouth College,0,0,Wheelock House,Dartmouth College,Alpha Theta,Alpha Theta,0,Dartmouth College,Casque & Gauntlet Senior Society,Collis Student Center"
+13:04:2013,11996.0,0.0,0.0,79206.0,0.0,0.0,5,10,"Dartmouth College,Dartmouth College,Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College,Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College,Dartmouth College,Alpha Theta"
+13:05:2013,14398.0,0.0,6000.0,67134.0,0.0,600.0,0,10,"Collis Student Center,Simon Pearce,Dartmouth College,Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College,Dartmouth College,Robinson Hall,Collis Student Center,Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College,Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College"
+14:04:2013,8379.0,0.0,0.0,79221.0,0.0,0.0,-1,10,"Alpha Theta,Dartmouth College,Dartmouth College,Dartmouth College,Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College,Alpha Theta"
+14:05:2013,12601.0,16800.0,0.0,52202.0,2997.0,0.0,1,10,"Dartmouth College,Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College,Mass Parking Lot,Mass Parking Lot,Alpha Theta,Alpha Theta,Berry Library,Berry Library"
+15:04:2013,12000.0,0.0,1196.0,68133.0,0.0,0.0,0,10,"Alpha Theta,Kemeny Hall,Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Alpha Theta,Alpha Theta,Dartmouth College"
+15:05:2013,19803.0,8397.0,600.0,58800.0,0.0,0.0,2,10,"Hopkins Center for the Arts,Hopkins Center for the Arts,Dartmouth College,Alpha Theta,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Hopkins Center for the Arts,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College,Dartmouth College,Alpha Theta,Alpha Theta,Berry Library,Berry Library,Robinson Hall,Dartmouth College,Dartmouth College,Dartmouth College,Hopkins Center for the Arts,Hopkins Center for the Arts,Dartmouth College,Dartmouth College"
+16:04:2013,28413.0,0.0,6000.0,55205.0,0.0,0.0,1,10,"Dartmouth College,Alpha Theta,Alpha Theta,Dartmouth College,Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Collis Student Center"
+16:05:2013,11401.0,10799.0,0.0,60001.0,3600.0,0.0,3,10,"Dartmouth College,Dartmouth College,Hopkins Center for the Arts,Alpha Theta,Alpha Theta,0,Mass Parking Lot,Mass Parking Lot,Alpha Theta,Alpha Theta,Berry Library"
+17:04:2013,21600.0,0.0,1200.0,60000.0,0.0,0.0,2,10,"Dartmouth College,Dartmouth College,Dartmouth College,Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Anonymous Hall,Alpha Theta,Alpha Theta,Dartmouth College"
+17:05:2013,7798.0,11400.0,0.0,67802.0,0.0,0.0,4,10,"Berry Library,Dartmouth College,Alpha Theta,Alpha Theta,Alumni Gymnasium,Alumni Gymnasium,Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Alpha Theta,Alpha Theta,Berry Library,Berry Library,Alpha Theta,Alpha Theta,Hopkins Center for the Arts,Hopkins Center for the Arts,Dartmouth College,Dartmouth College,Hopkins Center for the Arts,Dartmouth College"
+18:04:2013,10798.0,2399.0,8400.0,63603.0,0.0,0.0,3,10,"Dartmouth College,Dartmouth College,Dartmouth College,Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College,Dartmouth College,Alpha Theta,Collis Student Center,Collis Student Center,Alpha Theta,Alpha Theta,Berry Library,Alpha Theta,Alpha Theta,Life Sciences Greenhouse,Life Sciences Greenhouse"
+18:05:2013,23402.0,598.0,0.0,58801.0,1200.0,4199.0,5,10,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,63 South Main Street Parking Deck,0,Sigma Delta,Dartmouth College,Dartmouth College,Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College,Hopkins Center for the Arts,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+19:04:2013,14400.0,1200.0,1200.0,70800.0,0.0,0.0,4,10,"Dartmouth College,Berry Library,Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Class of 1978 Life Sciences Center,Alpha Theta,Alpha Theta,Dartmouth College"
+19:05:2013,20999.0,4200.0,0.0,57657.0,1006.0,0.0,-1,10,"Dartmouth College,Alpha Theta,0,0,Dartmouth College,Dartmouth College,Dartmouth College,Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College,Dartmouth College,Baker Memorial Library,Dartmouth College,Baker Memorial Library,Baker Memorial Library,Dartmouth College,Dartmouth College"
+20:04:2013,75602.0,0.0,2398.0,15600.0,0.0,0.0,5,10,"Dartmouth College,Collis Student Center,Alpha Theta,Dartmouth College,Dartmouth College,Alpha Theta,Dartmouth College"
+20:05:2013,5999.0,13200.0,6600.0,66001.0,0.0,0.0,0,10,"Baker Memorial Library,Dartmouth College,Baker Memorial Library,Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College,Dartmouth College,Hopkins Center for the Arts,Hopkins Center for the Arts,Alpha Theta,Alpha Theta,Berry Library,Dartmouth College,Dartmouth College,Collis Student Center"
+21:04:2013,34800.0,0.0,57600.0,0.0,0.0,0.0,-1,10,"Middlebury College,Reed Road"
+21:05:2013,67471.0,12599.0,1200.0,600.0,0.0,0.0,1,10,"Collis Student Center,Robinson Hall,Alpha Theta,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Berry Library"
+22:04:2013,16445.0,8400.0,1203.0,50400.0,0.0,0.0,0,10,"Alpha Theta,Dartmouth College,Dartmouth College,Berry Library,Berry Library,Berry Library,Alpha Theta,Alpha Theta,Life Sciences Greenhouse,Life Sciences Greenhouse,Anonymous Hall,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+22:05:2013,13200.0,1800.0,0.0,71400.0,0.0,0.0,2,10,"Berry Library,Baker Memorial Library,Alpha Theta,Alpha Theta,Berry Library,Dartmouth College,Dartmouth College,Dartmouth College"
+23:04:2013,22796.0,1200.0,0.0,67159.0,0.0,0.0,1,10,"Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Alpha Theta,Alpha Theta,Berry Library,Alpha Theta"
+23:05:2013,5398.0,9602.0,0.0,71400.0,0.0,0.0,3,10,"Dartmouth College,Hopkins Center for the Arts,Hopkins Center for the Arts,Dartmouth College,Alpha Theta,Dartmouth College,Dartmouth College,Alpha Theta,Alpha Theta,Berry Library,Berry Library,Alpha Theta"
+24:04:2013,7140.0,25378.0,0.0,46726.0,0.0,0.0,2,10,"Alpha Theta,Berry Library,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Berry Library,Berry Library,Alpha Theta,Alpha Theta,Berry Library,Berry Library"
+24:05:2013,0.0,1800.0,0.0,4200.0,369876.0,0.0,4,10,"Hopkins Center for the Arts,Hopkins Center for the Arts,Alpha Theta,Alpha Theta,0"
+25:04:2013,8390.0,1200.0,7275.0,67102.0,1200.0,0.0,3,10,"Berry Library,Alpha Theta,Dartmouth College,Alpha Theta,0,Alpha Theta,Dartmouth College,Dartmouth College,Dartmouth College,0,Life Sciences Greenhouse"
+26:04:2013,69485.0,3580.0,0.0,14360.0,0.0,0.0,4,10,"Alpha Theta,Alpha Theta,Berry Library,Berry Library,Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Alpha Theta,Berry Library,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Dartmouth College"
+27:03:2013,7197.0,0.0,4776.0,36027.0,0.0,0.0,2,10,"Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College"
+27:04:2013,25147.0,1166.0,7156.0,56453.0,0.0,0.0,5,10,"Dartmouth College,Hopkins Center for the Arts,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College,Dartmouth College,0"
+28:03:2013,7200.0,4799.0,7200.0,66001.0,0.0,0.0,3,10,"Dartmouth College,Collis Student Center,Collis Student Center,Alpha Theta,Alpha Theta,Hopkins Center for the Arts,Hopkins Center for the Arts,Alpha Theta,Alpha Theta,Dartmouth College,Berry Library,Alpha Theta,Alpha Theta,Class of 1978 Life Sciences Center,Life Sciences Greenhouse"
+28:04:2013,5929.0,0.0,21660.0,53340.0,1213.0,7935.0,-1,10,"0,Alpha Theta,Consolidated Communications,Dartmouth College,Dartmouth College,Alpha Theta,Maynard Parking Lot,0,0,Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College,Dartmouth College,Alpha Theta"
+28:05:2013,14896.0,3600.0,0.0,35400.0,600.0,0.0,1,10,"Dartmouth College,Dartmouth College,Dartmouth College,Alpha Theta,0,Berry Library,Berry Library,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
+29:03:2013,10799.0,14399.0,0.0,62402.0,0.0,0.0,4,10,"Alpha Theta,Alpha Theta,Dartmouth College,Dartmouth College,Alpha Theta,Alpha Theta,Leverone Field House,Leverone Field House,Alpha Theta,Alpha Theta,Life Sciences Greenhouse,Life Sciences Greenhouse,Berry Library,Baker Memorial Library,Berry Library,Berry Library,Dartmouth College"
+29:04:2013,21708.0,2337.0,14417.0,38416.0,1122.0,0.0,0,10,"Dartmouth College,0,Dartmouth College,Dartmouth College,Alpha Theta,Alpha Theta,0,0,Alpha Theta,Alpha Theta,Berry Library,Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Dartmouth College"
+29:05:2013,64797.0,12000.0,0.0,18603.0,0.0,0.0,2,10,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Alpha Theta,Alpha Theta,Life Sciences Greenhouse,Alpha Theta,Alpha Theta,Berry Library"
+30:03:2013,4797.0,0.0,4802.0,231191.0,0.0,3598.0,5,10,"Dartmouth College,Alpha Theta,Alpha Theta,MacLean Engineering Sciences Center,Dartmouth College,Alpha Theta,Alpha Theta,0,Dartmouth College,Dartmouth College,Alpha Theta"
+30:04:2013,51396.0,5982.0,0.0,29002.0,3620.0,0.0,1,10,"Dartmouth College,Hopkins Center for the Arts,Dartmouth College,Dartmouth College,Dartmouth College,Alpha Theta,Dartmouth College,Mass Parking Lot,Blunt Alumni Center Parking Lot,Dartmouth College,Dartmouth College,Alpha Theta,Alpha Theta,Berry Library,Dartmouth College,Dartmouth College"
+30:05:2013,0.0,12600.0,0.0,0.0,0.0,0.0,3,10,"Berry Library,Berry Library,Berry Library,Berry Library,Berry Library,Alpha Theta"

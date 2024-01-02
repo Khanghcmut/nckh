@@ -1,35 +1,35 @@
-date,home_time,school_time,recreational_activities,orthers,travel_time,date_in_week,volunteer
-01:04:2013 ,45600.0,16799.0,0.0,0.0,0.0,0,21
-01:05:2013 ,341955.0,6001.0,26399.0,0.0,0.0,2,21
-02:04:2013 ,72001.0,0.0,14399.0,0.0,0.0,1,21
-03:04:2013 ,82800.0,4800.0,14400.0,2400.0,0.0,2,21
-04:04:2013 ,7200.0,3600.0,55200.0,0.0,0.0,3,21
-05:04:2013 ,100800.0,0.0,0.0,1200.0,0.0,4,21
-05:05:2013 ,225600.0,0.0,0.0,0.0,0.0,-1,21
-06:04:2013 ,100800.0,0.0,0.0,0.0,0.0,5,21
-07:04:2013 ,98400.0,0.0,0.0,0.0,0.0,-1,21
-08:04:2013 ,127200.0,3600.0,0.0,0.0,1200.0,0,21
-08:05:2013 ,263054.0,0.0,0.0,0.0,0.0,2,21
-10:04:2013 ,145204.0,7198.0,14399.0,0.0,0.0,2,21
-11:04:2013 ,4799.0,0.0,0.0,0.0,0.0,3,21
-11:05:2013 ,87599.0,0.0,0.0,0.0,0.0,5,21
-12:04:2013 ,114001.0,0.0,0.0,0.0,1199.0,4,21
-12:05:2013 ,351193.0,0.0,0.0,0.0,0.0,-1,21
-13:04:2013 ,126139.0,0.0,0.0,0.0,0.0,5,21
-14:04:2013 ,82800.0,0.0,0.0,0.0,0.0,-1,21
-15:04:2013 ,355909.0,0.0,0.0,0.0,0.0,0,21
-16:05:2013 ,81049.0,0.0,13200.0,0.0,0.0,3,21
-17:05:2013 ,73200.0,0.0,0.0,0.0,0.0,4,21
-18:05:2013 ,85201.0,3599.0,0.0,0.0,0.0,5,21
-19:04:2013 ,50102.0,0.0,0.0,0.0,0.0,4,21
-19:05:2013 ,90998.0,0.0,0.0,0.0,0.0,-1,21
-20:04:2013 ,120005.0,0.0,0.0,0.0,0.0,5,21
-20:05:2013 ,35998.0,0.0,3602.0,0.0,0.0,0,21
-21:04:2013 ,188402.0,0.0,0.0,0.0,0.0,-1,21
-24:04:2013 ,92328.0,0.0,9592.0,0.0,0.0,2,21
-25:04:2013 ,70918.0,0.0,1162.0,0.0,0.0,3,21
-26:04:2013 ,101967.0,0.0,0.0,0.0,0.0,4,21
-27:04:2013 ,61127.0,2487.0,8419.0,0.0,0.0,5,21
-28:04:2013 ,79119.0,0.0,30000.0,0.0,0.0,-1,21
-29:04:2013 ,75681.0,0.0,0.0,0.0,0.0,0,21
-30:04:2013 ,63603.0,0.0,8398.0,3599.0,0.0,1,21
+date,home_time,school_time,recreational_activities,orthers,travel_time,date_in_week,volunteer,location_names
+01:04:2013,45600.0,16799.0,0.0,0.0,0.0,0,21,"Anonymous Hall,Anonymous Hall,Anonymous Hall,0,0,0,0,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,0,0"
+01:05:2013,341955.0,6001.0,26399.0,0.0,0.0,2,21,"0,Webster Hall,Webster Hall,Dartmouth College,Berry Library,0,Dartmouth College,Baker Memorial Library,Baker Memorial Library,Baker Memorial Library,Baker Memorial Library,0,0,0"
+02:04:2013,72001.0,0.0,14399.0,0.0,0.0,1,21,"0,0,Dartmouth College,Baker Memorial Library,Dartmouth College,Dartmouth College,Berry Library,Dartmouth College,Berry Library,Berry Library,Berry Library,Berry Library,0,0,0,0"
+03:04:2013,82800.0,4800.0,14400.0,2400.0,0.0,2,21,"0,Dartmouth College,0,0,0,0,0,Berry Library,Berry Library,Berry Library,0,0,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,0"
+04:04:2013,7200.0,3600.0,55200.0,0.0,0.0,3,21,"0,Berry Library,Berry Library,Alumni Gymnasium,Alumni Gymnasium,Alumni Gymnasium,0,Berry Library,Berry Library,0,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center"
+05:04:2013,100800.0,0.0,0.0,1200.0,0.0,4,21,"0,0,0,0,0,0,0,0,0"
+05:05:2013,225600.0,0.0,0.0,0.0,0.0,-1,21,"0,Dartmouth College,0"
+06:04:2013,100800.0,0.0,0.0,0.0,0.0,5,21,"0,0,0,0,0,0,0"
+07:04:2013,98400.0,0.0,0.0,0.0,0.0,-1,21,"0,0,0,0,0,0"
+08:04:2013,127200.0,3600.0,0.0,0.0,1200.0,0,21,"0,0,0,Dana Circle Parking Lot,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,0"
+08:05:2013,263054.0,0.0,0.0,0.0,0.0,2,21,"0,0,Dartmouth College,0"
+10:04:2013,145204.0,7198.0,14399.0,0.0,0.0,2,21,"0,0,Dartmouth College,Dartmouth College,0,0,0,0,Collis Student Center,Hopkins Center for the Arts,Hopkins Center for the Arts,Berry Library,Berry Library,Berry Library,0,0,0,0,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,0"
+11:04:2013,4799.0,0.0,0.0,0.0,0.0,3,21,"0,Life Sciences Greenhouse,Life Sciences Greenhouse"
+11:05:2013,87599.0,0.0,0.0,0.0,0.0,5,21,"0,0,0,0,Dartmouth College,Dartmouth College,0"
+12:04:2013,114001.0,0.0,0.0,0.0,1199.0,4,21,"0,0,Dartmouth College,Dartmouth College,0,0,Life Sciences Greenhouse,0,0"
+12:05:2013,351193.0,0.0,0.0,0.0,0.0,-1,21,"0,Dartmouth College"
+13:04:2013,126139.0,0.0,0.0,0.0,0.0,5,21,"0,0,0,Dartmouth College,Dartmouth College,South Fairbanks,0"
+14:04:2013,82800.0,0.0,0.0,0.0,0.0,-1,21,"0,Dartmouth College,Dartmouth College,0"
+15:04:2013,355909.0,0.0,0.0,0.0,0.0,0,21,0
+16:05:2013,81049.0,0.0,13200.0,0.0,0.0,3,21,"0,Berry Library,Berry Library,0"
+17:05:2013,73200.0,0.0,0.0,0.0,0.0,4,21,"0,0,0"
+18:05:2013,85201.0,3599.0,0.0,0.0,0.0,5,21,"0,Dartmouth College,Dartmouth College,Parker House,Sudikoff Hall,Dartmouth College,Parker House,0,0,Dartmouth College,Dartmouth College,0"
+19:04:2013,50102.0,0.0,0.0,0.0,0.0,4,21,Life Sciences Greenhouse
+19:05:2013,90998.0,0.0,0.0,0.0,0.0,-1,21,0
+20:04:2013,120005.0,0.0,0.0,0.0,0.0,5,21,0
+20:05:2013,35998.0,0.0,3602.0,0.0,0.0,0,21,"Baker Memorial Library,Baker Memorial Library,0,0,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0"
+21:04:2013,188402.0,0.0,0.0,0.0,0.0,-1,21,"0,0,0"
+24:04:2013,92328.0,0.0,9592.0,0.0,0.0,2,21,"0,Dartmouth College,Dartmouth College,0,0,0,0,Baker Memorial Library,Berry Library,Berry Library,Dartmouth College,0,0,0"
+25:04:2013,70918.0,0.0,1162.0,0.0,0.0,3,21,"0,Dartmouth College,Berry Library,0,0,Life Sciences Greenhouse,Life Sciences Greenhouse"
+26:04:2013,101967.0,0.0,0.0,0.0,0.0,4,21,"Dartmouth College,Dartmouth College,Dartmouth College,0,0,Life Sciences Greenhouse,Life Sciences Greenhouse,0"
+27:04:2013,61127.0,2487.0,8419.0,0.0,0.0,5,21,"0,Dartmouth College,Dartmouth College,Dartmouth College,Sanborn House,Baker Memorial Library,0,0,Berry Library,Berry Library,Dartmouth College,Berry Library"
+28:04:2013,79119.0,0.0,30000.0,0.0,0.0,-1,21,"Berry Library,Dartmouth College,Baker Memorial Library,Berry Library,Berry Library,Baker Memorial Library,Baker Memorial Library,Berry Library,Berry Library,Baker Memorial Library,0"
+29:04:2013,75681.0,0.0,0.0,0.0,0.0,0,21,"0,Dartmouth College,Dartmouth College,Dartmouth College,0"
+30:04:2013,63603.0,0.0,8398.0,3599.0,0.0,1,21,"0,0,0,0,0,Dartmouth College,Dartmouth College,Baker Memorial Library,Baker Memorial Library,0,0,0"
