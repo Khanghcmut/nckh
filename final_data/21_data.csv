@@ -8,7 +8,7 @@ date,home_time,school_time,recreational_activities,orthers,travel_time,date_in_w
 05:05:2013,225600.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,21,"Dartmouth College,0"
 06:04:2013,99600.0,0.0,0.0,0.0,0.0,5,0.0,0.0,21,"0,0,0,0,0,0"
 07:04:2013,99600.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,21,"0,0,0,0,0"
-08:04:2013,127200.0,3600.0,0.0,0.0,1200.0,0,1.0,3900.0,21,"0,Dana Circle Parking Lot,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,0"
+08:04:2013,127200.0,3600.0,0.0,0.0,1200.0,0,0.0,3900.0,21,"0,Dana Circle Parking Lot,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,0"
 08:05:2013,263053.0,0.0,0.0,0.0,0.0,2,1.0,10500.0,21,"0,Dartmouth College,0"
 10:04:2013,140404.0,10798.0,14399.0,0.0,0.0,2,0.0,10500.0,21,"0,Wilder Hall,Wilder Hall,0,0,0,0,Dartmouth College,Hopkins Center for the Arts,Hopkins Center for the Arts,Berry Library,Berry Library,0,0,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,0"
 11:04:2013,4799.0,0.0,0.0,0.0,0.0,3,1.0,6900.0,21,"0,Life Sciences Greenhouse,Life Sciences Greenhouse"
@@ -24,7 +24,7 @@ date,home_time,school_time,recreational_activities,orthers,travel_time,date_in_w
 20:04:2013,121207.0,0.0,0.0,0.0,0.0,5,0.0,0.0,21,0
 20:05:2013,21601.0,17999.0,0.0,0.0,0.0,0,0.0,3900.0,21,"Dartmouth College,Dartmouth College,0,Dartmouth College,Dartmouth College,Hallgarten Hall,Dartmouth College,0"
 21:04:2013,188401.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,21,"0,0"
-24:04:2013,87599.0,8399.0,7201.0,0.0,0.0,2,1.0,10500.0,21,"Sudikoff Hall,0,0,0,Dartmouth College,Berry Library,Dartmouth College,0,0"
+24:04:2013,87599.0,8399.0,7201.0,0.0,0.0,2,0.0,10500.0,21,"Sudikoff Hall,0,0,0,Dartmouth College,Berry Library,Dartmouth College,0,0"
 25:04:2013,69600.0,0.0,0.0,0.0,0.0,3,1.0,6900.0,21,"Dartmouth College,0,0,Life Sciences Greenhouse,Life Sciences Greenhouse"
 26:04:2013,97183.0,5967.0,0.0,0.0,0.0,4,0.0,3000.0,21,"Sudikoff Hall,Dartmouth College,0,Life Sciences Greenhouse,Life Sciences Greenhouse,0"
 27:04:2013,64836.0,0.0,14414.0,0.0,0.0,5,0.0,0.0,21,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,0,Berry Library,Dartmouth College,Berry Library"

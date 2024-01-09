@@ -15,7 +15,7 @@ date,home_time,orthers,school_time,recreational_activities,travel_time,working,s
 10:05:2013,3600.0,1199.0,0.0,0.0,2400.0,0.0,0.0,4,1.0,3000.0,35,"0,Mass Parking Lot,Dartmouth College,Dartmouth College"
 11:04:2013,3599.0,2401.0,0.0,0.0,0.0,0.0,0.0,3,1.0,3900.0,35,"0,Life Sciences Greenhouse,Life Sciences Greenhouse"
 11:05:2013,42000.0,6001.0,0.0,0.0,0.0,39600.0,0.0,5,0.0,0.0,35,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Wheelock Office Park,0"
-12:04:2013,37200.0,46800.0,2400.0,0.0,0.0,0.0,0.0,4,1.0,3000.0,35,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Anonymous Hall,0,0,0"
+12:04:2013,37200.0,46800.0,2400.0,0.0,0.0,0.0,0.0,4,0.0,3000.0,35,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Anonymous Hall,0,0,0"
 12:05:2013,39599.0,21830.0,0.0,0.0,0.0,36000.0,0.0,-1,0.0,0.0,35,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Wheelock Office Park,0"
 13:04:2013,6000.0,44400.0,18001.0,0.0,20399.0,0.0,0.0,5,0.0,0.0,35,"Anonymous Hall,Anonymous Hall,0,Vail Dartmouth Medical School,0,0,0"
 13:05:2013,66779.0,0.0,0.0,0.0,0.0,18000.0,0.0,0,1.0,3900.0,35,"Wheelock Office Park,Dartmouth College,0"
@@ -35,7 +35,7 @@ date,home_time,orthers,school_time,recreational_activities,travel_time,working,s
 24:04:2013,15598.0,52795.0,19202.0,0.0,1200.0,0.0,0.0,2,0.0,3900.0,35,"0,F Lot Parking,0,0,Dartmouth College,0,Remsen Medical Sciences Building,Remsen Medical Sciences Building,0,0,0,0"
 25:04:2013,243007.0,0.0,0.0,0.0,18001.0,0.0,0.0,3,1.0,3900.0,35,"F Lot Parking,F Lot Parking,Dartmouth College,Dartmouth College,Dartmouth College"
 27:03:2013,67521.0,0.0,0.0,0.0,0.0,0.0,0.0,2,1.0,3900.0,35,Dartmouth College
-28:03:2013,62406.0,0.0,3604.0,0.0,0.0,0.0,0.0,3,1.0,3900.0,35,"Dartmouth College,Life Sciences Greenhouse,Class of 1978 Life Sciences Center"
+28:03:2013,62406.0,0.0,3604.0,0.0,0.0,0.0,0.0,3,0.0,3900.0,35,"Dartmouth College,Life Sciences Greenhouse,Class of 1978 Life Sciences Center"
 28:04:2013,0.0,100800.0,18008.0,0.0,2399.0,0.0,0.0,-1,0.0,0.0,35,"0,0,0,0,Four Seasons | Sotheby's,0,0"
 29:03:2013,38431.0,0.0,50365.0,0.0,0.0,0.0,0.0,4,0.0,3000.0,35,"Collis Student Center,Collis Student Center,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Anonymous Hall,Class of 1978 Life Sciences Center,Life Sciences Greenhouse,Class of 1978 Life Sciences Center,Berry Hall,Anonymous Hall"
 29:04:2013,16800.0,34800.0,0.0,0.0,0.0,2400.0,0.0,0,1.0,3900.0,35,"Wheelock Office Park,0,0,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College"

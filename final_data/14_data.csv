@@ -1,8 +1,8 @@
 date,home_time,school_time,travel_time,orthers,recreational_activities,working,date_in_week,cut_class,class_schedule,volunteer,location_names
-01:05:2013,600.0,8405.0,38997.0,0.0,0.0,0.0,2,1.0,10800.0,14,"Anonymous Hall,Vail Dartmouth Medical School,North Main Street,North Main Street,Life Sciences Greenhouse,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall"
+01:05:2013,600.0,8405.0,38997.0,0.0,0.0,0.0,2,0.0,10800.0,14,"Anonymous Hall,Vail Dartmouth Medical School,North Main Street,North Main Street,Life Sciences Greenhouse,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall"
 02:04:2013,237600.0,0.0,0.0,0.0,0.0,0.0,1,1.0,6900.0,14,Dartmouth College
 02:05:2013,0.0,300370.0,0.0,0.0,0.0,0.0,3,0.0,6900.0,14,Sudikoff Hall
-04:04:2013,0.0,6000.0,0.0,0.0,0.0,0.0,3,1.0,6900.0,14,"Sudikoff Hall,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center"
+04:04:2013,0.0,6000.0,0.0,0.0,0.0,0.0,3,0.0,6900.0,14,"Sudikoff Hall,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center"
 05:04:2013,0.0,114000.0,0.0,0.0,0.0,0.0,4,0.0,9000.0,14,"Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall"
 05:05:2013,80887.0,0.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,14,0
 06:04:2013,0.0,0.0,318003.0,0.0,0.0,0.0,5,0.0,0.0,14,0

@@ -1,7 +1,7 @@
 date,home_time,school_time,travel_time,orthers,recreational_activities,date_in_week,cut_class,class_schedule,volunteer,location_names
 01:04:2013,6000.0,20400.0,0.0,0.0,0.0,0,0.0,3900.0,48,"Dartmouth College,Dartmouth College,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,Life Sciences Greenhouse,Class of 1978 Life Sciences Center,Anonymous Hall"
 01:05:2013,222821.0,0.0,0.0,0.0,0.0,2,1.0,10500.0,48,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
-02:04:2013,170553.0,6000.0,0.0,0.0,0.0,1,1.0,6600.0,48,"Anonymous Hall,Dartmouth College,Dartmouth College"
+02:04:2013,170553.0,6000.0,0.0,0.0,0.0,1,0.0,6600.0,48,"Anonymous Hall,Dartmouth College,Dartmouth College"
 03:05:2013,20400.0,0.0,0.0,0.0,0.0,4,1.0,3000.0,48,"Dartmouth College,Dartmouth College,Dartmouth College"
 04:04:2013,72001.0,2400.0,0.0,0.0,0.0,3,1.0,6900.0,48,"Anonymous Hall,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Life Sciences Greenhouse"
 04:05:2013,196946.0,0.0,0.0,0.0,0.0,5,0.0,0.0,48,"Life Sciences Greenhouse,Life Sciences Greenhouse,Life Sciences Greenhouse,Rauner Hall,Dartmouth College"
@@ -36,7 +36,7 @@ date,home_time,school_time,travel_time,orthers,recreational_activities,date_in_w
 27:05:2013,67200.0,0.0,0.0,0.0,0.0,0,1.0,3900.0,48,Dartmouth College
 28:04:2013,233319.0,2397.0,0.0,0.0,0.0,-1,0.0,0.0,48,"Sudikoff Hall,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Sudikoff Hall,Dartmouth College,Dartmouth College"
 28:05:2013,97200.0,1800.0,0.0,0.0,0.0,1,1.0,6600.0,48,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Sudikoff Hall,Dartmouth College,Sudikoff Hall,Dartmouth College,Dartmouth College,Dartmouth College"
-29:03:2013,40803.0,2400.0,0.0,0.0,0.0,4,1.0,3000.0,48,"0,0,0,0,0,0,0,0,0,0,Class of 1978 Life Sciences Center,Dartmouth College"
+29:03:2013,40803.0,2400.0,0.0,0.0,0.0,4,0.0,3000.0,48,"0,0,0,0,0,0,0,0,0,0,Class of 1978 Life Sciences Center,Dartmouth College"
 29:05:2013,69600.0,599.0,601.0,0.0,0.0,2,1.0,10500.0,48,"Dartmouth College,Dartmouth College,Class of 1978 Life Sciences Center,Dana Circle Parking Lot,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
 30:03:2013,104399.0,18001.0,16798.0,0.0,0.0,5,0.0,0.0,48,"Life Sciences Greenhouse,Life Sciences Greenhouse,Anonymous Hall,0,0,0"
 30:04:2013,34800.0,0.0,0.0,0.0,1200.0,1,1.0,6600.0,48,"Hopkins Center for the Arts,Dartmouth College"

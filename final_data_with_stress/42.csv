@@ -1,50 +1,40 @@
-date,home_time,recreational_activities,school_time,travel_time,orthers,date_in_week,cut_class,class_schedule,volunteer,location_names,level
-01:04:2013,61192.0,2402.0,19206.0,0.0,0.0,0.0,0.0,3900.0,42.0,"Hopkins Center for the Arts,Hopkins Center for the Arts,Dartmouth College,Carpenter Hall,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Ripley Hall,Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth Hall,Dartmouth Hall,Dartmouth College,Dartmouth College",
-01:05:2013,80399.0,3601.0,3600.0,0.0,0.0,2.0,1.0,10500.0,42.0,"Dartmouth College,Hopkins Center for the Arts,Smith Hall,Ripley Hall,Dartmouth College,Dartmouth College,Ripley Hall,Dartmouth College,Dartmouth Hall,Dartmouth Hall,Dartmouth College",
-02:04:2013,86400.0,1201.0,0.0,0.0,0.0,1.0,1.0,6600.0,42.0,"Dartmouth College,Dartmouth College,Ripley Hall,Hopkins Center for the Arts,Dartmouth College",5.0
-02:05:2013,582620.0,0.0,0.0,1201.0,0.0,3.0,1.0,6900.0,42.0,"Dartmouth College,Dartmouth Row Parking Lot,Dartmouth College,Dartmouth College,Ripley Hall",
-03:04:2013,12000.0,69779.0,3600.0,0.0,0.0,2.0,1.0,10500.0,42.0,"Dartmouth College,Dartmouth College,Dartmouth College,Berry Library,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth Hall,Dartmouth Hall,Dartmouth College",5.0
-04:04:2013,78001.0,0.0,7199.0,0.0,0.0,3.0,0.0,6900.0,42.0,"Dartmouth College,Dartmouth Hall,Dartmouth Hall,Dartmouth College,Dartmouth College,Ripley Hall,Ripley Hall,Dartmouth College,Dartmouth College,Dartmouth College,Sudikoff Hall,Sudikoff Hall,Dartmouth College,Ripley Hall,Life Sciences Greenhouse,Class of 1978 Life Sciences Center",2.5
-05:04:2013,64800.0,16800.0,3600.0,2400.0,0.0,4.0,0.0,3000.0,42.0,"Dartmouth College,Ripley Hall,Hopkins Center for the Arts,Hopkins Center for the Arts,Berry Library,Dartmouth College,Life Sciences Greenhouse,0,Life Sciences Greenhouse,Dartmouth Hall,Dartmouth Hall,Dartmouth College",4.0
-06:04:2013,87600.0,0.0,4800.0,0.0,0.0,5.0,0.0,0.0,42.0,"Dartmouth College,Dartmouth Hall,Dartmouth Hall,Ripley Hall,Dartmouth College,Ripley Hall",4.0
-07:04:2013,215292.0,0.0,33599.0,0.0,0.0,-1.0,0.0,0.0,42.0,"Dartmouth College,Carpenter Hall,Ripley Hall,Ripley Hall",
-08:05:2013,20400.0,0.0,0.0,0.0,0.0,2.0,1.0,10500.0,42.0,"Ripley Hall,Dartmouth College,Ripley Hall,Ripley Hall",3.5
-09:04:2013,0.0,0.0,3601.0,0.0,0.0,1.0,1.0,6600.0,42.0,"Dartmouth Hall,Dartmouth Hall",4.0
-09:05:2013,166524.0,0.0,0.0,0.0,0.0,3.0,1.0,6900.0,42.0,"Ripley Hall,Dartmouth College,Ripley Hall,Dartmouth College,Ripley Hall",1.0
-10:04:2013,62399.0,1199.0,24001.0,0.0,0.0,2.0,0.0,10500.0,42.0,"Sudikoff Hall,Dartmouth College,Carpenter Hall,Carpenter Hall,Berry Library,Carpenter Hall,Ripley Hall,Class of 1978 Life Sciences Center,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth Hall,Dartmouth Hall,Dartmouth College",
-10:05:2013,2400.0,0.0,3599.0,0.0,0.0,4.0,0.0,3000.0,42.0,"Dartmouth Hall,Dartmouth Hall,Dartmouth College",
-11:04:2013,72002.0,5998.0,7200.0,0.0,0.0,3.0,0.0,6900.0,42.0,"Dartmouth College,Dartmouth Hall,Dartmouth Hall,Dartmouth College,Dartmouth College,Dartmouth College,Sudikoff Hall,Sudikoff Hall,Hopkins Center for the Arts,Hopkins Center for the Arts,Dartmouth College,Ripley Hall,Alumni Gymnasium,Ripley Hall,Ripley Hall,Ripley Hall,Ripley Hall,Ripley Hall,Dartmouth College,Dartmouth College,Ripley Hall,Ripley Hall,Ripley Hall,Ripley Hall,Dartmouth College,Ripley Hall,Ripley Hall,Class of 1978 Life Sciences Center,Life Sciences Greenhouse,Life Sciences Greenhouse",
-11:05:2013,91702.0,0.0,3601.0,0.0,0.0,5.0,0.0,0.0,42.0,"Dartmouth College,Dartmouth Hall,Dartmouth Hall,Dartmouth College,Ripley Hall",
-12:04:2013,80402.0,2400.0,4798.0,0.0,0.0,4.0,0.0,3000.0,42.0,"Dartmouth College,Hopkins Center for the Arts,Dartmouth College,Dartmouth College,Ripley Hall,Life Sciences Greenhouse,Life Sciences Greenhouse,Anonymous Hall,Dartmouth Hall,Dartmouth Hall,Dartmouth College",
-12:05:2013,75603.0,2397.0,0.0,0.0,0.0,-1.0,0.0,0.0,42.0,"Ripley Hall,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Hopkins Center for the Arts,Hopkins Center for the Arts,Ripley Hall",
-13:04:2013,99600.0,0.0,4800.0,0.0,0.0,5.0,0.0,0.0,42.0,"Dartmouth College,Dartmouth Hall,Dartmouth Hall,Ripley Hall,Ripley Hall",
-13:05:2013,56400.0,26400.0,3600.0,0.0,0.0,0.0,1.0,3900.0,42.0,"Berry Library,Berry Library,Berry Library,Hopkins Center for the Arts,Hopkins Center for the Arts,Dartmouth College,Ripley Hall,Dartmouth Hall,Dartmouth Hall,Hopkins Center for the Arts,Dartmouth College",
-14:04:2013,76800.0,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,42.0,"Ripley Hall,Ripley Hall,Ripley Hall,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Ripley Hall",4.0
-14:05:2013,111600.0,0.0,4800.0,0.0,0.0,1.0,1.0,6600.0,42.0,"Dartmouth College,Dartmouth Hall,Dartmouth Hall,Ripley Hall,Dartmouth College",1.0
-15:04:2013,75600.0,0.0,3600.0,0.0,0.0,0.0,1.0,3900.0,42.0,"Dartmouth College,Ripley Hall,Dartmouth Hall,Dartmouth Hall,Dartmouth College",1.0
-15:05:2013,497261.0,0.0,0.0,0.0,0.0,2.0,1.0,10500.0,42.0,"Ripley Hall,Ripley Hall",4.0
-16:04:2013,75600.0,2400.0,6000.0,0.0,0.0,1.0,1.0,6600.0,42.0,"Dartmouth Hall,Dartmouth Hall,Ripley Hall,Ripley Hall,Ripley Hall,Ripley Hall,Ripley Hall,Dartmouth College,Dartmouth College,Ripley Hall,Ripley Hall,Dartmouth College,Ripley Hall,Berry Library,Dartmouth College,Dartmouth Hall,Berry Library",
-17:04:2013,248212.0,0.0,0.0,0.0,0.0,2.0,1.0,10500.0,42.0,"Dartmouth College,Dartmouth College,Dartmouth College,Ripley Hall",
-19:04:2013,8395.0,0.0,3600.0,0.0,0.0,4.0,0.0,3000.0,42.0,"Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth Hall,Dartmouth Hall,Dartmouth College",
-20:04:2013,88803.0,0.0,2399.0,0.0,0.0,5.0,0.0,0.0,42.0,"Dartmouth College,Ripley Hall,Dartmouth Hall,Dartmouth Hall,Ripley Hall,Ripley Hall,Dartmouth College,Dartmouth College,Ripley Hall",
-21:04:2013,75600.0,0.0,0.0,3598.0,1201.0,-1.0,0.0,0.0,42.0,"Dartmouth College,Ripley Hall,Ripley Hall,Dartmouth College,Dartmouth College,Ripley Hall,South Block Parking Garage,Johnson Audiology,South Block Parking Garage,South Block Parking Garage,Ripley Hall",
-21:05:2013,50401.0,13203.0,14397.0,0.0,0.0,1.0,0.0,6600.0,42.0,"Berry Library,Ripley Hall,Dartmouth College,Dartmouth College,Sudikoff Hall,Ripley Hall,Dartmouth College,Berry Library,Berry Library,Dartmouth Hall,Dartmouth Hall",4.0
-22:04:2013,73199.0,6000.0,7200.0,1200.0,0.0,0.0,0.0,3900.0,42.0,"Dartmouth College,Dartmouth College,Dartmouth College,Middle Massachusetts Hall,Dartmouth College,Dartmouth College,Middle Massachusetts Hall,Dartmouth College,Dartmouth College,Dartmouth College,Berry Library,Berry Library,Sudikoff Hall,Sudikoff Hall,Ripley Hall,Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,0,Dartmouth Hall,Dartmouth Hall,Berry Library,Dartmouth College",
-22:05:2013,98400.0,0.0,4800.0,0.0,0.0,2.0,1.0,10500.0,42.0,"Dartmouth College,Ripley Hall,Dartmouth College,Dartmouth College,Dartmouth Hall,Dartmouth Hall,Ripley Hall",4.0
-23:04:2013,60001.0,7199.0,18000.0,0.0,0.0,1.0,0.0,6600.0,42.0,"Dartmouth College,Dartmouth Hall,Dartmouth Hall,Ripley Hall,Ripley Hall,Dartmouth College,Dartmouth College,Berry Library,Dartmouth College,Dartmouth College,Berry Library,Dartmouth College,Hopkins Center for the Arts,Dartmouth College,Sudikoff Hall,Hopkins Center for the Arts,Ripley Hall,Dartmouth Hall,Dartmouth Hall",1.0
-23:05:2013,0.0,169568.0,0.0,0.0,0.0,3.0,1.0,6900.0,42.0,Berry Library,
-24:04:2013,76800.0,18000.0,0.0,0.0,0.0,2.0,1.0,10500.0,42.0,"Dartmouth College,Dartmouth College,Hopkins Center for the Arts,Ripley Hall,Ripley Hall,Berry Library,Berry Library,Dartmouth College,Dartmouth College,Ripley Hall,Hopkins Center for the Arts,Hopkins Center for the Arts,Baker Memorial Library",
-25:04:2013,77923.0,0.0,0.0,0.0,0.0,3.0,1.0,6900.0,42.0,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Ripley Hall,Ripley Hall,Dartmouth College,Ripley Hall,Life Sciences Greenhouse,Life Sciences Greenhouse",
-25:05:2013,94476.0,3600.0,1201.0,0.0,0.0,5.0,0.0,0.0,42.0,"Sudikoff Hall,Dartmouth College,Ripley Hall,Ripley Hall,Hopkins Center for the Arts,Hopkins Center for the Arts,Ripley Hall",
-26:04:2013,82764.0,1124.0,3712.0,0.0,0.0,4.0,0.0,3000.0,42.0,"Ripley Hall,Ripley Hall,Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Baker Memorial Library,Dartmouth College,Ripley Hall,Dartmouth Hall,Dartmouth Hall,Dartmouth College,Dartmouth College",
-26:05:2013,50399.0,8400.0,0.0,0.0,0.0,-1.0,0.0,0.0,42.0,"Dartmouth College,Berry Library,Ripley Hall,Dartmouth College,The Lodge",
-27:04:2013,88800.0,0.0,3600.0,0.0,0.0,5.0,0.0,0.0,42.0,"Dartmouth College,Dartmouth Hall,Dartmouth Hall,Dartmouth College",4.0
-27:05:2013,98906.0,0.0,0.0,0.0,0.0,0.0,1.0,3900.0,42.0,"Dartmouth College,Dartmouth College,Dartmouth College,Ripley Hall",
-28:04:2013,62401.0,16800.0,9599.0,0.0,0.0,-1.0,0.0,0.0,42.0,"Ripley Hall,Ripley Hall,Sudikoff Hall,Sudikoff Hall,Baker Memorial Library,Ripley Hall",
-28:05:2013,58800.0,18001.0,6000.0,0.0,0.0,1.0,1.0,6600.0,42.0,"Berry Library,Dartmouth College,Sudikoff Hall,Dartmouth College,Dartmouth College,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Dartmouth College,Sudikoff Hall,Berry Library,Berry Library,Dartmouth College,Ripley Hall",
-29:03:2013,56400.0,4799.0,6001.0,0.0,0.0,4.0,0.0,3000.0,42.0,"Ripley Hall,Ripley Hall,Hopkins Center for the Arts,Hopkins Center for the Arts,Ripley Hall,Life Sciences Greenhouse,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,Dartmouth Hall,Dartmouth Hall,Berry Library,Dartmouth College",
-29:04:2013,72000.0,3600.0,2400.0,0.0,0.0,0.0,1.0,3900.0,42.0,"Dartmouth College,Ripley Hall,Dartmouth College,Alumni Gymnasium,Ripley Hall,Dartmouth College,Ripley Hall,Hopkins Center for the Arts,Hopkins Center for the Arts,Dartmouth College,Ripley Hall,Ripley Hall,Ripley Hall,Dartmouth Hall,Dartmouth College,Ripley Hall,Dartmouth College",1.0
-29:05:2013,63466.0,6134.0,0.0,0.0,0.0,2.0,1.0,10500.0,42.0,"Dartmouth College,Dartmouth College,Berry Library,Life Sciences Greenhouse,Middle Fayerweather Hall,Ripley Hall",
-30:03:2013,79202.0,7198.0,0.0,0.0,0.0,5.0,0.0,0.0,42.0,"Dartmouth College,Ripley Hall,Alumni Gymnasium,Alumni Gymnasium,Hopkins Center for the Arts,Ripley Hall,Dartmouth College,Dartmouth College,Ripley Hall,Ripley Hall,Dartmouth College,Ripley Hall,Hopkins Center for the Arts,Hopkins Center for the Arts",
-30:04:2013,66000.0,0.0,19200.0,0.0,0.0,1.0,0.0,6600.0,42.0,"Dartmouth College,Dartmouth Hall,Dartmouth College,Ripley Hall,Dartmouth College,Dartmouth Hall,Dartmouth Hall",
-31:03:2013,90000.0,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,42.0,"Ripley Hall,Ripley Hall",
+date,home_time,orthers,travel_time,recreational_activities,school_time,shopping,working,date_in_week,cut_class,class_schedule,volunteer,location_names,level
+01:05:2013,13202.0,86398.0,68400.0,0.0,0.0,0.0,0.0,2.0,1.0,14400.0,43.0,"Dartmouth College,F Lot Parking,F Lot Parking,Life Sciences Greenhouse,Lebanon Street",
+02:05:2013,1200.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,6900.0,43.0,Life Sciences Greenhouse,
+03:04:2013,0.0,0.0,0.0,8385.0,70799.0,1215.0,0.0,2.0,0.0,14400.0,43.0,"Six South Street,Six South Street,Chew & Co. Design,Anonymous Hall,Anonymous Hall,Anonymous Hall,Anonymous Hall,Anonymous Hall,Anonymous Hall,Class of 1978 Life Sciences Center",5.0
+03:05:2013,90103.0,2400.0,0.0,0.0,12000.0,0.0,0.0,4.0,0.0,6000.0,43.0,"Dartmouth College,0,Dartmouth College,Class of 1978 Life Sciences Center,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0",
+04:04:2013,24018.0,0.0,52660.0,0.0,6000.0,0.0,0.0,3.0,0.0,6900.0,43.0,"Dartmouth College,0,0,Dana Circle Parking Lot,Anonymous Hall,Anonymous Hall,Anonymous Hall,Vail Dartmouth Medical School,Class of 1978 Life Sciences Center",2.5
+04:05:2013,165392.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,43.0,"Dartmouth College,Dartmouth College",
+05:04:2013,13200.0,1200.0,0.0,0.0,14401.0,0.0,61643.0,4.0,0.0,6000.0,43.0,"Hanover Post Office,Anonymous Hall,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Wheelock Office Park,Class of 1978 Life Sciences Center,Anonymous Hall,Anonymous Hall",4.0
+06:04:2013,5999.0,0.0,0.0,0.0,95287.0,0.0,0.0,5.0,0.0,0.0,43.0,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Anonymous Hall",4.0
+06:05:2013,17086.0,0.0,50091.0,0.0,0.0,0.0,16800.0,0.0,1.0,7800.0,43.0,"Dartmouth College,0,Wheelock Office Park,Life Sciences Greenhouse,Dartmouth College",
+07:04:2013,143088.0,0.0,1200.0,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,43.0,"0,0",
+07:05:2013,65328.0,0.0,12001.0,7221.0,0.0,0.0,0.0,1.0,1.0,10500.0,43.0,"Berry Library,Dartmouth College,F Lot Parking,F Lot Parking,F Lot Parking,Dartmouth College",
+08:04:2013,14399.0,0.0,0.0,0.0,2401.0,0.0,0.0,0.0,1.0,7800.0,43.0,"Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,Dartmouth College",2.0
+08:05:2013,79199.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,14400.0,43.0,"Dartmouth College,Dartmouth College,0,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Dartmouth College",3.5
+09:04:2013,0.0,0.0,0.0,0.0,80400.0,0.0,0.0,1.0,0.0,10500.0,43.0,Anonymous Hall,4.0
+09:05:2013,179582.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,6900.0,43.0,Dartmouth College,1.0
+10:04:2013,58799.0,0.0,0.0,0.0,26401.0,0.0,0.0,2.0,0.0,14400.0,43.0,"Dartmouth College,Dartmouth College,Anonymous Hall,Anonymous Hall,Dartmouth College,Class of 1978 Life Sciences Center,Dartmouth College,Sudikoff Hall",
+11:04:2013,2400.0,0.0,43187.0,1196.0,38417.0,0.0,0.0,3.0,0.0,6900.0,43.0,"Anonymous Hall,0,Hopkins Center for the Arts,Life Sciences Greenhouse,Life Sciences Greenhouse,Class of 1978 Life Sciences Center",
+11:05:2013,1618.0,0.0,0.0,82891.0,0.0,0.0,0.0,5.0,0.0,0.0,43.0,"Dartmouth College,Berry Library,Berry Library",
+12:04:2013,34802.0,0.0,0.0,0.0,20400.0,0.0,38400.0,4.0,0.0,6000.0,43.0,"Dartmouth College,Dartmouth College,Dartmouth College,0,Anonymous Hall,Wheelock Office Park,Life Sciences Greenhouse,Dartmouth College",
+12:05:2013,0.0,0.0,164401.0,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,43.0,"F Lot Parking,0",
+13:04:2013,2399.0,0.0,1200.0,3599.0,69600.0,0.0,2400.0,5.0,0.0,0.0,43.0,"Hopkins Center for the Arts,Hopkins Center for the Arts,Hopkins Center for the Arts,Dartmouth College,Anonymous Hall,Wheelock Office Park,0,0",
+13:05:2013,12000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,7800.0,43.0,"Dartmouth College,Dartmouth College",
+14:04:2013,8400.0,0.0,9600.0,0.0,19200.0,0.0,224400.0,-1.0,0.0,0.0,43.0,"0,0,Vail Dartmouth Medical School,Anonymous Hall,0,Wheelock Office Park",4.0
+14:05:2013,80401.0,0.0,0.0,1199.0,0.0,0.0,0.0,1.0,1.0,10500.0,43.0,"Dartmouth College,Berry Library,Dartmouth College,Dartmouth College,Dartmouth College",1.0
+15:05:2013,606475.0,0.0,0.0,1201.0,0.0,0.0,0.0,2.0,1.0,14400.0,43.0,"Dartmouth College,Dartmouth College,Berry Library,Dartmouth College,Dartmouth College,Dartmouth College",4.0
+17:04:2013,14367.0,0.0,70833.0,0.0,0.0,0.0,0.0,2.0,1.0,14400.0,43.0,"Dartmouth College,Dartmouth College,F Lot Parking,Life Sciences Greenhouse,F Lot Parking,Dartmouth College",
+18:04:2013,6000.0,0.0,0.0,0.0,0.0,0.0,79304.0,3.0,1.0,6900.0,43.0,"Dartmouth College,Dartmouth College,Dartmouth College,0,Wheelock Office Park",
+19:04:2013,22800.0,0.0,64800.0,2400.0,0.0,0.0,0.0,4.0,1.0,6000.0,43.0,"Duende Tapas,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,F Lot Parking,Dartmouth College,0,0,0,0,Dartmouth College",
+20:04:2013,165617.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,43.0,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College",
+21:04:2013,6000.0,0.0,0.0,0.0,1200.0,0.0,0.0,-1.0,0.0,0.0,43.0,"0,Dartmouth College",
+22:04:2013,16800.0,0.0,70800.0,0.0,3600.0,0.0,0.0,0.0,1.0,7800.0,43.0,"0,0,Dartmouth College,0,Dartmouth College,0,0,Dartmouth College",
+22:05:2013,3600.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,14400.0,43.0,"Dartmouth College,Dartmouth College",4.0
+23:04:2013,82800.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,10500.0,43.0,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College",1.0
+24:04:2013,73200.0,0.0,0.0,0.0,0.0,0.0,15600.0,2.0,1.0,14400.0,43.0,"Dartmouth College,Dartmouth College,Dartmouth College,Wheelock Office Park",
+25:04:2013,156174.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,6900.0,43.0,"Dartmouth College,Dartmouth College,Dartmouth College",
+26:04:2013,97520.0,0.0,1200.0,0.0,2400.0,0.0,0.0,4.0,1.0,6000.0,43.0,"Class of 1978 Life Sciences Center,0,Dartmouth College",
+28:04:2013,0.0,0.0,159600.0,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,43.0,"F Lot Parking,F Lot Parking",
+29:04:2013,15602.0,1198.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,7800.0,43.0,"Life Sciences Greenhouse,0,Dartmouth College",1.0
+30:04:2013,81600.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,10500.0,43.0,Dartmouth College,

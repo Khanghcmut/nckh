@@ -11,7 +11,7 @@ date,home_time,school_time,travel_time,orthers,date_in_week,cut_class,class_sche
 06:05:2013,130608.0,7200.0,0.0,0.0,0,1.0,11700.0,45,"0,Dartmouth College,0,0,0,Dartmouth College,Sudikoff Hall,Dartmouth College"
 07:04:2013,100797.0,0.0,0.0,0.0,-1,0.0,0.0,45,"Dartmouth College,0"
 07:05:2013,46800.0,0.0,0.0,0.0,1,1.0,3900.0,45,"0,0,0,0,0,0,0,0,0,0,0,0"
-08:04:2013,44400.0,8400.0,0.0,0.0,0,1.0,11700.0,45,"0,0,Dartmouth College,Life Sciences Greenhouse,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,0"
+08:04:2013,44400.0,8400.0,0.0,0.0,0,0.0,11700.0,45,"0,0,Dartmouth College,Life Sciences Greenhouse,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,0"
 08:05:2013,42000.0,33600.0,0.0,0.0,2,0.0,11700.0,45,"Sudikoff Hall,Dartmouth College,Dartmouth College,Sudikoff Hall,0,0,Class of 1978 Life Sciences Center,Dartmouth College"
 09:04:2013,164400.0,0.0,0.0,0.0,1,1.0,3900.0,45,"Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College"
 09:05:2013,6000.0,80400.0,0.0,0.0,3,0.0,7800.0,45,"Sudikoff Hall,Dartmouth College,Dartmouth College,Sudikoff Hall,Dartmouth College,Sudikoff Hall,Sudikoff Hall,Dartmouth College,Dartmouth College,Sudikoff Hall,Sudikoff Hall"
