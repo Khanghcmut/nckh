@@ -6,7 +6,7 @@
 2013-01-09 18:33:18,Collis Cafe,Supper
 2013-01-10 17:57:07,53 Commons,Supper
 2013-01-11 10:39:39,King Arthur Flour Coffee Bar,Snack
-2013-01-11 14:01:56,Courtyard Cafe,Lunch
+2013-01-11 14:01:56,Courtyard Cafe, Lunch
 2013-01-15 11:58:29,Courtyard Cafe,Snack
 2013-01-15 13:07:26,Courtyard Cafe,Lunch
 2013-01-15 19:10:11,53 Commons,Supper

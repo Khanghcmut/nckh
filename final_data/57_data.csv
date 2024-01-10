@@ -1,56 +1,56 @@
-date,home_time,school_time,travel_time,orthers,shopping,recreational_activities,date_in_week,cut_class,class_schedule,volunteer,location_names
-01:04:2013,42000.0,16800.0,0.0,0.0,0.0,0.0,0,0.0,0.0,57,"0,Moore Psychology Building"
-01:05:2013,49201.0,0.0,11999.0,0.0,0.0,0.0,2,0.0,0.0,57,"0,0"
-01:06:2013,24000.0,0.0,0.0,1200.0,0.0,0.0,5,0.0,0.0,57,"Dartmouth College,0,0"
-02:04:2013,0.0,0.0,0.0,0.0,82800.0,0.0,1,0.0,0.0,57,Hanover Park
-02:05:2013,51600.0,46802.0,0.0,0.0,0.0,0.0,3,0.0,0.0,57,"Moore Psychology Building,0,Moore Psychology Building"
-03:04:2013,136821.0,26402.0,0.0,0.0,0.0,0.0,2,0.0,0.0,57,"Moore Psychology Building,0"
-03:05:2013,2400.0,44402.0,0.0,51598.0,0.0,0.0,4,0.0,0.0,57,"Dartmouth College,Moore Psychology Building,Moore Psychology Building,Moore Psychology Building,Nugget Arcade,Moore Psychology Building,Dartmouth College,Moore Psychology Building"
-04:04:2013,1036.0,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0,57,Dartmouth College
-04:05:2013,59598.0,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,57,"0,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College"
-05:04:2013,55202.0,30877.0,0.0,1364.0,0.0,2400.0,4,0.0,0.0,57,"0,Boloco,Moore Psychology Building,Dartmouth College,Dartmouth College,Moore Psychology Building,Dartmouth College,Tuk Tuk Thai Cuisine,0,Moore Psychology Building,Moore Psychology Building"
-05:05:2013,0.0,0.0,0.0,88606.0,0.0,0.0,-1,0.0,0.0,57,0
-06:04:2013,297600.0,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,57,Dartmouth College
-06:05:2013,77997.0,1224.0,4798.0,0.0,0.0,0.0,0,0.0,0.0,57,"0,0,Moore Psychology Building,0,South Block Parking Garage,South Block Parking Garage"
-07:05:2013,43609.0,550234.0,2641.0,0.0,0.0,0.0,1,0.0,0.0,57,"Moore Psychology Building,Native American House Parking Lot,0,Moore Psychology Building"
-09:04:2013,40799.0,2400.0,0.0,0.0,0.0,6000.0,1,0.0,0.0,57,"0,Moore Psychology Building,Dartmouth College,Dartmouth College,Berry Library"
-10:04:2013,66000.0,21603.0,0.0,1198.0,0.0,0.0,2,0.0,0.0,57,"Dartmouth College,Dartmouth College,Dartmouth College,Moore Psychology Building,Emerson House,0,Moore Psychology Building"
-11:04:2013,142799.0,14400.0,0.0,2400.0,0.0,0.0,3,0.0,0.0,57,"Dartmouth College,Dartmouth College,Moore Psychology Building,Emerson House,0,0,Emerson House,0"
-12:04:2013,0.0,34800.0,0.0,0.0,0.0,0.0,4,0.0,0.0,57,Moore Psychology Building
-13:04:2013,219602.0,0.0,1200.0,2400.0,0.0,0.0,5,0.0,0.0,57,"0,0,0"
-13:05:2013,2398.0,27600.0,0.0,0.0,0.0,0.0,0,0.0,0.0,57,"Dartmouth College,Dartmouth College,Moore Psychology Building"
-14:05:2013,54000.0,27600.0,1200.0,0.0,0.0,0.0,1,0.0,0.0,57,"0,0,Moore Psychology Building"
-15:04:2013,0.0,13201.0,0.0,0.0,0.0,0.0,0,0.0,0.0,57,Moore Psychology Building
-15:05:2013,45599.0,7201.0,14400.0,0.0,0.0,0.0,2,0.0,0.0,57,"Native American House Parking Lot,0,Moore Psychology Building,Moore Psychology Building,Moore Psychology Building,Dartmouth College,Moore Psychology Building"
-16:04:2013,52800.0,26400.0,1199.0,0.0,0.0,0.0,1,0.0,0.0,57,"0,Moore Psychology Building,0,Moore Psychology Building,Moore Psychology Building"
-16:05:2013,61199.0,45602.0,2400.0,0.0,0.0,0.0,3,0.0,0.0,57,"Moore Psychology Building,Moore Psychology Building,Native American House Parking Lot,Native American House,Moore Psychology Building,Moore Psychology Building,Dartmouth College,Moore Psychology Building,Moore Psychology Building,0,Moore Psychology Building"
-17:04:2013,58800.0,36000.0,0.0,0.0,0.0,0.0,2,0.0,0.0,57,"Dartmouth College,Dartmouth College,Dartmouth College,Moore Psychology Building,0,Moore Psychology Building"
-17:05:2013,50399.0,24000.0,1200.0,0.0,0.0,0.0,4,0.0,0.0,57,"Dartmouth College,0,0,Dartmouth College,Moore Psychology Building"
-18:04:2013,45600.0,45603.0,0.0,8401.0,3599.0,0.0,3,0.0,0.0,57,"Dartmouth College,Dartmouth College,Moore Psychology Building,0,Hanover Park,0,Moore Psychology Building"
-18:05:2013,238005.0,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,57,0
-19:04:2013,49200.0,9603.0,1200.0,0.0,0.0,1197.0,4,0.0,0.0,57,"Berry Library,Dartmouth College,Dartmouth College,0,0,Moore Psychology Building,Dartmouth College,Moore Psychology Building"
-20:04:2013,101997.0,14400.0,0.0,0.0,0.0,0.0,5,0.0,0.0,57,"Dartmouth College,Dartmouth College,Moore Psychology Building,Dartmouth College"
-20:05:2013,0.0,37200.0,0.0,0.0,0.0,0.0,0,0.0,0.0,57,Moore Psychology Building
-21:04:2013,136677.0,0.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,57,0
-21:05:2013,46800.0,8405.0,2400.0,0.0,0.0,0.0,1,0.0,0.0,57,"Dartmouth College,Dartmouth College,0,0,0,Moore Psychology Building"
-22:04:2013,0.0,31200.0,0.0,0.0,0.0,0.0,0,0.0,0.0,57,Moore Psychology Building
-22:05:2013,45593.0,43201.0,2402.0,0.0,0.0,0.0,2,0.0,0.0,57,"Dartmouth College,Moore Psychology Building,Moore Psychology Building,Dartmouth College,Moore Psychology Building,Moore Psychology Building,Moore Psychology Building,Moore Psychology Building,0,0,0,Dartmouth College,Moore Psychology Building"
-23:04:2013,55200.0,8400.0,0.0,0.0,0.0,0.0,1,0.0,0.0,57,"Dartmouth College,0,Moore Psychology Building"
-23:05:2013,67200.0,18000.0,1200.0,1199.0,0.0,0.0,3,0.0,0.0,57,"White Mountains Insurance Group,0,Moore Psychology Building,Dartmouth College,0,Dartmouth College"
-24:04:2013,49200.0,34800.0,0.0,0.0,0.0,0.0,2,0.0,0.0,57,"Dartmouth College,Dartmouth College,Moore Psychology Building,0,Moore Psychology Building,Dartmouth College"
-24:05:2013,45600.0,26400.0,9600.0,1200.0,0.0,0.0,4,0.0,0.0,57,"White Mountains Insurance Group,Moore Psychology Building,Dartmouth College,Hanover Inn Valet Lot,Dartmouth College,Hanover Inn Valet Lot,Hanover Inn Valet Lot,Hanover Inn Valet Lot,Hanover Inn Valet Lot,Hanover Inn Valet Lot,Dartmouth College,Dartmouth College,0,Moore Psychology Building"
-25:04:2013,72000.0,20400.0,0.0,0.0,0.0,0.0,3,0.0,0.0,57,"Dartmouth College,Moore Psychology Building,Moore Psychology Building,Dartmouth College,Dartmouth College,Moore Psychology Building,0,0,0,Moore Psychology Building"
-25:05:2013,53999.0,55200.0,1200.0,1201.0,0.0,0.0,5,0.0,0.0,57,"0,Moore Psychology Building,Dartmouth College,Moore Psychology Building,Dartmouth College,0,0,Moore Psychology Building"
-26:04:2013,49200.0,32400.0,0.0,0.0,0.0,0.0,4,0.0,0.0,57,"0,Moore Psychology Building,0,Moore Psychology Building"
-26:05:2013,76546.0,0.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,57,0
-27:03:2013,4800.0,4799.0,0.0,0.0,0.0,0.0,2,0.0,0.0,57,"Moore Psychology Building,Moore Psychology Building,Dartmouth College"
-27:04:2013,229201.0,19200.0,0.0,0.0,0.0,0.0,5,0.0,0.0,57,"Dartmouth College,0,0,Moore Psychology Building,Moore Psychology Building,Dartmouth College,Moore Psychology Building,0"
-27:05:2013,38400.0,27601.0,1200.0,0.0,0.0,1199.0,0,0.0,0.0,57,"0,Moore Psychology Building,0,Moore Psychology Building,Berry Library,0,0"
-28:03:2013,0.0,39602.0,0.0,53999.0,0.0,0.0,3,0.0,0.0,57,"Moore Psychology Building,0,Moore Psychology Building"
-28:05:2013,56870.0,32400.0,1200.0,0.0,0.0,0.0,1,0.0,0.0,57,"0,Moore Psychology Building,Dartmouth College,0"
-29:03:2013,47426.0,20401.0,0.0,0.0,0.0,222158.0,4,0.0,0.0,57,"Dartmouth College,Moore Psychology Building,Moore Psychology Building,Moore Psychology Building,0,0,Dartmouth College,Boloco"
-29:04:2013,0.0,24000.0,0.0,0.0,0.0,0.0,0,0.0,0.0,57,Moore Psychology Building
-29:05:2013,64800.0,20400.0,1200.0,0.0,0.0,0.0,2,0.0,0.0,57,"Moore Psychology Building,Native American House Parking Lot,Moore Psychology Building,0,Moore Psychology Building,Moore Psychology Building,Dartmouth College"
-30:04:2013,55201.0,46801.0,0.0,0.0,0.0,0.0,1,0.0,0.0,57,"0,0,Moore Psychology Building,0,Moore Psychology Building"
-30:05:2013,68401.0,27600.0,0.0,0.0,0.0,0.0,3,0.0,0.0,57,"Dartmouth College,Moore Psychology Building,0,0,Moore Psychology Building,0,Dartmouth College"
-31:05:2013,58795.0,4800.0,4804.0,6000.0,0.0,0.0,4,0.0,0.0,57,"Dartmouth College,Hanover Inn Valet Lot,Hanover Inn Valet Lot,Dartmouth College,Dartmouth College,Hanover Inn Valet Lot,Hanover Inn Valet Lot,Dartmouth College,White Mountains Insurance Group,White Mountains Insurance Group,Dartmouth College,Moore Psychology Building,Moore Psychology Building,Dartmouth College,Dartmouth College,Dartmouth College"
+date,home_time,school_time,orthers,shopping,travel_time,recreational_activities,working,date_in_week,cut_class,class_schedule,volunteer,location_names
+01:04:2013,42000.0,16800.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,57,"0,Moore Psychology Building"
+01:05:2013,61200.0,0.0,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0,57,"0,Dartmouth College"
+01:06:2013,0.0,24000.0,1200.0,0.0,0.0,0.0,0.0,5,0.0,0.0,57,"Moore Psychology Building,0,0"
+02:04:2013,0.0,0.0,0.0,82800.0,0.0,0.0,0.0,1,0.0,0.0,57,Hanover Park
+02:05:2013,51600.0,46802.0,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0,57,"Moore Psychology Building,0,Moore Psychology Building"
+03:04:2013,136821.0,26402.0,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0,57,"Moore Psychology Building,0"
+03:05:2013,0.0,45602.0,51598.0,0.0,1200.0,0.0,0.0,4,0.0,0.0,57,"Moore Psychology Building,Moore Psychology Building,Moore Psychology Building,Moore Psychology Building,Nugget Arcade,Moore Psychology Building,Native American House Parking Lot,Moore Psychology Building"
+04:04:2013,0.0,1036.0,0.0,0.0,0.0,0.0,0.0,3,0.0,0.0,57,Sanborn House
+04:05:2013,49983.0,0.0,0.0,0.0,0.0,9615.0,0.0,5,0.0,0.0,57,"0,0,Hood Museum of Art,0,0"
+05:04:2013,50401.0,35678.0,1364.0,0.0,0.0,2400.0,0.0,4,0.0,0.0,57,"0,Boloco,Moore Psychology Building,Dartmouth College,Dartmouth College,Moore Psychology Building,Collis Student Center,Tuk Tuk Thai Cuisine,0,Moore Psychology Building,Moore Psychology Building"
+05:05:2013,0.0,0.0,88606.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,57,0
+06:04:2013,0.0,297600.0,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,57,Sudikoff Hall
+06:05:2013,77997.0,1224.0,0.0,0.0,4798.0,0.0,0.0,0,0.0,0.0,57,"0,0,Moore Psychology Building,0,South Block Parking Garage,South Block Parking Garage"
+07:05:2013,43609.0,550234.0,0.0,0.0,2641.0,0.0,0.0,1,0.0,0.0,57,"Moore Psychology Building,Native American House Parking Lot,0,Moore Psychology Building"
+09:04:2013,38399.0,3596.0,0.0,0.0,1204.0,6000.0,0.0,1,0.0,0.0,57,"0,Moore Psychology Building,Native American House Parking Lot,Moore Psychology Building,Berry Library"
+10:04:2013,57599.0,21603.0,1198.0,0.0,8401.0,0.0,0.0,2,0.0,0.0,57,"Native American House Parking Lot,Dartmouth College,Dartmouth College,Moore Psychology Building,Emerson House,0,Moore Psychology Building"
+11:04:2013,140400.0,16799.0,2400.0,0.0,0.0,0.0,0.0,3,0.0,0.0,57,"Moore Psychology Building,Moore Psychology Building,Moore Psychology Building,Emerson House,0,0,Emerson House,0"
+12:04:2013,0.0,34800.0,0.0,0.0,0.0,0.0,0.0,4,0.0,0.0,57,Moore Psychology Building
+13:04:2013,220802.0,0.0,2400.0,0.0,0.0,0.0,0.0,5,0.0,0.0,57,"Dartmouth College,0,0"
+13:05:2013,1200.0,27600.0,0.0,0.0,0.0,1198.0,0.0,0,0.0,0.0,57,"Hopkins Center for the Arts,Dartmouth College,Moore Psychology Building"
+14:05:2013,55200.0,27600.0,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0,57,"0,Dartmouth College,Moore Psychology Building"
+15:04:2013,0.0,13201.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,57,Moore Psychology Building
+15:05:2013,45599.0,7201.0,0.0,0.0,14400.0,0.0,0.0,2,0.0,0.0,57,"Native American House Parking Lot,0,Moore Psychology Building,Moore Psychology Building,Moore Psychology Building,Dartmouth College,Moore Psychology Building"
+16:04:2013,53999.0,26400.0,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0,57,"Dartmouth College,Moore Psychology Building,0,Moore Psychology Building,Moore Psychology Building"
+16:05:2013,61199.0,45602.0,0.0,0.0,2400.0,0.0,0.0,3,0.0,0.0,57,"Moore Psychology Building,Moore Psychology Building,Native American House Parking Lot,Native American House,Moore Psychology Building,Moore Psychology Building,Dartmouth College,Moore Psychology Building,Moore Psychology Building,0,Moore Psychology Building"
+17:04:2013,54000.0,39592.0,0.0,0.0,1200.0,8.0,0.0,2,0.0,0.0,57,"Hanover Inn Dartmouth,Collis Student Center,Native American House Parking Lot,Moore Psychology Building,0,Moore Psychology Building"
+17:05:2013,50400.0,24000.0,0.0,0.0,0.0,1199.0,0.0,4,0.0,0.0,57,"Dartmouth College,Dartmouth College,0,Hood Museum of Art,Moore Psychology Building"
+18:04:2013,43200.0,45603.0,8401.0,3599.0,2400.0,0.0,0.0,3,0.0,0.0,57,"Native American House Parking Lot,Native American House Parking Lot,Moore Psychology Building,0,Hanover Park,0,Moore Psychology Building"
+18:05:2013,238005.0,0.0,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,57,0
+19:04:2013,33599.0,9603.0,0.0,0.0,0.0,17998.0,0.0,4,0.0,0.0,57,"Berry Library,Hanover Inn Dartmouth,Dartmouth College,Dartmouth College,0,Moore Psychology Building,Hanover Inn Dartmouth,Moore Psychology Building"
+20:04:2013,3597.0,14400.0,0.0,0.0,98400.0,0.0,0.0,5,0.0,0.0,57,"Dartmouth College,Dartmouth College,Moore Psychology Building,Native American House Parking Lot"
+20:05:2013,0.0,37200.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,57,Moore Psychology Building
+21:04:2013,136677.0,0.0,0.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,57,0
+21:05:2013,46800.0,10805.0,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0,57,"Kemeny Hall,Kemeny Hall,Dartmouth College,Dartmouth College,0,Moore Psychology Building"
+22:04:2013,0.0,31200.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,57,Moore Psychology Building
+22:05:2013,45597.0,44401.0,0.0,0.0,1198.0,0.0,0.0,2,0.0,0.0,57,"Dartmouth College,Moore Psychology Building,Moore Psychology Building,Moore Psychology Building,Moore Psychology Building,Moore Psychology Building,Moore Psychology Building,Moore Psychology Building,Dartmouth College,0,Dartmouth College,Native American House Parking Lot,Moore Psychology Building"
+23:04:2013,51600.0,8400.0,0.0,0.0,0.0,3600.0,0.0,1,0.0,0.0,57,"Hanover Inn Dartmouth,0,Moore Psychology Building"
+23:05:2013,52800.0,33600.0,1199.0,0.0,0.0,0.0,0.0,3,0.0,0.0,57,"White Mountains Insurance Group,Dartmouth College,Moore Psychology Building,Moore Psychology Building,0,Moore Psychology Building"
+24:04:2013,46800.0,36000.0,0.0,0.0,0.0,0.0,1200.0,2,0.0,0.0,57,"Sigma Alpha Epsilon Fraternity,Collis Student Center,Moore Psychology Building,0,Moore Psychology Building,Dartmouth College"
+24:05:2013,33600.0,26400.0,1200.0,0.0,15600.0,6000.0,0.0,4,0.0,0.0,57,"White Mountains Insurance Group,Moore Psychology Building,Hood Museum of Art,Hanover Inn Valet Lot,Hanover Inn Valet Lot,Hanover Inn Valet Lot,Hanover Inn Valet Lot,Hanover Inn Valet Lot,Hanover Inn Valet Lot,Hanover Inn Valet Lot,Hanover Inn Valet Lot,Hanover Inn Valet Lot,0,Moore Psychology Building"
+25:04:2013,69600.0,20400.0,0.0,0.0,1200.0,1200.0,0.0,3,0.0,0.0,57,"Dartmouth College,Moore Psychology Building,Moore Psychology Building,0,0,Moore Psychology Building,0,0,0,Moore Psychology Building"
+25:05:2013,53999.0,55200.0,1201.0,0.0,0.0,1200.0,0.0,5,0.0,0.0,57,"0,Moore Psychology Building,0,Moore Psychology Building,Dartmouth College,Dartmouth College,0,Moore Psychology Building"
+26:04:2013,49200.0,32400.0,0.0,0.0,0.0,0.0,0.0,4,0.0,0.0,57,"0,Moore Psychology Building,0,Moore Psychology Building"
+26:05:2013,76546.0,0.0,0.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,57,0
+27:03:2013,0.0,9599.0,0.0,0.0,0.0,0.0,0.0,2,0.0,0.0,57,"Moore Psychology Building,Moore Psychology Building,Collis Student Center"
+27:04:2013,226801.0,21600.0,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,57,"Moore Psychology Building,0,0,Moore Psychology Building,Moore Psychology Building,Moore Psychology Building,Moore Psychology Building,0"
+27:05:2013,40799.0,27601.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,57,"Dartmouth College,Moore Psychology Building,0,Moore Psychology Building,Dartmouth College,0,0"
+28:03:2013,0.0,39602.0,53999.0,0.0,0.0,0.0,0.0,3,0.0,0.0,57,"Moore Psychology Building,0,Moore Psychology Building"
+28:05:2013,35270.0,32400.0,0.0,0.0,0.0,0.0,22800.0,1,0.0,0.0,57,"Dartmouth College,Moore Psychology Building,Phi Tau,0"
+29:03:2013,46797.0,21030.0,0.0,0.0,0.0,222158.0,0.0,4,0.0,0.0,57,"Dartmouth College,Moore Psychology Building,Moore Psychology Building,Moore Psychology Building,0,0,Collis Student Center,Boloco"
+29:04:2013,0.0,24000.0,0.0,0.0,0.0,0.0,0.0,0,0.0,0.0,57,Moore Psychology Building
+29:05:2013,54000.0,31200.0,0.0,0.0,1200.0,0.0,0.0,2,0.0,0.0,57,"Moore Psychology Building,Native American House Parking Lot,Moore Psychology Building,0,Moore Psychology Building,Moore Psychology Building,Moore Psychology Building"
+30:04:2013,55201.0,46801.0,0.0,0.0,0.0,0.0,0.0,1,0.0,0.0,57,"0,0,Moore Psychology Building,0,Moore Psychology Building"
+30:05:2013,43200.0,51601.0,0.0,0.0,1200.0,0.0,0.0,3,0.0,0.0,57,"Native American House Parking Lot,Moore Psychology Building,0,0,Moore Psychology Building,0,Moore Psychology Building"
+31:05:2013,2397.0,10798.0,6000.0,0.0,4804.0,2400.0,48000.0,4,0.0,0.0,57,"Bartlett Hall,Hanover Inn Valet Lot,Hanover Inn Valet Lot,Collis Student Center,Collis Student Center,Hanover Inn Valet Lot,Hanover Inn Valet Lot,Dartmouth College,White Mountains Insurance Group,White Mountains Insurance Group,Dartmouth College,Moore Psychology Building,Moore Psychology Building,Phi Tau,Hood Museum of Art,Sigma Alpha Epsilon Fraternity"

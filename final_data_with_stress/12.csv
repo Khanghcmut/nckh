@@ -1,68 +1,68 @@
 date,home_time,school_time,working,orthers,travel_time,recreational_activities,shopping,date_in_week,cut_class,class_schedule,volunteer,location_names,level
-01:04:2013,69600.0,4799.0,0.0,0.0,0.0,0.0,0.0,0,1.0,10500.0,13,"0,0,0,Dartmouth College,Dartmouth College,Life Sciences Greenhouse,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,Dartmouth College,Sudikoff Hall,Dartmouth College",4.0
-01:05:2013,98398.0,1203.0,1199.0,0.0,0.0,0.0,0.0,2,1.0,10500.0,13,"Dartmouth College,Dartmouth College,0,Dartmouth College,0,0,0,Life Sciences Greenhouse,Dartmouth College,Sudikoff Hall,0",
+01:04:2013,64800.0,9599.0,0.0,0.0,0.0,0.0,0.0,0,0.0,10500.0,13,"0,0,0,Dartmouth College,Sudikoff Hall,Life Sciences Greenhouse,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,Sudikoff Hall,Sudikoff Hall,Dartmouth College",4.0
+01:05:2013,61198.0,38403.0,1199.0,0.0,0.0,0.0,0.0,2,0.0,10500.0,13,"Dartmouth College,Dartmouth College,0,Sudikoff Hall,0,0,0,Life Sciences Greenhouse,Sudikoff Hall,Sudikoff Hall,0",
 01:06:2013,23750.0,0.0,0.0,12602.0,0.0,0.0,0.0,5,0.0,0.0,13,"0,Mobil,0,0,0,Pulsifer Building,0",
 02:04:2013,84002.0,3598.0,0.0,0.0,0.0,0.0,0.0,1,1.0,6600.0,13,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Vail,0,0,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College",
 02:05:2013,69600.0,0.0,0.0,0.0,0.0,0.0,0.0,3,1.0,13500.0,13,"0,0,0,Life Sciences Greenhouse",
-03:04:2013,21600.0,26400.0,0.0,0.0,38400.0,0.0,0.0,2,0.0,10500.0,13,"Carpenter Hall,0,0,0,Class of 1978 Life Sciences Center,Dartmouth College,Sudikoff Hall,Dartmouth College",2.5
-03:05:2013,64803.0,21597.0,0.0,0.0,0.0,0.0,0.0,4,0.0,3000.0,13,"Carpenter Hall,Dartmouth College,Dartmouth College,Dartmouth College,Remsen Medical Sciences Building,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Life Sciences Greenhouse,Dartmouth College,Sudikoff Hall,Dartmouth College,Dartmouth College",
-04:04:2013,79134.0,4866.0,0.0,1200.0,0.0,0.0,0.0,3,1.0,13500.0,13,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Bildner Hall,0,Big Green Real Estate,Dartmouth College,Dartmouth College,Dartmouth College,Bildner Hall,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center",2.0
+03:04:2013,42000.0,6000.0,0.0,0.0,38400.0,0.0,0.0,2,1.0,10500.0,13,"Dartmouth College,0,0,0,Class of 1978 Life Sciences Center,Sudikoff Hall,Sudikoff Hall,Dartmouth College",2.0
+03:05:2013,70804.0,15596.0,0.0,0.0,0.0,0.0,0.0,4,0.0,3000.0,13,"Dartmouth College,Dartmouth College,Dartmouth College,Thomas Hall,Remsen Medical Sciences Building,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Life Sciences Greenhouse,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Dartmouth College",
+04:04:2013,77934.0,4866.0,0.0,1200.0,0.0,1200.0,0.0,3,1.0,13500.0,13,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,La Casa,Bildner Hall,0,Big Green Real Estate,Hanover Inn Dartmouth,Dartmouth College,Dartmouth College,Bildner Hall,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center",3.0
 04:05:2013,98231.0,0.0,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,13,"Dartmouth College,0,0,0,0",
-05:04:2013,48000.0,25200.0,0.0,13200.0,0.0,0.0,0.0,4,0.0,3000.0,13,"Carpenter Hall,0,0,0,0,0,0,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,Dartmouth College,Sudikoff Hall,Dartmouth College",4.0
+05:04:2013,63600.0,9600.0,0.0,13200.0,0.0,0.0,0.0,4,0.0,3000.0,13,"Dartmouth College,0,0,0,0,0,0,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,Sudikoff Hall,Sudikoff Hall,Dartmouth College",4.0
 05:05:2013,87003.0,0.0,0.0,1201.0,1197.0,0.0,0.0,-1,0.0,0.0,13,"Pulsifer Building,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
-06:04:2013,36008.0,0.0,0.0,10800.0,44392.0,0.0,0.0,5,0.0,0.0,13,"Dartmouth College,0,Newport State Airport,0,0",3.0
-06:05:2013,73800.0,2400.0,0.0,0.0,0.0,0.0,0.0,0,1.0,10500.0,13,"0,0,0,0,0,0,0,0,0,Dartmouth College,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Dartmouth College,Sudikoff Hall,Sudikoff Hall,Dartmouth College",
+06:04:2013,36008.0,0.0,0.0,10800.0,0.0,44392.0,0.0,5,0.0,0.0,13,"Dartmouth College,Sonesta Select,Newport State Airport,Sonesta Select,0",3.0
+06:05:2013,72000.0,4200.0,0.0,0.0,0.0,0.0,0.0,0,1.0,10500.0,13,"0,0,0,0,0,0,0,0,0,Dartmouth College,Life Sciences Greenhouse,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Dartmouth College",
 07:04:2013,60222.0,0.0,0.0,4800.0,42585.0,0.0,0.0,-1,0.0,0.0,13,"Newport State Airport,0,0,0,0,0,Hanover Street",
 07:05:2013,88205.0,0.0,0.0,2396.0,0.0,0.0,0.0,1,1.0,6600.0,13,"0,0,0,0,0,0,0,0,0,0,0,Mascoma Bank,Dartmouth College",1.0
 08:04:2013,7218.0,0.0,0.0,1200.0,3600.0,48268.0,0.0,0,1.0,10500.0,13,"Langley Inn,0,0,0,0,0,Commissary,0",
-08:05:2013,70804.0,4200.0,0.0,600.0,1795.0,600.0,0.0,2,1.0,10500.0,13,"Dartmouth College,Dana Circle Parking Lot,Dartmouth College,Peaney,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Bildner Hall,Berry Library,Life Sciences Greenhouse,Dana Parking Lot,Sudikoff Hall,Sudikoff Hall,Dartmouth College",1.0
-09:04:2013,7308.0,0.0,0.0,0.0,78845.0,0.0,0.0,1,1.0,6600.0,13,"0,0,0,0,0,Dartmouth College",1.0
-09:05:2013,83403.0,0.0,0.0,1199.0,1198.0,9600.0,0.0,3,1.0,13500.0,13,"Dartmouth College,Dartmouth College,Dartmouth College,Berry Library,0,0,0,0,0,0,0,0,0",
-10:04:2013,75601.0,12000.0,0.0,0.0,0.0,0.0,0.0,2,0.0,10500.0,13,"Dartmouth College,Carpenter Hall,Dartmouth College,0,0,0,0,0,0,Life Sciences Greenhouse,Life Sciences Greenhouse,Sudikoff Hall,Sudikoff Hall,Dartmouth College",4.0
-10:05:2013,70833.0,600.0,0.0,0.0,3004.0,1200.0,1763.0,4,1.0,3000.0,13,"Berry Library,Dewey Parking Lot,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sunless Beauty Spray Tans,Dartmouth College,Vail,Life Sciences Greenhouse,Dana Parking Lot,Dartmouth College,Dartmouth College,Dartmouth College",
-11:04:2013,70729.0,1203.0,0.0,0.0,0.0,0.0,13267.0,3,1.0,13500.0,13,"Dartmouth College,Dewey Field Road,0,0,0,0,0,0,0,0,0,0,0,0,Anonymous Hall,Life Sciences Greenhouse,Life Sciences Greenhouse",1.0
-11:05:2013,67802.0,18640.0,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,13,"Dartmouth College,Thomas Hall,0,0,0,0,Dartmouth College,Sanborn House,Sanborn House,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
-12:04:2013,13203.0,73199.0,0.0,0.0,1198.0,0.0,0.0,4,0.0,3000.0,13,"Dartmouth College,Dartmouth College,Carpenter Hall,Carpenter Hall,Life Sciences Greenhouse,Life Sciences Greenhouse,Dana Circle Parking Lot,Dartmouth College,Sudikoff Hall,Dartmouth College",1.0
-12:05:2013,81008.0,0.0,1200.0,0.0,2392.0,3602.0,0.0,-1,0.0,0.0,13,"Stonecliff Animal Clinic,0,0,0,0,Berry Library",
-13:04:2013,74403.0,13061.0,0.0,1197.0,0.0,0.0,0.0,5,0.0,0.0,13,"Dartmouth College,Shaw's,0,Dartmouth College,Sanborn House,0,0,0,0,0,0,0,0,0,0",
-13:05:2013,53403.0,22198.0,600.0,0.0,8397.0,0.0,0.0,0,0.0,10500.0,13,"Carpenter Hall,0,0,0,0,0,Stonecliff Animal Clinic,0,Bildner Hall,Bildner Hall,Sudikoff Hall,Sudikoff Hall,Dartmouth College",
+08:05:2013,70798.0,4806.0,0.0,600.0,1795.0,0.0,0.0,2,1.0,10500.0,13,"Parker House,Dana Circle Parking Lot,Dartmouth College,Peaney,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Bildner Hall,Dartmouth College,Life Sciences Greenhouse,Dana Parking Lot,Sudikoff Hall,Sudikoff Hall,Dartmouth College",1.0
+09:04:2013,3708.0,3600.0,0.0,0.0,78845.0,0.0,0.0,1,1.0,6600.0,13,"0,0,0,0,0,Sudikoff Hall",1.0
+09:05:2013,93003.0,0.0,0.0,1199.0,1198.0,0.0,0.0,3,1.0,13500.0,13,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,0,0,0,0,0,0,0,0",
+10:04:2013,82801.0,4800.0,0.0,0.0,0.0,0.0,0.0,2,1.0,10500.0,13,"Sudikoff Hall,Dartmouth College,Dartmouth College,0,0,0,0,0,0,Life Sciences Greenhouse,Life Sciences Greenhouse,Sudikoff Hall,Sudikoff Hall,Dartmouth College",4.0
+10:05:2013,67833.0,4800.0,0.0,0.0,3004.0,0.0,1763.0,4,0.0,3000.0,13,"Dartmouth College,Dewey Parking Lot,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sunless Beauty Spray Tans,Dartmouth College,Vail,Life Sciences Greenhouse,Dana Parking Lot,Sudikoff Hall,Sudikoff Hall,Dartmouth College",
+11:04:2013,70729.0,1203.0,0.0,0.0,13267.0,0.0,0.0,3,1.0,13500.0,13,"Dartmouth College,Dewey Parking Lot,0,0,0,0,0,0,0,0,0,0,0,0,Anonymous Hall,Life Sciences Greenhouse,Life Sciences Greenhouse",1.0
+11:05:2013,86442.0,0.0,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,13,"Dartmouth College,Thomas Hall,0,0,0,0,Dartmouth College,Dartmouth College,Dartmouth College,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+12:04:2013,82802.0,3600.0,0.0,0.0,1198.0,0.0,0.0,4,0.0,3000.0,13,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Dana Circle Parking Lot,Sudikoff Hall,Sudikoff Hall,Dartmouth College",
+12:05:2013,84610.0,0.0,1200.0,0.0,2392.0,0.0,0.0,-1,0.0,0.0,13,"Stonecliff Animal Clinic,0,0,0,0,Dartmouth College",
+13:04:2013,87464.0,0.0,0.0,1197.0,0.0,0.0,0.0,5,0.0,0.0,13,"Dartmouth College,Shaw's,0,Dartmouth College,Dartmouth College,0,0,0,0,0,0,0,0,0,0",
+13:05:2013,72001.0,3600.0,600.0,0.0,8397.0,0.0,0.0,0,1.0,10500.0,13,"Dartmouth College,0,0,0,0,0,Stonecliff Animal Clinic,0,Bildner Hall,Bildner Hall,Sudikoff Hall,Sudikoff Hall,Dartmouth College",
 14:04:2013,129600.0,0.0,0.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,13,"0,0,0,0,0,0,0,0",3.0
 14:05:2013,87000.0,600.0,0.0,0.0,0.0,0.0,0.0,1,1.0,6600.0,13,"Dartmouth College,Dartmouth College,0,0,Moore Psychology Building,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College",
-15:04:2013,40734.0,0.0,0.0,0.0,0.0,0.0,0.0,0,1.0,10500.0,13,"0,0,0,Dartmouth College,Dartmouth College,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Dartmouth College",
-15:05:2013,15004.0,73196.0,0.0,0.0,0.0,600.0,0.0,2,0.0,10500.0,13,"Dartmouth College,Dartmouth College,Vail,Berry Library,Sudikoff Hall,Dartmouth College,Dartmouth College",
+15:04:2013,37134.0,3600.0,0.0,0.0,0.0,0.0,0.0,0,1.0,10500.0,13,"0,0,0,Dartmouth College,Dartmouth College,Life Sciences Greenhouse,Sudikoff Hall,Sudikoff Hall,Dartmouth College",1.0
+15:05:2013,15604.0,73196.0,0.0,0.0,0.0,0.0,0.0,2,0.0,10500.0,13,"Dartmouth College,Dartmouth College,Vail,Dartmouth College,Sudikoff Hall,Dartmouth College,Dartmouth College",
 16:04:2013,85266.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1.0,6600.0,13,"Dartmouth College,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dartmouth College,Dartmouth College",1.0
-16:05:2013,79800.0,0.0,0.0,0.0,0.0,5400.0,0.0,3,1.0,13500.0,13,"0,0,Berry Library,Dartmouth College",
-17:04:2013,76800.0,10800.0,0.0,0.0,0.0,0.0,0.0,2,0.0,10500.0,13,"Dartmouth College,Dartmouth College,Carpenter Hall,0,0,0,0,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Sudikoff Hall,Dartmouth College",
-17:05:2013,71402.0,12001.0,0.0,0.0,597.0,0.0,0.0,4,0.0,3000.0,13,"Carpenter Hall,Winfred-Raven House,Dartmouth College,Dartmouth College,Dartmouth College,0,0,Sudikoff Hall,Sudikoff Hall,Dartmouth College",
+16:05:2013,85200.0,0.0,0.0,0.0,0.0,0.0,0.0,3,1.0,13500.0,13,"0,0,Dartmouth College,Dartmouth College",
+17:04:2013,84000.0,3600.0,0.0,0.0,0.0,0.0,0.0,2,1.0,10500.0,13,"Dartmouth College,Dartmouth College,Dartmouth College,0,0,0,0,Life Sciences Greenhouse,Life Sciences Greenhouse,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Dartmouth College",
+17:05:2013,78004.0,5399.0,0.0,0.0,597.0,0.0,0.0,4,0.0,3000.0,13,"Dartmouth College,Winfred-Raven House,Thomas Hall,Thomas Hall,Dartmouth College,0,0,Sudikoff Hall,Sudikoff Hall,Dartmouth College",
 18:04:2013,81600.0,0.0,0.0,3600.0,0.0,0.0,0.0,3,1.0,13500.0,13,"Dartmouth College,0,0,0,Pulsifer Building,Pulsifer Building,0,0,0,0,0,0,0,Dartmouth College,Dartmouth College,Bildner Hall,Life Sciences Greenhouse",
 18:05:2013,95402.0,0.0,0.0,598.0,0.0,0.0,0.0,5,0.0,0.0,13,"Dartmouth College,0,0,0,0,0",
-19:04:2013,71799.0,15600.0,0.0,0.0,0.0,0.0,0.0,4,0.0,3000.0,13,"Carpenter Hall,0,0,0,0,0,0,Life Sciences Greenhouse,Sudikoff Hall,Sudikoff Hall,Dartmouth College,Dartmouth College",
+19:04:2013,83799.0,3600.0,0.0,0.0,0.0,0.0,0.0,4,0.0,3000.0,13,"Dartmouth College,0,0,0,0,0,0,Life Sciences Greenhouse,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Dartmouth College",5.0
 19:05:2013,83999.0,0.0,0.0,1200.0,0.0,0.0,1201.0,-1,0.0,0.0,13,"0,0,0,0,0,0,0,0,0,0,0,0,0",
-20:04:2013,125001.0,0.0,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,13,"Dartmouth College,Dartmouth College,Bildner Hall,0,0,0,Dartmouth College,0,0,0,0",5.0
-20:05:2013,69829.0,5403.0,0.0,0.0,0.0,3601.0,0.0,0,1.0,10500.0,13,"Berry Library,Dartmouth College,Berry Library,Dartmouth College,Life Sciences Greenhouse,Sudikoff Hall,Dartmouth College",
+20:04:2013,122606.0,2395.0,0.0,0.0,0.0,0.0,0.0,5,0.0,0.0,13,"Dartmouth College,Parker House,Bildner Hall,0,0,0,Dartmouth College,0,0,0,0",
+20:05:2013,68033.0,5403.0,0.0,5397.0,0.0,0.0,0.0,0,1.0,10500.0,13,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Life Sciences Greenhouse,Sudikoff Hall,0",
 21:04:2013,84000.0,0.0,0.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,13,"0,0,0,0,0",
-21:05:2013,81606.0,0.0,0.0,1794.0,0.0,0.0,0.0,1,1.0,6600.0,13,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,Hannaford,0,Dartmouth College,Dartmouth College,Bildner Hall,Bildner Hall",
-22:04:2013,45600.0,4800.0,0.0,0.0,0.0,0.0,0.0,0,1.0,10500.0,13,"0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Sudikoff Hall,Sudikoff Hall,Dartmouth College",
-22:05:2013,52805.0,14400.0,0.0,18596.0,1799.0,0.0,0.0,2,0.0,10500.0,13,"Dartmouth College,Sudikoff Hall,Sudikoff Hall,Winfred-Raven House,Carpenter Hall,Goldstein Hall,Byrne II Hall,0,0,0,0,Sudikoff Hall,Sudikoff Hall,0",
+21:05:2013,78007.0,3599.0,0.0,1794.0,0.0,0.0,0.0,1,1.0,6600.0,13,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Sudikoff Hall,Sudikoff Hall,0,Hannaford,0,Dartmouth College,Dartmouth College,Bildner Hall,Bildner Hall",
+22:04:2013,44401.0,5999.0,0.0,0.0,0.0,0.0,0.0,0,1.0,10500.0,13,"0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sudikoff Hall,Life Sciences Greenhouse,Life Sciences Greenhouse,Sudikoff Hall,Sudikoff Hall,Dartmouth College",
+22:05:2013,59406.0,7799.0,0.0,18596.0,1799.0,0.0,0.0,2,0.0,10500.0,13,"Bildner Hall,Sudikoff Hall,Sudikoff Hall,Winfred-Raven House,Dartmouth College,Goldstein Hall,Byrne II Hall,0,0,0,0,Sudikoff Hall,Sudikoff Hall,0",
 23:04:2013,85200.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1.0,6600.0,13,"Dartmouth College,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dartmouth College,Dartmouth College",
 23:05:2013,85200.0,0.0,0.0,0.0,2400.0,0.0,0.0,3,1.0,13500.0,13,"0,0,0",2.0
-24:04:2013,82800.0,7200.0,0.0,0.0,0.0,0.0,0.0,2,1.0,10500.0,13,"Dartmouth College,Dartmouth College,Carpenter Hall,Dartmouth College,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
-24:05:2013,8399.0,76800.0,0.0,0.0,0.0,1201.0,0.0,4,0.0,3000.0,13,"Carpenter Hall,Dartmouth College,Dartmouth College,Dartmouth College,Sudikoff Hall,Sudikoff Hall,Berry Library,Dartmouth College",
-25:04:2013,50403.0,1197.0,0.0,0.0,0.0,31200.0,0.0,3,1.0,13500.0,13,"Dartmouth College,Berry Library,0,0,0,0,0,0,0,0,0,0,0,0,0,Vail,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Life Sciences Greenhouse",
-25:05:2013,45044.0,9603.0,0.0,21597.0,0.0,12000.0,0.0,5,0.0,0.0,13,"Dartmouth College,Sudikoff Hall,0,Pulsifer Building,Pulsifer Building,0,Berry Library,Dartmouth College,Dartmouth College,Berry Library",
-26:04:2013,76803.0,6000.0,0.0,0.0,0.0,4800.0,0.0,4,0.0,3000.0,13,"Carpenter Hall,Dartmouth College,Berry Library,0,0,0,Life Sciences Greenhouse,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Berry Library,Sudikoff Hall,Sudikoff Hall,Dartmouth College",1.0
-26:05:2013,75603.0,0.0,0.0,0.0,0.0,600.0,9000.0,-1,0.0,0.0,13,"Dartmouth College,Berry Library,Dartmouth College,0,0,0,0,0,0,Dartmouth College",
+24:04:2013,90000.0,0.0,0.0,0.0,0.0,0.0,0.0,2,1.0,10500.0,13,"Dartmouth College,Dartmouth College,Dartmouth College,Thomas Hall,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+24:05:2013,82200.0,4200.0,0.0,0.0,0.0,0.0,0.0,4,0.0,3000.0,13,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Sudikoff Hall,Sudikoff Hall,Dartmouth College,Dartmouth College",
+25:04:2013,81603.0,1197.0,0.0,0.0,0.0,0.0,0.0,3,1.0,13500.0,13,"Dartmouth College,Dartmouth College,0,0,0,0,0,0,0,0,0,0,0,0,0,Vail,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Life Sciences Greenhouse",1.0
+25:05:2013,50444.0,9603.0,0.0,21597.0,0.0,6600.0,0.0,5,0.0,0.0,13,"Dartmouth College,Sudikoff Hall,0,Pulsifer Building,Pulsifer Building,0,Dartmouth College,Dartmouth College,Dartmouth College,Berry Library",
+26:04:2013,82803.0,4800.0,0.0,0.0,0.0,0.0,0.0,4,0.0,3000.0,13,"Dartmouth College,Dartmouth College,Dartmouth College,0,0,0,Life Sciences Greenhouse,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dartmouth College,Sudikoff Hall,Sudikoff Hall,Dartmouth College",
+26:05:2013,60603.0,0.0,0.0,0.0,15600.0,0.0,9000.0,-1,0.0,0.0,13,"Dartmouth College,Dartmouth College,Maynard Parking Lot,0,0,0,0,0,0,Dartmouth College",
 27:03:2013,0.0,13200.0,0.0,0.0,0.0,0.0,0.0,2,0.0,10500.0,13,"Class of 1978 Life Sciences Center,Sudikoff Hall,Sudikoff Hall",
-27:04:2013,88090.0,13200.0,0.0,0.0,3597.0,0.0,0.0,5,0.0,0.0,13,"Dartmouth College,Dartmouth College,Dartmouth College,G Lot Parking,0,0,Dartmouth College,0,0,0,0,0,0,0,0,0,0",
-27:05:2013,112626.0,1800.0,0.0,0.0,0.0,0.0,0.0,0,1.0,10500.0,13,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Bildner Hall,Bildner Hall,Dartmouth College,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Dartmouth College,Dartmouth College,Dartmouth College",
-28:03:2013,84000.0,2402.0,0.0,0.0,0.0,0.0,0.0,3,1.0,13500.0,13,"Dartmouth College,Dartmouth College,0,0,0,Class of 1978 Life Sciences Center",4.0
+27:04:2013,82091.0,0.0,0.0,0.0,22796.0,0.0,0.0,5,0.0,0.0,13,"Dartmouth College,Dartmouth College,Dartmouth College,G Lot Parking,0,0,0,0,Berry Sports Center Parking Lot,0,0,0,0,0,0,0,0",
+27:05:2013,8400.0,73626.0,0.0,0.0,0.0,32400.0,0.0,0,0.0,10500.0,13,"Kemeny Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Bildner Hall,Bildner Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Winfred-Raven House,Dartmouth College,Black Family Visual Arts Center",
+28:03:2013,84000.0,2402.0,0.0,0.0,0.0,0.0,0.0,3,1.0,13500.0,13,"Dartmouth College,Dartmouth College,0,0,0,Class of 1978 Life Sciences Center",3.6666666666666665
 28:04:2013,114000.0,0.0,0.0,3597.0,0.0,0.0,0.0,-1,0.0,0.0,13,"Interchange Drive,Interchange Drive,0,0,0,0,0,0,0,0,0,0,0,0",
-28:05:2013,52202.0,3600.0,0.0,0.0,1197.0,601.0,0.0,1,1.0,6600.0,13,"0,0,0,Berry Library,Bildner Hall,Bildner Hall,Sudikoff Hall,Sudikoff Hall,Dartmouth College",
-29:03:2013,2400.0,83999.0,0.0,0.0,0.0,0.0,0.0,4,0.0,3000.0,13,"Carpenter Hall,Sudikoff Hall,Sudikoff Hall,Dartmouth College",2.6666666666666665
-29:04:2013,33600.0,3600.0,0.0,0.0,0.0,0.0,0.0,0,1.0,10500.0,13,"0,0,0,0,0,0,0,Life Sciences Greenhouse,Life Sciences Greenhouse,Sudikoff Hall,Dartmouth College,Sudikoff Hall,Sudikoff Hall,Dartmouth College",
-29:05:2013,68398.0,5401.0,0.0,5401.0,0.0,7200.0,0.0,2,1.0,10500.0,13,"Dartmouth College,Carpenter Hall,Dartmouth College,Dartmouth College,Dartmouth College,0,0,Jiffy Mart,Berry Library,Moore Psychology Building,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Dartmouth College,0,0,Dartmouth College",
-30:03:2013,66000.0,0.0,0.0,0.0,39600.0,0.0,1200.0,5,0.0,0.0,13,"Dartmouth College,0,Dulac Street,0,0,0,0,Glen Road Plaza,0",1.0
-30:04:2013,87600.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1.0,6600.0,13,"Dartmouth College,Dartmouth College,Bildner Hall,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",3.0
-30:05:2013,86676.0,0.0,0.0,9600.0,2400.0,0.0,0.0,3,1.0,13500.0,13,"G Lot Parking,0,Pulsifer Building,0,0,0,Mobil,0,Mobil,0,0",
-31:03:2013,75602.0,0.0,0.0,2400.0,0.0,0.0,0.0,-1,0.0,0.0,13,"0,0,0,Trinity,Trinity,0",3.0
+28:05:2013,52803.0,3600.0,0.0,0.0,1197.0,0.0,0.0,1,1.0,6600.0,13,"0,0,0,Dartmouth College,Bildner Hall,Bildner Hall,Sudikoff Hall,Sudikoff Hall,Dartmouth College",
+29:03:2013,81598.0,4801.0,0.0,0.0,0.0,0.0,0.0,4,0.0,3000.0,13,"Dartmouth College,Sudikoff Hall,Sudikoff Hall,Dartmouth College",1.0
+29:04:2013,32400.0,4800.0,0.0,0.0,0.0,0.0,0.0,0,1.0,10500.0,13,"0,0,0,0,0,0,0,Life Sciences Greenhouse,Life Sciences Greenhouse,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Dartmouth College",3.0
+29:05:2013,76804.0,2995.0,0.0,5401.0,0.0,1200.0,0.0,2,1.0,10500.0,13,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Reed Hall,0,0,Jiffy Mart,Dartmouth College,Moore Psychology Building,Life Sciences Greenhouse,Life Sciences Greenhouse,Sudikoff Hall,Dartmouth College,Dartmouth College,0,0,Dartmouth College",
+30:03:2013,66000.0,0.0,0.0,0.0,39600.0,0.0,1200.0,5,0.0,0.0,13,"Dartmouth College,0,Dulac Street,0,0,0,0,Glen Road Plaza,0",2.0
+30:04:2013,87600.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1.0,6600.0,13,"Dartmouth College,Thomas Hall,Bildner Hall,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",3.0
+30:05:2013,86676.0,0.0,0.0,9600.0,0.0,0.0,2400.0,3,1.0,13500.0,13,"Dewey Field Road,0,Pulsifer Building,0,0,0,Mobil,0,Mobil,0,0",
+31:03:2013,75602.0,0.0,0.0,2400.0,0.0,0.0,0.0,-1,0.0,0.0,13,"0,0,0,Trinity,Trinity,0",
 31:05:2013,64200.0,0.0,0.0,9600.0,600.0,0.0,0.0,4,1.0,3000.0,13,"0,0,0,0,School Street School,RE/MAX",

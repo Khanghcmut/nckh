@@ -1,59 +1,59 @@
-date,home_time,school_time,orthers,travel_time,recreational_activities,working,date_in_week,cut_class,class_schedule,volunteer,location_names,level
-01:04:2013,9684.0,4800.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,59.0,"0,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,0",1.0
-01:05:2013,105599.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,59.0,"Dartmouth College,0,0,Dartmouth College,Dartmouth College,0,0,Life Sciences Greenhouse,Life Sciences Greenhouse,0,0",
-02:04:2013,6003.0,0.0,101186.0,4411.0,0.0,0.0,1.0,0.0,0.0,59.0,"0,Dewey Parking Lot,0,0,0,0,0",
-02:05:2013,76801.0,0.0,0.0,1199.0,0.0,0.0,3.0,0.0,0.0,59.0,"0,Dartmouth College,Dartmouth College,0,0,Life Sciences Greenhouse,0,0",
-03:04:2013,61647.0,3600.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,59.0,"0,Dartmouth College,0,0,Class of 1978 Life Sciences Center,Life Sciences Greenhouse,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,0",1.0
-03:05:2013,75813.0,0.0,0.0,1290.0,0.0,0.0,4.0,0.0,0.0,59.0,"0,0,0,0,0,Dartmouth College,Dartmouth College,0,0,0,0,Life Sciences Greenhouse,Life Sciences Greenhouse,0,0,0",
-04:04:2013,99923.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,59.0,"0,0,0,0,0,0,Dartmouth College,0,Dartmouth College,Dartmouth College,0,0",2.0
-04:05:2013,107930.0,9596.0,0.0,1745.0,0.0,0.0,5.0,0.0,0.0,59.0,"Dartmouth College,Berry Sports Center Parking Lot,0,0,0,0,0,0,0,0,0,0,0,0",
-05:04:2013,155811.0,3600.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,59.0,"0,Dartmouth College,0,0,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,0,0",1.5
-05:05:2013,57121.0,725.0,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,59.0,"0,McNutt Hall,Dartmouth College,0,0,0",
-06:05:2013,163320.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,59.0,"0,0,0,0,0,Dartmouth College,0,0,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,0",2.0
-07:04:2013,74218.0,0.0,7146.0,1249.0,0.0,0.0,-1.0,0.0,0.0,59.0,"0,0,Dartmouth College,0,0,0",
-07:05:2013,2400.0,0.0,3601.0,0.0,0.0,0.0,1.0,0.0,0.0,59.0,"0,Dartmouth College,Nugget Arcade",1.0
-08:04:2013,182403.0,2400.0,0.0,3597.0,0.0,0.0,0.0,0.0,0.0,59.0,"0,Dartmouth College,0,0,0,0,0,0,Life Sciences Greenhouse,Class of 1978 Life Sciences Center,Life Sciences Greenhouse,0",1.0
-08:05:2013,101399.0,2401.0,0.0,600.0,0.0,0.0,2.0,0.0,0.0,59.0,"Lot 7,0,0,0,0,Dartmouth College,Dartmouth College,0,0,0,0,0,0,Dartmouth College,Dartmouth College,0,0,Class of 1978 Life Sciences Center,Life Sciences Greenhouse,Life Sciences Greenhouse,0",2.0
-09:05:2013,69000.0,0.0,0.0,600.0,0.0,0.0,3.0,0.0,0.0,59.0,"0,Dartmouth College,Dartmouth College,Dartmouth College,Dana Circle Parking Lot,0",2.0
-10:04:2013,68360.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,59.0,"0,Dartmouth College,0,0,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,0",1.0
-10:05:2013,103205.0,1799.0,600.0,0.0,0.0,0.0,4.0,0.0,0.0,59.0,"0,0,0,Dartmouth College,Dartmouth College,0,0,Dartmouth College,0,Dartmouth College,0,0,0,0,Life Sciences Greenhouse,Life Sciences Greenhouse,Anonymous Hall,Byrne II Hall,0,0",
-11:04:2013,98324.0,0.0,0.0,1202.0,0.0,0.0,3.0,0.0,0.0,59.0,"0,0,0,0,0,0,0,Dartmouth College,Dartmouth College,0,0",
-11:05:2013,144512.0,600.0,4963.0,4637.0,0.0,0.0,5.0,0.0,0.0,59.0,"0,0,Nugget Arcade,Nugget Arcade,0,Nugget Arcade,0,0",
-12:04:2013,73200.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,59.0,"0,0,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,0,Life Sciences Greenhouse,Life Sciences Greenhouse,0",1.0
-13:04:2013,91200.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,59.0,"0,0,0,0,0,0,0",5.0
-13:05:2013,148573.0,1176.0,9554.0,0.0,4770.0,0.0,0.0,0.0,0.0,59.0,"Hanover Post Office,Dartmouth College,0,West Stands,0,0,0,0,Dartmouth College,0,Dartmouth College,Dartmouth College,Dartmouth College,0",5.0
-14:04:2013,68475.0,0.0,0.0,14366.0,0.0,0.0,-1.0,0.0,0.0,59.0,"0,Dana Circle Parking Lot,Dartmouth College,0,0,0,Dartmouth College,0",1.0
-14:05:2013,3749.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,59.0,Zimmerman Hall,
-15:04:2013,98401.0,1200.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,59.0,"0,0,0,0,Life Sciences Greenhouse,Life Sciences Greenhouse,Class of 1978 Life Sciences Center,0",2.0
-15:05:2013,103198.0,0.0,0.0,3268.0,0.0,0.0,2.0,0.0,0.0,59.0,"0,Zimmerman Hall,0,0,0,0,0,0,0,Dartmouth College,0,Dartmouth College,Dartmouth College,Dartmouth College,0",1.0
-16:04:2013,64466.0,0.0,0.0,1537.0,5997.0,0.0,1.0,0.0,0.0,59.0,"0,Alumni Gymnasium,Alumni Gymnasium,0,0,Berry Sports Center Parking Lot",1.5
-16:05:2013,68402.0,598.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,59.0,"0,0,Dartmouth College,Dartmouth College,Anonymous Hall,0",1.0
-17:04:2013,100800.0,0.0,0.0,0.0,6000.0,0.0,2.0,0.0,0.0,59.0,"0,0,Alumni Gymnasium,Alumni Gymnasium,0,0,Life Sciences Greenhouse,Life Sciences Greenhouse,0",2.0
-17:05:2013,85068.0,4800.0,2284.0,3248.0,0.0,0.0,4.0,0.0,0.0,59.0,"0,Hanover Post Office,0,0,0,0,0",2.0
-18:04:2013,65223.0,1196.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,59.0,"0,Dartmouth College,Dartmouth College,0,0,Class of 1978 Life Sciences Center,Life Sciences Greenhouse,Life Sciences Greenhouse",2.0
-18:05:2013,67201.0,0.0,2167.0,0.0,28990.0,0.0,5.0,0.0,0.0,59.0,"0,Alumni Gymnasium,Alumni Gymnasium,0,0,0,Dartmouth College,Dartmouth College,Dartmouth College,0,0,0,0,0,0,0,Davidson Pottery Studio",2.0
-19:04:2013,90013.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,59.0,"0,0,0,0,0,0,0,0,0,0,0,Life Sciences Greenhouse,Life Sciences Greenhouse,0",
-19:05:2013,167400.0,0.0,0.0,0.0,3042.0,0.0,-1.0,0.0,0.0,59.0,"Hanover Inn Dartmouth,0",
-20:04:2013,91107.0,0.0,0.0,0.0,6000.0,0.0,5.0,0.0,0.0,59.0,"0,Dartmouth College,Dartmouth College,0,Alumni Gymnasium,Alumni Gymnasium,0,0",1.0
-21:04:2013,72000.0,0.0,0.0,1293.0,0.0,0.0,-1.0,0.0,0.0,59.0,"Berry Sports Center Parking Lot,0",5.0
-21:05:2013,51593.0,0.0,0.0,10207.0,4800.0,0.0,1.0,0.0,0.0,59.0,"0,Dana Circle Parking Lot,Dartmouth College,0,Dartmouth College,Dewey Parking Lot,0,0,0,0,Dartmouth College,Dartmouth College,0,0,0,Jewel of India",2.0
-22:04:2013,102000.0,2400.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,59.0,"0,Dartmouth College,Dartmouth College,0,0,0,0,Class of 1978 Life Sciences Center,Life Sciences Greenhouse,Life Sciences Greenhouse,Class of 1978 Life Sciences Center,0",2.0
-22:05:2013,102001.0,599.0,0.0,604.0,1200.0,596.0,2.0,0.0,0.0,59.0,"Dartmouth College,0,0,0,Dartmouth College,Dartmouth College,0,0,Chi Heorot,0",1.0
-23:04:2013,58802.0,0.0,0.0,3598.0,6000.0,0.0,1.0,0.0,0.0,59.0,"0,Alumni Gymnasium,Alumni Gymnasium,0,0,South Block Parking Garage",3.0
-23:05:2013,63000.0,0.0,10201.0,0.0,0.0,0.0,3.0,0.0,0.0,59.0,"0,Dartmouth College,Dartmouth College,0,0,0,0",2.0
-24:04:2013,84001.0,0.0,3600.0,0.0,5999.0,0.0,2.0,0.0,0.0,59.0,"Johnson Audiology,Hanover Post Office,0,0,Alumni Gymnasium,Alumni Gymnasium,0,0",1.0
-24:05:2013,184199.0,0.0,0.0,0.0,0.0,4200.0,4.0,0.0,0.0,59.0,"0,0,Alpha Phi,0,0,0",2.0
-25:04:2013,87600.0,0.0,0.0,0.0,1200.0,0.0,3.0,0.0,0.0,59.0,"0,FatFace Hanover,0,0,Dartmouth College,0",
-26:04:2013,81600.0,0.0,0.0,0.0,4800.0,0.0,4.0,0.0,0.0,59.0,"0,Alumni Gymnasium,Alumni Gymnasium,0,0,Dartmouth College,Dartmouth College,0,0,Life Sciences Greenhouse,Life Sciences Greenhouse,0,0",
-26:05:2013,82799.0,0.0,0.0,0.0,1201.0,0.0,-1.0,0.0,0.0,59.0,"0,0,0,Hopkins Center for the Arts,Dartmouth College,Dartmouth College,Hopkins Center for the Arts,Morton Hall,0,Dartmouth College,0",
-27:03:2013,63588.0,3552.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,59.0,"0,0,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,Life Sciences Greenhouse,0",
-27:04:2013,92400.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,59.0,"0,Dartmouth College,Dartmouth College,0,0,0,0",2.0
-27:05:2013,78000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,59.0,"0,Dartmouth College,Dartmouth College,0,0,Dartmouth College,Dartmouth College,Dartmouth College,0,0,0,Dartmouth College,0",
-28:03:2013,61260.0,4800.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,59.0,"0,Dartmouth College,Dartmouth College,Anonymous Hall,0,0,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center",1.0
-28:04:2013,142773.0,0.0,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,59.0,"0,Dartmouth College,Dartmouth College,0,0,0,0",
-28:05:2013,67799.0,3534.0,0.0,6001.0,0.0,0.0,1.0,0.0,0.0,59.0,"0,0,0,0,0",
-29:03:2013,174000.0,4800.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,59.0,"0,0,0,Dartmouth College,Dartmouth College,0,0,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,0",1.0
-29:04:2013,94828.0,0.0,0.0,1201.0,0.0,0.0,0.0,0.0,0.0,59.0,"0,Dana Circle Parking Lot,Life Sciences Greenhouse,Life Sciences Greenhouse,0,0",2.0
-29:05:2013,64201.0,0.0,0.0,0.0,1266.0,0.0,2.0,0.0,0.0,59.0,"Jewel of India,0,0,0,0,0,0,Life Sciences Greenhouse",1.0
-30:04:2013,3599.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,59.0,Dartmouth College,1.5
-31:03:2013,151116.0,0.0,0.0,3600.0,0.0,0.0,-1.0,0.0,0.0,59.0,"0,0,0",4.0
+date,home_time,school_time,orthers,travel_time,recreational_activities,working,shopping,date_in_week,cut_class,class_schedule,volunteer,location_names,level
+01:04:2013,9684.0,4800.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,59.0,"0,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,0",1.0
+01:05:2013,100799.0,4800.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,59.0,"Class of 1953 Commons,0,0,Sudikoff Hall,Fairchild Physical Sciences Center,0,0,Life Sciences Greenhouse,Life Sciences Greenhouse,0,0",
+02:04:2013,6003.0,0.0,101186.0,4411.0,0.0,0.0,0.0,1.0,0.0,0.0,59.0,"0,Dewey Parking Lot,0,0,0,0,0",
+02:05:2013,72001.0,4800.0,0.0,1199.0,0.0,0.0,0.0,3.0,0.0,0.0,59.0,"0,Sudikoff Hall,Sudikoff Hall,0,0,Life Sciences Greenhouse,0,0",
+03:04:2013,59248.0,5999.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,59.0,"0,Sudikoff Hall,0,0,Class of 1978 Life Sciences Center,Life Sciences Greenhouse,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,0",1.0
+03:05:2013,73413.0,2400.0,0.0,1290.0,0.0,0.0,0.0,4.0,0.0,0.0,59.0,"0,0,0,0,0,Sudikoff Hall,Sudikoff Hall,0,0,0,0,Life Sciences Greenhouse,Life Sciences Greenhouse,0,0,0",
+04:04:2013,87601.0,11122.0,0.0,1200.0,0.0,0.0,0.0,3.0,0.0,0.0,59.0,"0,0,0,0,0,0,Vox Lane Parking Lot,0,Sudikoff Hall,Sudikoff Hall,0,0",2.0
+04:05:2013,106378.0,9596.0,0.0,3297.0,0.0,0.0,0.0,5.0,0.0,0.0,59.0,"0,Berry Sports Center Parking Lot,0,0,0,0,0,0,0,0,0,0,0,0",
+05:04:2013,146283.0,13128.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,59.0,"0,Sudikoff Hall,0,0,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,0,0",1.5
+05:05:2013,56522.0,1324.0,0.0,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,59.0,"0,McNutt Hall,Steele Hall,0,0,0",
+06:05:2013,161519.0,1801.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,59.0,"0,0,0,0,0,Dartmouth College,0,0,Life Sciences Greenhouse,Life Sciences Greenhouse,Sudikoff Hall,Sudikoff Hall,0",2.0
+07:04:2013,63413.0,10805.0,7146.0,1249.0,0.0,0.0,0.0,-1.0,0.0,0.0,59.0,"0,0,Sudikoff Hall,0,0,0",
+07:05:2013,600.0,0.0,3601.0,0.0,1800.0,0.0,0.0,1.0,0.0,0.0,59.0,"0,Hood Museum of Art,Nugget Arcade",1.5
+08:04:2013,178803.0,6000.0,0.0,3597.0,0.0,0.0,0.0,0.0,0.0,0.0,59.0,"0,Bartlett Hall,0,0,0,0,0,0,Life Sciences Greenhouse,Class of 1978 Life Sciences Center,Life Sciences Greenhouse,0",1.0
+08:05:2013,93599.0,3602.0,0.0,600.0,6599.0,0.0,0.0,2.0,0.0,0.0,59.0,"Lot 7,0,0,0,0,Hopkins Center for the Arts,Hopkins Center for the Arts,0,0,0,0,0,0,Guarini Institute for International Education,Sudikoff Hall,0,0,Class of 1978 Life Sciences Center,Life Sciences Greenhouse,Life Sciences Greenhouse,0",2.0
+09:05:2013,60600.0,8400.0,0.0,600.0,0.0,0.0,0.0,3.0,0.0,0.0,59.0,"0,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Dana Circle Parking Lot,0",
+10:04:2013,65959.0,2401.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,59.0,"0,Winfred-Raven House,0,0,Life Sciences Greenhouse,Life Sciences Greenhouse,Sudikoff Hall,0",1.0
+10:05:2013,97204.0,1799.0,600.0,0.0,5401.0,600.0,0.0,4.0,0.0,0.0,59.0,"0,0,0,Hood Museum of Art,Hood Museum of Art,0,0,Topliff Hall,0,Sphinx Secret Society,0,0,0,0,Life Sciences Greenhouse,Life Sciences Greenhouse,Anonymous Hall,Byrne II Hall,0,0",
+11:04:2013,89924.0,8400.0,0.0,1202.0,0.0,0.0,0.0,3.0,0.0,0.0,59.0,"0,0,0,0,0,0,0,Sudikoff Hall,Sudikoff Hall,0,0",
+11:05:2013,144512.0,600.0,4963.0,4637.0,0.0,0.0,0.0,5.0,0.0,0.0,59.0,"0,0,Nugget Arcade,Nugget Arcade,0,Nugget Arcade,0,0",
+12:04:2013,62400.0,10800.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,59.0,"0,0,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Guarini Institute for International Education,0,0,Life Sciences Greenhouse,Life Sciences Greenhouse,0",1.0
+13:04:2013,91200.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,59.0,"0,0,0,0,0,0,0",5.0
+13:05:2013,142005.0,7744.0,9554.0,0.0,4770.0,0.0,0.0,0.0,0.0,0.0,59.0,"Hanover Post Office,Dartmouth College,0,West Stands,0,0,0,0,Reed Hall,0,Sudikoff Hall,Sudikoff Hall,Goldstein Hall,0",5.0
+14:04:2013,64842.0,1199.0,0.0,14366.0,2434.0,0.0,0.0,-1.0,0.0,0.0,59.0,"0,Dana Circle Parking Lot,Hood Museum of Art,0,0,0,Sudikoff Hall,0",1.5
+14:05:2013,3749.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,59.0,Zimmerman Hall,1.0
+15:04:2013,98401.0,1200.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,59.0,"0,0,0,0,Life Sciences Greenhouse,Life Sciences Greenhouse,Class of 1978 Life Sciences Center,0",2.0
+15:05:2013,100200.0,2998.0,0.0,3268.0,0.0,0.0,0.0,2.0,0.0,0.0,59.0,"0,Zimmerman Hall,0,0,0,0,0,0,0,0,0,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,0",1.0
+16:04:2013,64466.0,0.0,0.0,1537.0,5997.0,0.0,0.0,1.0,0.0,0.0,59.0,"0,Alumni Gymnasium,Alumni Gymnasium,0,0,Berry Sports Center Parking Lot",1.5
+16:05:2013,60601.0,8399.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,59.0,"0,0,Sudikoff Hall,Sudikoff Hall,Anonymous Hall,0",2.0
+17:04:2013,100800.0,0.0,0.0,0.0,6000.0,0.0,0.0,2.0,0.0,0.0,59.0,"0,0,Alumni Gymnasium,Alumni Gymnasium,0,0,Life Sciences Greenhouse,Life Sciences Greenhouse,0",2.0
+17:05:2013,85068.0,4800.0,2284.0,3248.0,0.0,0.0,0.0,4.0,0.0,0.0,59.0,"0,Hanover Post Office,0,0,0,0,0",2.0
+18:04:2013,59224.0,7195.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,59.0,"0,Sudikoff Hall,Sudikoff Hall,0,0,Class of 1978 Life Sciences Center,Life Sciences Greenhouse,Life Sciences Greenhouse",2.0
+18:05:2013,58800.0,8401.0,2167.0,0.0,28990.0,0.0,0.0,5.0,0.0,0.0,59.0,"0,Alumni Gymnasium,Alumni Gymnasium,0,0,0,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,0,0,0,0,0,0,0,Davidson Pottery Studio",
+19:04:2013,90013.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,59.0,"0,0,0,0,0,0,0,0,0,0,0,Life Sciences Greenhouse,Life Sciences Greenhouse,0",1.0
+19:05:2013,167400.0,0.0,0.0,0.0,3042.0,0.0,0.0,-1.0,0.0,0.0,59.0,"Hanover Inn Dartmouth,0",
+20:04:2013,82707.0,8400.0,0.0,0.0,6000.0,0.0,0.0,5.0,0.0,0.0,59.0,"0,Sudikoff Hall,Sudikoff Hall,0,Alumni Gymnasium,Alumni Gymnasium,0,0",
+21:04:2013,72000.0,0.0,0.0,1293.0,0.0,0.0,0.0,-1.0,0.0,0.0,59.0,"Berry Sports Center Parking Lot,0",5.0
+21:05:2013,46796.0,1803.0,0.0,1207.0,7794.0,0.0,9000.0,1.0,0.0,0.0,59.0,"0,Dana Circle Parking Lot,Dartmouth College,0,Black Family Visual Arts Center,Dewey Field Road,0,0,0,0,Sudikoff Hall,Sudikoff Hall,0,0,0,Jewel of India",1.5
+22:04:2013,98400.0,6000.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,59.0,"0,Sudikoff Hall,Sudikoff Hall,0,0,0,0,Class of 1978 Life Sciences Center,Life Sciences Greenhouse,Life Sciences Greenhouse,Class of 1978 Life Sciences Center,0",2.0
+22:05:2013,98401.0,3598.0,0.0,604.0,1801.0,596.0,0.0,2.0,0.0,0.0,59.0,"Black Family Visual Arts Center,0,0,0,Sudikoff Hall,Sudikoff Hall,0,0,Chi Heorot,0",1.0
+23:04:2013,58802.0,0.0,0.0,3598.0,6000.0,0.0,0.0,1.0,0.0,0.0,59.0,"0,Alumni Gymnasium,Alumni Gymnasium,0,0,South Block Parking Garage",3.0
+23:05:2013,52200.0,10800.0,10201.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,59.0,"0,Sudikoff Hall,Sudikoff Hall,0,0,0,0",2.0
+24:04:2013,84001.0,0.0,3600.0,0.0,5999.0,0.0,0.0,2.0,0.0,0.0,59.0,"Johnson Audiology,Hanover Post Office,0,0,Alumni Gymnasium,Alumni Gymnasium,0,0",1.0
+24:05:2013,184199.0,0.0,0.0,0.0,0.0,4200.0,0.0,4.0,0.0,0.0,59.0,"0,0,Alpha Phi,0,0,0",
+25:04:2013,80400.0,7200.0,0.0,0.0,1200.0,0.0,0.0,3.0,0.0,0.0,59.0,"0,FatFace Hanover,0,0,Sudikoff Hall,0",
+26:04:2013,72000.0,9600.0,0.0,0.0,4800.0,0.0,0.0,4.0,0.0,0.0,59.0,"0,Alumni Gymnasium,Alumni Gymnasium,0,0,Sudikoff Hall,Sudikoff Hall,0,0,Life Sciences Greenhouse,Life Sciences Greenhouse,0,0",2.0
+26:05:2013,76200.0,1199.0,0.0,0.0,6601.0,0.0,0.0,-1.0,0.0,0.0,59.0,"0,0,0,Hopkins Center for the Arts,Hopkins Center for the Arts,Hopkins Center for the Arts,Hopkins Center for the Arts,Morton Hall,0,Sudikoff Hall,0",
+27:03:2013,63588.0,3552.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,59.0,"0,0,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,Life Sciences Greenhouse,0",
+27:04:2013,88800.0,3600.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,59.0,"0,Sudikoff Hall,Sudikoff Hall,0,0,0,0",
+27:05:2013,67201.0,4199.0,0.0,5999.0,601.0,0.0,0.0,0.0,0.0,0.0,59.0,"0,East Wheelock Street,Black Family Visual Arts Center,0,0,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,0,0,0,Bartlett Hall,0",
+28:03:2013,55260.0,10800.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,59.0,"0,Sudikoff Hall,Sudikoff Hall,Anonymous Hall,0,0,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center",1.0
+28:04:2013,140373.0,2400.0,0.0,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,59.0,"0,Sudikoff Hall,Sudikoff Hall,0,0,0,0",2.0
+28:05:2013,67799.0,3534.0,0.0,6001.0,0.0,0.0,0.0,1.0,0.0,0.0,59.0,"0,0,0,0,0",
+29:03:2013,166800.0,12000.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,59.0,"0,0,0,Sudikoff Hall,Sudikoff Hall,0,0,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,0",1.0
+29:04:2013,94828.0,0.0,0.0,1201.0,0.0,0.0,0.0,0.0,0.0,0.0,59.0,"0,Dana Circle Parking Lot,Life Sciences Greenhouse,Life Sciences Greenhouse,0,0",1.5
+29:05:2013,64201.0,0.0,0.0,0.0,1266.0,0.0,0.0,2.0,0.0,0.0,59.0,"Jewel of India,0,0,0,0,0,0,Life Sciences Greenhouse",1.0
+30:04:2013,0.0,3599.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,59.0,Class of 1953 Commons,2.0
+31:03:2013,151116.0,0.0,0.0,3600.0,0.0,0.0,0.0,-1.0,0.0,0.0,59.0,"0,0,0",4.0

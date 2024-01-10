@@ -1,61 +1,61 @@
 date,home_time,school_time,travel_time,orthers,recreational_activities,date_in_week,cut_class,class_schedule,volunteer,location_names,level
-01:05:2013,85200.0,0.0,0.0,0.0,0.0,2.0,1.0,11700.0,45.0,"0,0,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Dartmouth College",1.0
-02:05:2013,86400.0,0.0,0.0,0.0,0.0,3.0,1.0,7800.0,45.0,"Dartmouth College,Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Dartmouth College,0,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College",1.0
-03:04:2013,69605.0,1199.0,0.0,0.0,0.0,2.0,1.0,11700.0,45.0,"Dartmouth College,0,0,0,0,0,Class of 1978 Life Sciences Center,Dartmouth College,0",4.0
-03:05:2013,87601.0,0.0,0.0,0.0,0.0,4.0,1.0,9000.0,45.0,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,0,0,0,0,0,0,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College",1.0
-04:04:2013,85197.0,0.0,0.0,0.0,0.0,3.0,1.0,7800.0,45.0,"Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,0,0,0,0,0,0",4.25
-04:05:2013,88799.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,45.0,"Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College",
-05:04:2013,81599.0,4800.0,0.0,0.0,0.0,4.0,1.0,9000.0,45.0,"Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,Class of 1978 Life Sciences Center,0",2.5
-05:05:2013,84000.0,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,45.0,"0,0,0,0,0,0,0,0",1.0
-06:04:2013,104400.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,45.0,"Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,0,0,0,0",2.5
-06:05:2013,136608.0,0.0,0.0,0.0,0.0,0.0,1.0,11700.0,45.0,"0,0,Dartmouth College,Dartmouth College,0,0,0,0,0,0,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College",1.0
-07:04:2013,68400.0,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,45.0,"Dartmouth College,Dartmouth College,0,0",
-07:05:2013,46800.0,0.0,0.0,0.0,0.0,1.0,1.0,3900.0,45.0,"Dartmouth College,0,0,0,0,0,0,0,0,0,0,0,0,0",4.0
-08:04:2013,78000.0,8400.0,0.0,0.0,0.0,0.0,0.0,11700.0,45.0,"0,Dartmouth College,0,0,0,0,Dartmouth College,Life Sciences Greenhouse,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,0",1.3333333333333333
-08:05:2013,75600.0,1200.0,0.0,0.0,0.0,2.0,1.0,11700.0,45.0,"0,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,0,0,0,0,Class of 1978 Life Sciences Center,Dartmouth College",1.6666666666666667
-09:04:2013,120000.0,0.0,0.0,0.0,0.0,1.0,1.0,3900.0,45.0,"Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,0,Dartmouth College",2.5
-09:05:2013,87600.0,0.0,0.0,0.0,0.0,3.0,1.0,7800.0,45.0,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0",1.0
-10:04:2013,52800.0,0.0,0.0,0.0,0.0,2.0,1.0,11700.0,45.0,"Dartmouth College,0,Life Sciences Greenhouse",1.0
-10:05:2013,100800.0,0.0,0.0,0.0,0.0,4.0,1.0,9000.0,45.0,"Life Sciences Greenhouse,0,0,0,Dartmouth College,Dartmouth College,Dartmouth College",1.0
-11:04:2013,30000.0,0.0,55200.0,0.0,0.0,3.0,1.0,7800.0,45.0,"0,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Dewey Parking Lot,0",1.5
-11:05:2013,54000.0,14400.0,0.0,0.0,0.0,5.0,0.0,0.0,45.0,"Dartmouth College,0,Dartmouth College,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
-12:04:2013,87600.0,0.0,0.0,0.0,0.0,4.0,1.0,9000.0,45.0,"Dartmouth College,Dartmouth College,Dartmouth College,0,0,0,Life Sciences Greenhouse,Dartmouth College",1.0
-12:05:2013,106611.0,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,45.0,"0,0",1.0
-13:04:2013,102000.0,0.0,15600.0,0.0,0.0,5.0,0.0,0.0,45.0,"Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,G Lot Parking,0,0,0,0,0,0,Dartmouth College",1.0
-13:05:2013,73200.0,0.0,0.0,0.0,0.0,0.0,1.0,11700.0,45.0,"0,0,0,0,0,0",4.0
-14:04:2013,115408.0,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,45.0,"Dartmouth College,0,0",1.5
-14:05:2013,91200.0,0.0,0.0,0.0,0.0,1.0,1.0,3900.0,45.0,"0,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0",1.0
-15:04:2013,30667.0,0.0,0.0,0.0,0.0,0.0,1.0,11700.0,45.0,"0,0,0,Dartmouth College",1.5
-15:05:2013,72907.0,0.0,0.0,1493.0,0.0,2.0,1.0,11700.0,45.0,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,0,0,0",2.6666666666666665
-16:04:2013,98577.0,0.0,3600.0,0.0,0.0,1.0,1.0,3900.0,45.0,"Life Sciences Greenhouse,Dartmouth College,Dartmouth College,G Lot Parking,0,0,0,0,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College",3.0
-16:05:2013,87600.0,0.0,0.0,0.0,0.0,3.0,1.0,7800.0,45.0,"Dartmouth College,Dartmouth College,0,0,0,0,0,0,0,0,0,0",4.0
-17:04:2013,56399.0,9599.0,1201.0,0.0,0.0,2.0,0.0,11700.0,45.0,"Dartmouth College,Dartmouth College,0,0,0,0,0,0,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,0",
-17:05:2013,85200.0,0.0,0.0,0.0,0.0,4.0,1.0,9000.0,45.0,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,0,0,0,Dartmouth College",4.0
-18:04:2013,44400.0,0.0,39601.0,0.0,0.0,3.0,1.0,7800.0,45.0,"Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,G Lot Parking,0,0,0,0,0,0,0,0,0,0,Dartmouth College,Dartmouth College,0,0",1.0
-18:05:2013,87601.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,45.0,"Dartmouth College,Dartmouth College,0,0",4.0
-19:04:2013,85200.0,3600.0,0.0,0.0,0.0,4.0,1.0,9000.0,45.0,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,Life Sciences Greenhouse,0",
-19:05:2013,110399.0,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,45.0,"0,Dartmouth College,Dartmouth College,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dartmouth College,Dartmouth College",1.0
-20:04:2013,84001.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,45.0,"Life Sciences Greenhouse,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,0,0,0,Dartmouth College",1.0
-20:05:2013,61200.0,0.0,0.0,0.0,0.0,0.0,1.0,11700.0,45.0,"0,0,0,0",1.0
-21:04:2013,87602.0,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,45.0,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,0,0,0,Dartmouth College,Dartmouth College,0",
-21:05:2013,86400.0,0.0,0.0,0.0,0.0,1.0,1.0,3900.0,45.0,"0,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,0,0,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College",1.0
-22:04:2013,87600.0,0.0,0.0,0.0,0.0,0.0,1.0,11700.0,45.0,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,0,0,0,0,0,Dartmouth College,Dartmouth College,Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College",1.5
-22:05:2013,88800.0,0.0,0.0,0.0,0.0,2.0,1.0,11700.0,45.0,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College",1.0
-23:04:2013,84006.0,0.0,0.0,0.0,0.0,1.0,1.0,3900.0,45.0,"Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,0,0,0,0,0,0,0,Dartmouth College,Dartmouth College,Dartmouth College",2.5
-23:05:2013,84000.0,0.0,0.0,0.0,0.0,3.0,1.0,7800.0,45.0,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,0,0,0,Dartmouth College,Dartmouth College,0,0",1.0
-24:04:2013,85893.0,1205.0,0.0,0.0,0.0,2.0,1.0,11700.0,45.0,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,0,0,0,Parker House,Dartmouth College",
-24:05:2013,86400.0,0.0,0.0,0.0,0.0,4.0,1.0,9000.0,45.0,"0,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,0,0",1.0
-25:04:2013,81602.0,0.0,2400.0,1700.0,0.0,3.0,1.0,7800.0,45.0,"0,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,0,0,0,Dartmouth College,Dartmouth College,Dartmouth College,Dewey Parking Lot,0,Dartmouth College",1.0
-25:05:2013,87600.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,45.0,"Dartmouth College,Dartmouth College",1.0
-26:04:2013,86401.0,1200.0,0.0,0.0,0.0,4.0,1.0,9000.0,45.0,"Dartmouth College,Dartmouth College,Class of 1978 Life Sciences Center,Life Sciences Greenhouse,0,0,0,0,0,Life Sciences Greenhouse,Dartmouth College",1.0
-26:05:2013,85200.0,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,45.0,"0,Dartmouth College,0,0,Dartmouth College,0,0",
-27:04:2013,96373.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,45.0,"Dartmouth College,Life Sciences Greenhouse,Life Sciences Greenhouse,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College",1.0
-27:05:2013,94800.0,0.0,0.0,0.0,0.0,0.0,1.0,11700.0,45.0,"0,Dartmouth College,0",
-28:03:2013,529838.0,0.0,0.0,0.0,0.0,3.0,1.0,7800.0,45.0,Dartmouth College,
-28:04:2013,79200.0,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,45.0,"Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College",1.0
-28:05:2013,84002.0,0.0,0.0,0.0,16801.0,1.0,1.0,3900.0,45.0,"Dartmouth College,Baker Memorial Library,Baker Memorial Library,Dartmouth College,Dartmouth College,Dartmouth College,Dartmouth College,0,0,0,0,0,0,0,0,0,0,0,0,Dartmouth College",2.0
-29:04:2013,82787.0,0.0,0.0,0.0,0.0,0.0,1.0,11700.0,45.0,"0,Dartmouth College,0,Dartmouth College,Dartmouth College",2.0
-29:05:2013,138484.0,0.0,0.0,0.0,0.0,2.0,1.0,11700.0,45.0,Dartmouth College,
-30:04:2013,86413.0,1200.0,0.0,0.0,0.0,1.0,1.0,3900.0,45.0,"Dartmouth College,Dartmouth College,Life Sciences Greenhouse,Class of 1978 Life Sciences Center,Dartmouth College,Dartmouth College,0,0,0",2.3333333333333335
-30:05:2013,64801.0,0.0,1199.0,0.0,0.0,3.0,1.0,7800.0,45.0,"0,0,Dartmouth College",
-31:05:2013,28800.0,0.0,0.0,0.0,0.0,4.0,1.0,9000.0,45.0,"Dartmouth College,0,0,0,0,0,0,0,Dartmouth College,Dartmouth College,Dartmouth College,0,0,0",
+01:05:2013,79200.0,6000.0,0.0,0.0,0.0,2,1.0,11700.0,45,"0,0,Life Sciences Greenhouse,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall",1.0
+02:05:2013,9600.0,76800.0,0.0,0.0,0.0,3,0.0,7800.0,45,"Sudikoff Hall,Sudikoff Hall,Life Sciences Greenhouse,Life Sciences Greenhouse,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,0,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall",1.0
+03:04:2013,40804.0,30000.0,0.0,0.0,0.0,2,0.0,11700.0,45,"Sudikoff Hall,0,0,0,0,0,Class of 1978 Life Sciences Center,Sudikoff Hall,0",4.0
+03:05:2013,57600.0,30001.0,0.0,0.0,0.0,4,0.0,9000.0,45,"Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,0,0,0,0,0,0,0,Life Sciences Greenhouse,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall",1.0
+04:04:2013,46797.0,38400.0,0.0,0.0,0.0,3,0.0,7800.0,45,"Life Sciences Greenhouse,Life Sciences Greenhouse,Sudikoff Hall,Sudikoff Hall,0,0,0,0,0,0",3.1666666666666665
+04:05:2013,3600.0,85199.0,0.0,0.0,0.0,5,0.0,0.0,45,"Sudikoff Hall,Life Sciences Greenhouse,Life Sciences Greenhouse,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Remsen Medical Sciences Building",1.0
+05:04:2013,11999.0,74400.0,0.0,0.0,0.0,4,0.0,9000.0,45,"Life Sciences Greenhouse,Life Sciences Greenhouse,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,0,Class of 1978 Life Sciences Center,0",3.25
+05:05:2013,84000.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,45,"0,0,0,0,0,0,0,0",1.0
+06:04:2013,64800.0,39600.0,0.0,0.0,0.0,5,0.0,0.0,45,"Sudikoff Hall,Life Sciences Greenhouse,Life Sciences Greenhouse,Sudikoff Hall,Sudikoff Hall,0,0,0,0",2.5
+06:05:2013,50209.0,86399.0,0.0,0.0,0.0,0,0.0,11700.0,45,"0,0,Sudikoff Hall,Sudikoff Hall,0,0,0,0,0,0,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall",2.5
+07:04:2013,67197.0,1203.0,0.0,0.0,0.0,-1,0.0,0.0,45,"Sudikoff Hall,Thomas Hall,0,0",1.0
+07:05:2013,44400.0,2400.0,0.0,0.0,0.0,1,1.0,3900.0,45,"Sudikoff Hall,0,0,0,0,0,0,0,0,0,0,0,0,0",1.0
+08:04:2013,74399.0,12001.0,0.0,0.0,0.0,0,0.0,11700.0,45,"0,Sudikoff Hall,0,0,0,0,Sudikoff Hall,Life Sciences Greenhouse,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,0",2.3333333333333335
+08:05:2013,33600.0,43200.0,0.0,0.0,0.0,2,0.0,11700.0,45,"0,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,0,0,0,0,0,Class of 1978 Life Sciences Center,Sudikoff Hall",2.0
+09:04:2013,8400.0,111600.0,0.0,0.0,0.0,1,0.0,3900.0,45,"Sudikoff Hall,Life Sciences Greenhouse,Life Sciences Greenhouse,Sudikoff Hall,Sudikoff Hall,0,Sudikoff Hall",2.0
+09:05:2013,6000.0,81600.0,0.0,0.0,0.0,3,0.0,7800.0,45,"Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,0",1.0
+10:04:2013,14400.0,38400.0,0.0,0.0,0.0,2,0.0,11700.0,45,"Sudikoff Hall,0,Life Sciences Greenhouse",1.0
+10:05:2013,73200.0,27600.0,0.0,0.0,0.0,4,0.0,9000.0,45,"Life Sciences Greenhouse,0,0,0,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall",
+11:04:2013,20400.0,9600.0,55200.0,0.0,0.0,3,0.0,7800.0,45,"0,Life Sciences Greenhouse,Life Sciences Greenhouse,Sudikoff Hall,Sudikoff Hall,Dewey Parking Lot,0",1.5
+11:05:2013,52799.0,15601.0,0.0,0.0,0.0,5,0.0,0.0,45,"Sudikoff Hall,0,Dartmouth College,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+12:04:2013,9600.0,78000.0,0.0,0.0,0.0,4,0.0,9000.0,45,"Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,0,0,0,Life Sciences Greenhouse,Sudikoff Hall",1.0
+12:05:2013,106611.0,0.0,0.0,0.0,0.0,-1,0.0,0.0,45,"0,0",2.5
+13:04:2013,54000.0,48000.0,15600.0,0.0,0.0,5,0.0,0.0,45,"Sudikoff Hall,Life Sciences Greenhouse,Life Sciences Greenhouse,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,G Lot Parking,0,0,0,0,0,0,Sudikoff Hall",1.3333333333333333
+13:05:2013,73200.0,0.0,0.0,0.0,0.0,0,1.0,11700.0,45,"0,0,0,0,0,0",1.0
+14:04:2013,107008.0,8400.0,0.0,0.0,0.0,-1,0.0,0.0,45,"Sudikoff Hall,0,0",1.0
+14:05:2013,33600.0,57600.0,0.0,0.0,0.0,1,0.0,3900.0,45,"0,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,0",1.0
+15:04:2013,13233.0,17434.0,0.0,0.0,0.0,0,0.0,11700.0,45,"0,0,0,Sudikoff Hall",1.5
+15:05:2013,52506.0,20401.0,0.0,1493.0,0.0,2,0.0,11700.0,45,"Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Rauner Hall,0,0,0,0",3.6666666666666665
+16:04:2013,79225.0,19352.0,3600.0,0.0,0.0,1,0.0,3900.0,45,"Life Sciences Greenhouse,Sudikoff Hall,Sudikoff Hall,G Lot Parking,0,0,0,0,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Byrne II Hall",3.0
+16:05:2013,67200.0,20400.0,0.0,0.0,0.0,3,0.0,7800.0,45,"Sudikoff Hall,Sudikoff Hall,0,0,0,0,0,0,0,0,0,0",4.0
+17:04:2013,55200.0,10798.0,1201.0,0.0,0.0,2,0.0,11700.0,45,"Sudikoff Hall,Byrne II Hall,0,0,0,0,0,0,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,0",
+17:05:2013,16801.0,68399.0,0.0,0.0,0.0,4,0.0,9000.0,45,"Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,0,0,0,0,Sudikoff Hall",4.0
+18:04:2013,33600.0,10800.0,39601.0,0.0,0.0,3,0.0,7800.0,45,"Sudikoff Hall,Life Sciences Greenhouse,Life Sciences Greenhouse,Sudikoff Hall,G Lot Parking,0,0,0,0,0,0,0,0,0,0,Sudikoff Hall,Sudikoff Hall,0,0",1.0
+18:05:2013,6001.0,81600.0,0.0,0.0,0.0,5,0.0,0.0,45,"Sudikoff Hall,Sudikoff Hall,0,0",1.0
+19:04:2013,69600.0,19200.0,0.0,0.0,0.0,4,0.0,9000.0,45,"Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Class of 1978 Life Sciences Center,Class of 1978 Life Sciences Center,Life Sciences Greenhouse,0",
+19:05:2013,41999.0,68400.0,0.0,0.0,0.0,-1,0.0,0.0,45,"0,Sudikoff Hall,Sudikoff Hall,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sudikoff Hall,Sudikoff Hall",1.0
+20:04:2013,70801.0,13200.0,0.0,0.0,0.0,5,0.0,0.0,45,"Life Sciences Greenhouse,Life Sciences Greenhouse,Life Sciences Greenhouse,Sudikoff Hall,Sudikoff Hall,0,0,0,Sudikoff Hall",1.0
+20:05:2013,61200.0,0.0,0.0,0.0,0.0,0,1.0,11700.0,45,"0,0,0,0",1.0
+21:04:2013,50399.0,37203.0,0.0,0.0,0.0,-1,0.0,0.0,45,"Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,0,0,0,0,Sudikoff Hall,Sudikoff Hall,0",1.0
+21:05:2013,54000.0,32400.0,0.0,0.0,0.0,1,0.0,3900.0,45,"0,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,0,0,0,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall",1.0
+22:04:2013,20401.0,67199.0,0.0,0.0,0.0,0,0.0,11700.0,45,"Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Kellogg Medical Auditorium,0,0,0,0,0,0,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Life Sciences Greenhouse,Life Sciences Greenhouse,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall",2.0
+22:05:2013,0.0,88800.0,0.0,0.0,0.0,2,0.0,11700.0,45,"Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall",1.0
+23:04:2013,52802.0,31204.0,0.0,0.0,0.0,1,0.0,3900.0,45,"Sudikoff Hall,Life Sciences Greenhouse,Life Sciences Greenhouse,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,0,0,0,0,0,0,0,0,Dartmouth College,Dartmouth College,Sudikoff Hall",2.5
+23:05:2013,61199.0,22801.0,0.0,0.0,0.0,3,0.0,7800.0,45,"Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,0,0,0,0,Sudikoff Hall,Sudikoff Hall,0,0",1.0
+24:04:2013,63097.0,24001.0,0.0,0.0,0.0,2,0.0,11700.0,45,"Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Dartmouth College,Sudikoff Hall,Sudikoff Hall,0,0,0,0,Parker House,Dartmouth College",
+24:05:2013,80438.0,5962.0,0.0,0.0,0.0,4,1.0,9000.0,45,"0,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,0,0,0",1.0
+25:04:2013,24003.0,57599.0,2400.0,1700.0,0.0,3,0.0,7800.0,45,"0,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,0,0,0,0,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Dewey Parking Lot,0,Sudikoff Hall",1.0
+25:05:2013,0.0,87600.0,0.0,0.0,0.0,5,0.0,0.0,45,"Sudikoff Hall,Sudikoff Hall",
+26:04:2013,64802.0,22799.0,0.0,0.0,0.0,4,0.0,9000.0,45,"Sudikoff Hall,Sudikoff Hall,Class of 1978 Life Sciences Center,Life Sciences Greenhouse,0,0,0,0,0,Life Sciences Greenhouse,Sudikoff Hall",1.0
+26:05:2013,30001.0,55199.0,0.0,0.0,0.0,-1,0.0,0.0,45,"0,Sudikoff Hall,0,0,Sudikoff Hall,0,0",
+27:04:2013,3599.0,92774.0,0.0,0.0,0.0,5,0.0,0.0,45,"Sudikoff Hall,Life Sciences Greenhouse,Life Sciences Greenhouse,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall",1.0
+27:05:2013,54000.0,40800.0,0.0,0.0,0.0,0,0.0,11700.0,45,"0,Sudikoff Hall,0",2.0
+28:03:2013,0.0,529838.0,0.0,0.0,0.0,3,0.0,7800.0,45,Sudikoff Hall,
+28:04:2013,0.0,79200.0,0.0,0.0,0.0,-1,0.0,0.0,45,"Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall",
+28:05:2013,32400.0,51602.0,0.0,0.0,16801.0,1,0.0,3900.0,45,"Sudikoff Hall,Baker Memorial Library,Baker Memorial Library,Dartmouth College,Dartmouth College,Sudikoff Hall,Sudikoff Hall,0,0,0,0,0,0,0,0,0,0,0,0,Sudikoff Hall",
+29:04:2013,21600.0,61187.0,0.0,0.0,0.0,0,0.0,11700.0,45,"0,Sudikoff Hall,0,Sudikoff Hall,Sudikoff Hall",2.0
+29:05:2013,0.0,138484.0,0.0,0.0,0.0,2,0.0,11700.0,45,Sudikoff Hall,
+30:04:2013,44413.0,43200.0,0.0,0.0,0.0,1,0.0,3900.0,45,"Sudikoff Hall,Sudikoff Hall,Life Sciences Greenhouse,Class of 1978 Life Sciences Center,Sudikoff Hall,Sudikoff Hall,0,0,0",2.3333333333333335
+30:05:2013,1201.0,63600.0,1199.0,0.0,0.0,3,0.0,7800.0,45,"0,0,Sudikoff Hall",
+31:05:2013,21600.0,7200.0,0.0,0.0,0.0,4,0.0,9000.0,45,"Sudikoff Hall,0,0,0,0,0,0,0,Sudikoff Hall,Sudikoff Hall,Sudikoff Hall,0,0,0",5.0
